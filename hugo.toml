@@ -1,33 +1,37 @@
 baseURL = "https://aiogeolab.com/"
 languageCode = "zh-CN"
-title = "GEO优化实验室|AioGeoLab"
+title = "AioGeoLab|GEO优化实验室"  # 改为品牌名
 theme = "PaperMod"
 copyright = "© 2025 TardiAI"
 
-# 启用 Emoji 和 Git 信息
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
-
-# 分页
 pagination.pagerSize = 10
 
-# 代码高亮
 [markup]
   [markup.highlight]
     style = "monokai"
     lineNos = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      # 允许渲染原始 HTML
 
 [params]
   env = "production"
-  description = "专注生成式引擎优化(GEO)技术研究,探索 ChatGPT、Perplexity、Claude 等 AI 搜索引擎的优化策略"
-  author = "GEO Lab"
-  logo = "/logo.png" 
-
-  defaultTheme = "auto"      # light | dark | auto
-  disableThemeToggle = false   # true = 隐藏右上角切换按钮
-
-  # 显示阅读时间
+  description = "追踪、研究、实验、创作并分享海外顶级GEO实践者第一手最佳实践的技术类社区"
+  author = "塔迪Tardi"
+  
+  # Logo 配置 - 左上角显示
+  [params.label]
+    text = "GEO优化实验室"
+    icon = "/logo.png"
+    iconHeight = 35
+  
+  defaultTheme = "light"
+  disableThemeToggle = false
+  
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -35,28 +39,26 @@ pagination.pagerSize = 10
   ShowCodeCopyButtons = true
   ShowWordCount = true
   
-  # SEO
-  images = ["/images/og-image-1200x630"]
+  images = ["/images/og-image-1200x630.png"]
   
-  # 首页信息
+  # 首页信息 - 中间大横幅
   [params.homeInfoParams]
-    Title = "欢迎来到 GEO 优化实验室 👋"
-    Content = "探索 AI 时代的内容优化策略，让你的内容被 ChatGPT、Perplexity 等生成式 AI 发现和引用"
-  
+    Title = "欢迎来到 AioGeoLab 👋"
+    Content = "追踪全球顶级GEO一手实践洞察，探索AI时代的中小企业内容优化策略"
+
   # 社交链接
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/yourusername"
+  #[[params.socialIcons]]
+  #  name = "twitter"
+  #  url = "https://twitter.com/aiogeolab"
   
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/yourusername"
+    url = "https://github.com/tardiai"
   
   [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
-
-    
+    name = "wechat"
+    url = "/contact/"
+    title = "微信 / 联系方式"
 
 # 菜单
 [menu]
@@ -90,17 +92,14 @@ pagination.pagerSize = 10
     url = "/search/"
     weight = 50
 
-# 输出格式
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-# Sitemap 配置
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
-# 隐私设置
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
