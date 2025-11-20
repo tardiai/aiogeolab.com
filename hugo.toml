@@ -22,7 +22,11 @@ pagination.pagerSize = 10
   env = "production"
   description = "专注生成式引擎优化(GEO)技术研究,探索 ChatGPT、Perplexity、Claude 等 AI 搜索引擎的优化策略"
   author = "GEO Lab"
-  
+  logo = "/logo.png" 
+
+  defaultTheme = "auto"      # light | dark | auto
+  disableThemeToggle = false   # true = 隐藏右上角切换按钮
+
   # 显示阅读时间
   ShowReadingTime = true
   ShowShareButtons = true
@@ -32,7 +36,7 @@ pagination.pagerSize = 10
   ShowWordCount = true
   
   # SEO
-  images = ["/images/og-default.jpg"]
+  images = ["/images/og-image-1200x630"]
   
   # 首页信息
   [params.homeInfoParams]
@@ -51,6 +55,8 @@ pagination.pagerSize = 10
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
+
+    
 
 # 菜单
 [menu]
