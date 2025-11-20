@@ -1,0 +1,101 @@
+baseURL = "https://aiogeolab.com/"
+languageCode = "zh-CN"
+title = "GEO优化实验室|AioGeoLab"
+theme = "PaperMod"
+copyright = "© 2025 TardiAI"
+
+# 启用 Emoji 和 Git 信息
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+
+# 分页
+paginate = 10
+
+# 代码高亮
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = true
+
+[params]
+  env = "production"
+  description = "专注生成式引擎优化(GEO)技术研究,探索 ChatGPT、Perplexity、Claude 等 AI 搜索引擎的优化策略"
+  author = "GEO Lab"
+  
+  # 显示阅读时间
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  
+  # SEO
+  images = ["/images/og-default.jpg"]
+  
+  # 首页信息
+  [params.homeInfoParams]
+    Title = "欢迎来到 GEO 优化实验室 👋"
+    Content = "探索 AI 时代的内容优化策略，让你的内容被 ChatGPT、Perplexity 等生成式 AI 发现和引用"
+  
+  # 社交链接
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/yourusername"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername"
+  
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+# 菜单
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 30
+  
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 40
+  
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 50
+
+# 输出格式
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Sitemap 配置
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# 隐私设置
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
