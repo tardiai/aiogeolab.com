@@ -10,7 +10,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 # 分页
-paginate = 10
+pagination.pagerSize = 10
 
 # 代码高亮
 [markup]
