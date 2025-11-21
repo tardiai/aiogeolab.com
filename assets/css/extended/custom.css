@@ -1,0 +1,598 @@
+/*
+ * AioGeoLab 自定义样式
+ * 文件位置: assets/css/extended/custom.css
+ * 
+ * 基于 VI 体系调整:
+ * - 主题色: #009873 (品牌绿)
+ * - 辅助色: #00BF8F (亮绿)
+ * - 字号: 整体调小 1 号
+ * - 字体: Inter + PingFang SC
+ */
+
+/* ========================================
+   1. CSS 变量 - 颜色系统
+   ======================================== */
+
+:root {
+  /* ===== AioGeoLab 品牌色 ===== */
+  --brand-primary: #009873;
+  --brand-secondary: #00BF8F;
+  --brand-dark: #006B52;
+  --brand-light: #E6F7F3;
+  --brand-gradient: linear-gradient(135deg, #009873, #00BF8F);
+  
+  /* ===== 浅色主题变量覆盖 ===== */
+  --theme: #ffffff;
+  --entry: #f8f9fa;
+  --primary: #1a1a1a;
+  --secondary: #666666;
+  --tertiary: #f0f0f0;
+  --content: #333333;
+  --code-bg: #f5f5f5;
+  --border: #e0e0e0;
+  
+  /* 链接色 - 使用品牌色 */
+  --link-color: var(--brand-primary);
+  --link-hover: var(--brand-dark);
+}
+
+/* ===== 深色主题变量覆盖 ===== */
+.dark {
+  --theme: #1a1a1a;
+  --entry: #242424;
+  --primary: #ffffff;
+  --secondary: #b0b0b0;
+  --tertiary: #2a2a2a;
+  --content: #d0d0d0;
+  --code-bg: #2d2d2d;
+  --border: #3a3a3a;
+  
+  /* 深色模式链接色 - 使用亮色版品牌色 */
+  --link-color: var(--brand-secondary);
+  --link-hover: #00E5A8;
+}
+
+
+/* ========================================
+   2. 字体系统
+   ======================================== */
+
+/* 导入 Google Fonts (可选，如果需要 Inter 字体) */
+/* 如果网络加载慢，可以删除这行，使用系统字体 */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* 全局字体设置 */
+body {
+  font-family: 
+    'Inter',                    /* 英文首选 */
+    'PingFang SC',             /* macOS 中文 */
+    'Microsoft YaHei',         /* Windows 中文 */
+    'Hiragino Sans GB',        /* macOS 备选 */
+    'Noto Sans SC',            /* Linux/Android 中文 */
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  
+  /* 字体渲染优化 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* 代码字体 */
+code, pre, .post-content pre, .post-content code {
+  font-family: 
+    'JetBrains Mono',
+    'Fira Code',
+    'Monaco',
+    'Consolas',
+    'SF Mono',
+    monospace;
+}
+
+
+/* ========================================
+   3. 字号调整 - 整体调小 1 号
+   ======================================== */
+
+/* 基础字号 (原 16px → 15px) */
+body {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* 文章内容字号 */
+.post-content {
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+/* 标题字号调整 */
+.post-title,
+.post-content h1 {
+  font-size: 1.8rem;  /* 原 2rem */
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.post-content h2 {
+  font-size: 1.5rem;  /* 原 1.6rem */
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-content h3 {
+  font-size: 1.25rem;  /* 原 1.4rem */
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-content h4 {
+  font-size: 1.1rem;  /* 原 1.2rem */
+  font-weight: 600;
+}
+
+.post-content h5,
+.post-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* 首页标题 */
+.first-entry .entry-title {
+  font-size: 1.5rem;  /* 原 1.6rem */
+}
+
+.entry-title {
+  font-size: 1.25rem;  /* 原 1.4rem */
+}
+
+/* 导航菜单字号 */
+.nav {
+  font-size: 14px;  /* 原 15px */
+}
+
+#menu a {
+  font-size: 14px;
+}
+
+/* 文章元信息 */
+.post-meta {
+  font-size: 13px;  /* 原 14px */
+}
+
+/* 页脚字号 */
+.footer {
+  font-size: 13px;
+}
+
+/* 代码块字号 */
+.post-content code {
+  font-size: 0.9em;
+}
+
+.post-content pre code {
+  font-size: 13px;
+}
+
+/* 引用块 */
+.post-content blockquote {
+  font-size: 0.95em;
+}
+
+
+/* ========================================
+   4. 链接样式 - 使用品牌色
+   ======================================== */
+
+/* 正文链接 */
+.post-content a {
+  color: var(--brand-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.post-content a:hover {
+  color: var(--brand-dark);
+  border-bottom-color: var(--brand-primary);
+}
+
+/* 深色模式链接 */
+.dark .post-content a {
+  color: var(--brand-secondary);
+}
+
+.dark .post-content a:hover {
+  color: #00E5A8;
+  border-bottom-color: var(--brand-secondary);
+}
+
+/* 导航链接悬停 */
+#menu a:hover {
+  color: var(--brand-primary);
+}
+
+.dark #menu a:hover {
+  color: var(--brand-secondary);
+}
+
+
+/* ========================================
+   5. 按钮与交互元素
+   ======================================== */
+
+/* 标签样式 */
+.post-tags a {
+  background: var(--brand-light);
+  color: var(--brand-primary);
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.post-tags a:hover {
+  background: var(--brand-primary);
+  color: white;
+}
+
+.dark .post-tags a {
+  background: rgba(0, 191, 143, 0.15);
+  color: var(--brand-secondary);
+}
+
+.dark .post-tags a:hover {
+  background: var(--brand-secondary);
+  color: #1a1a1a;
+}
+
+/* 分页按钮 */
+.pagination a {
+  color: var(--brand-primary);
+}
+
+.pagination a:hover {
+  background: var(--brand-light);
+}
+
+.dark .pagination a {
+  color: var(--brand-secondary);
+}
+
+/* 阅读更多按钮 */
+.read-more {
+  color: var(--brand-primary);
+  font-weight: 500;
+}
+
+.read-more:hover {
+  color: var(--brand-dark);
+}
+
+
+/* ========================================
+   6. 代码块样式
+   ======================================== */
+
+.post-content pre {
+  background: #1a1a1a;
+  border-radius: 8px;
+  padding: 1rem;
+  overflow-x: auto;
+
+  white-space: pre-wrap;       /* 保留空格，自动换行 */
+  word-wrap: break-word;       /* 长单词换行 */
+  word-break: break-all;       /* 强制换行 */
+}
+
+.post-content pre code {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.post-content code:not(pre code) {
+  background: var(--code-bg);
+  color: var(--brand-primary);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.dark .post-content code:not(pre code) {
+  background: #2d2d2d;
+  color: var(--brand-secondary);
+}
+
+/* 代码复制按钮 */
+.copy-code {
+  background: var(--brand-primary) !important;
+  color: white !important;
+}
+
+.copy-code:hover {
+  background: var(--brand-dark) !important;
+}
+
+
+/* ========================================
+   7. 引用块样式
+   ======================================== */
+
+.post-content blockquote {
+  border-left: 4px solid var(--brand-primary);
+  background: var(--brand-light);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  color: var(--content);
+}
+
+.dark .post-content blockquote {
+  background: rgba(0, 152, 115, 0.1);
+  border-left-color: var(--brand-secondary);
+}
+
+
+/* ========================================
+   8. 目录 (TOC) 样式
+   ======================================== */
+
+.toc {
+  background: var(--entry);
+  border-radius: 8px;
+  padding: 1rem;
+  border: 1px solid var(--border);
+}
+
+.toc a {
+  color: var(--secondary);
+  font-size: 14px;
+}
+
+.toc a:hover {
+  color: var(--brand-primary);
+}
+
+.dark .toc a:hover {
+  color: var(--brand-secondary);
+}
+
+
+/* ========================================
+   9. 搜索框样式
+   ======================================== */
+
+#searchbox input {
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-size: 15px;
+  transition: border-color 0.2s ease;
+}
+
+#searchbox input:focus {
+  border-color: var(--brand-primary);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 152, 115, 0.1);
+}
+
+.dark #searchbox input:focus {
+  border-color: var(--brand-secondary);
+  box-shadow: 0 0 0 3px rgba(0, 191, 143, 0.1);
+}
+
+
+/* ========================================
+   10. 文章卡片样式
+   ======================================== */
+
+.post-entry {
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  transition: all 0.3s ease;
+}
+
+.post-entry:hover {
+  border-color: var(--brand-primary);
+  box-shadow: 0 4px 20px rgba(0, 152, 115, 0.1);
+  transform: translateY(-2px);
+}
+
+.dark .post-entry:hover {
+  border-color: var(--brand-secondary);
+  box-shadow: 0 4px 20px rgba(0, 191, 143, 0.1);
+}
+
+
+/* ========================================
+   11. 首页样式调整
+   ======================================== */
+
+/* 首页标题 */
+.home-info .entry-title,
+.profile .profile_inner h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+/* 首页描述 */
+.home-info .entry-content,
+.profile .profile_inner .tagline {
+  font-size: 15px;
+  color: var(--secondary);
+}
+
+/* 社交图标悬停 */
+.social-icons a:hover svg {
+  fill: var(--brand-primary);
+}
+
+.dark .social-icons a:hover svg {
+  fill: var(--brand-secondary);
+}
+
+
+/* ========================================
+   12. 滚动条样式 (可选)
+   ======================================== */
+
+/* Webkit 浏览器滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--tertiary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--brand-primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brand-dark);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: var(--brand-secondary);
+}
+
+
+/* ========================================
+   13. 选中文字样式
+   ======================================== */
+
+::selection {
+  background: var(--brand-primary);
+  color: white;
+}
+
+.dark ::selection {
+  background: var(--brand-secondary);
+  color: #1a1a1a;
+}
+
+
+/* ========================================
+   14. Logo 样式（左上角）
+   ======================================== */
+
+.logo a {
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--primary);
+}
+
+.logo img {
+  height: 36px;
+  width: auto;
+}
+
+.logo a:hover {
+  color: var(--brand-primary);
+}
+
+.dark .logo a:hover {
+  color: var(--brand-secondary);
+}
+
+
+/* ========================================
+   15. 响应式调整
+   ======================================== */
+
+/* 平板设备 */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  
+  .post-content {
+    font-size: 14px;
+  }
+  
+  .post-title,
+  .post-content h1 {
+    font-size: 1.5rem;
+  }
+  
+  .post-content h2 {
+    font-size: 1.3rem;
+  }
+  
+  .post-content h3 {
+    font-size: 1.15rem;
+  }
+  
+  .entry-title {
+    font-size: 1.1rem;
+  }
+}
+
+/* 手机设备 */
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+  
+  .post-title,
+  .post-content h1 {
+    font-size: 1.35rem;
+  }
+  
+  .post-content h2 {
+    font-size: 1.2rem;
+  }
+  
+  .nav {
+    font-size: 13px;
+  }
+}
+
+
+/* ========================================
+   16. 打印样式
+   ======================================== */
+
+@media print {
+  body {
+    font-size: 12pt;
+    color: black;
+    background: white;
+  }
+  
+  a {
+    color: var(--brand-primary);
+  }
+  
+  .nav, .footer, .toc {
+    display: none;
+  }
+}
+
+/* 文章元信息样式 */
+.post-meta {
+  color: var(--secondary);
+  font-size: 13px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* 分隔符 */
+.post-meta span::before {
+  content: "·";
+  margin-right: 8px;
+  color: #ccc;
+}
+
+.post-meta span:first-child::before {
+  display: none;
+}

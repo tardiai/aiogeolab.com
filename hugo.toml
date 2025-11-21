@@ -4,6 +4,9 @@ title = "AioGeoLab|GEO优化实验室"  # 改为品牌名
 theme = "PaperMod"
 copyright = "© 2025 TardiAI"
 
+# 启用中文字数统计（添加这行）
+hasCJKLanguage = true
+
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
@@ -11,8 +14,14 @@ pagination.pagerSize = 10
 
 [markup]
   [markup.highlight]
-    style = "monokai"
-    lineNos = true
+    style = "monokai" 
+    lineNos = false
+    lineNumbersInTable = true   # 行号用表格方式显示（方便复制代码）
+    noClasses = true            # 使用内联样式
+    guessSyntax = true          # 自动猜测语言
+    codeFences = true           # 支持 ``` 代码块
+    tabWidth = 4                # Tab 宽度
+
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
@@ -39,11 +48,12 @@ pagination.pagerSize = 10
   ShowCodeCopyButtons = true
   ShowWordCount = true
   
+
   images = ["/images/og-image-1200x630.png"]
   
   # 首页信息 - 中间大横幅
   [params.homeInfoParams]
-    Title = "欢迎来到 AioGeoLab 👋"
+    Title = "欢迎来到 AioGeoLab|GEO优化实验室 👋"
     Content = "追踪全球顶级GEO一手实践洞察，探索AI时代的中小企业内容优化策略"
 
   # 社交链接
@@ -59,6 +69,11 @@ pagination.pagerSize = 10
     name = "wechat"
     url = "/contact/"
     title = "微信 / 联系方式"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:44279@qq.com"
+    title = "发送邮件"
 
 # 菜单
 [menu]

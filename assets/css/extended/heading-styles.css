@@ -1,0 +1,171 @@
+/*
+ * AioGeoLab 标题装饰样式
+ * 文件位置: assets/css/extended/heading-styles.css
+ * 
+ * 使用方法:
+ * - 想要绿条: 保留此文件
+ * - 想要去掉: 删除此文件，或将内容注释掉
+ *
+ * 可单独控制每级标题的绿条显示
+ */
+
+
+/* ========================================
+   方案 A: 只有 H2 有绿条（推荐）
+   ======================================== */
+
+.post-content h2 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.post-content h2::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 1.2em;
+  background: linear-gradient(180deg, #009873, #00BF8F);
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+/* 深色模式 */
+.dark .post-content h2::before {
+  background: linear-gradient(180deg, #00BF8F, #00E5A8);
+}
+
+
+/* ========================================
+   方案 B: H2 和 H3 都有绿条
+   如果想启用，取消下面的注释
+   ======================================== */
+
+/*
+.post-content h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.post-content h3::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 1em;
+  background: #009873;
+  border-radius: 2px;
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+
+.dark .post-content h3::before {
+  background: #00BF8F;
+}
+*/
+
+
+/* ========================================
+   方案 C: 全部标题都有绿条（递减样式）
+   如果想启用，取消下面的注释
+   ======================================== */
+
+/*
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  display: flex;
+  align-items: center;
+}
+
+.post-content h2::before,
+.post-content h3::before,
+.post-content h4::before {
+  content: '';
+  display: inline-block;
+  border-radius: 2px;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.post-content h2::before {
+  width: 4px;
+  height: 1.2em;
+  background: linear-gradient(180deg, #009873, #00BF8F);
+}
+
+.post-content h3::before {
+  width: 3px;
+  height: 1em;
+  background: #009873;
+  opacity: 0.8;
+}
+
+.post-content h4::before {
+  width: 3px;
+  height: 0.9em;
+  background: #009873;
+  opacity: 0.6;
+}
+
+.dark .post-content h2::before {
+  background: linear-gradient(180deg, #00BF8F, #00E5A8);
+}
+
+.dark .post-content h3::before {
+  background: #00BF8F;
+}
+
+.dark .post-content h4::before {
+  background: #00BF8F;
+}
+*/
+
+
+/* ========================================
+   方案 D: 左边框样式（另一种风格）
+   如果想用边框代替绿条，取消下面的注释
+   并注释掉上面的 ::before 样式
+   ======================================== */
+
+/*
+.post-content h2 {
+  padding-left: 12px;
+  border-left: 4px solid;
+  border-image: linear-gradient(180deg, #009873, #00BF8F) 1;
+}
+
+.post-content h3 {
+  padding-left: 10px;
+  border-left: 3px solid #009873;
+  opacity: 0.9;
+}
+
+.dark .post-content h2 {
+  border-image: linear-gradient(180deg, #00BF8F, #00E5A8) 1;
+}
+
+.dark .post-content h3 {
+  border-left-color: #00BF8F;
+}
+*/
+
+
+/* ========================================
+   额外优化: 标题下划线装饰（可选）
+   ======================================== */
+
+/*
+.post-content h2::after {
+  content: '';
+  flex-grow: 1;
+  height: 1px;
+  background: linear-gradient(90deg, #009873, transparent);
+  margin-left: 15px;
+  opacity: 0.3;
+}
+
+.dark .post-content h2::after {
+  background: linear-gradient(90deg, #00BF8F, transparent);
+}
+*/
