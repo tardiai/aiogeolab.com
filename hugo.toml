@@ -1,5 +1,6 @@
 baseURL = "https://aiogeolab.com/"
-languageCode = "zh-CN"
+languageCode = "zh"
+defaultContentLanguage = "zh"
 title = "AioGeoLab|GEO优化实验室"  # 改为品牌名
 theme = "PaperMod"
 copyright = "© 2025 TardiAI"

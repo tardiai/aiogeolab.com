@@ -1,0 +1,14 @@
+read_time:
+  other: "{{ .Count }} 分钟"
+
+words:
+  other: "约 {{ .Count }} 字"
+
+prev_page: "上一页"
+next_page: "下一页"
+toc: "目录"
+translations: "语言"
+home: "主页"
+edit_post: "编辑"
+code_copy: "复制"
+code_copied: "已复制！"

@@ -1,0 +1,17 @@
+{{/* 自定义模板：强制显示阅读时间和字数，解决 PaperMod 参数读取问题 */}}
+{{- $scratch := newScratch }}
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- $scratch.Add "meta" (slice (printf "<span>%d 分钟</span>" .ReadingTime)) }}
+{{- $scratch.Add "meta" (slice (printf "<span>约 %d 字</span>" .WordCount)) }}
+
+{{- if not (.Param "hideAuthor") -}}
+{{- with (partial "author.html" .) }}
+{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+{{- end }}
+{{- end }}
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}

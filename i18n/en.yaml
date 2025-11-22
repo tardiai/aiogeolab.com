@@ -1,0 +1,7 @@
+- id: read_time
+  one: "1 min read"
+  other: "{{ .Count }} min read"
+
+- id: words
+  one: "1 word"
+  other: "{{ .Count }} words"
