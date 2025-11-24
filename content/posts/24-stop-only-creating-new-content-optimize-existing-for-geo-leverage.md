@@ -1,29 +1,35 @@
 ---
-title: 别再只写新内容了：存量优化才是GEO的最大杠杆
-date: 2025-11-20
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 内容工程
-categories: [GEO实战体系, GEO内容工程]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-24-stop-only-creating-new-content-optimize-existing-for-geo-leverage.png
-  alt: 24-stop-only-creating-new-content-optimize-existing-for-geo-leverage
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+- GEO内容工程
+cover:
+  alt: 别再只写新内容了：存量优化才是GEO的最大杠杆
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-24-stop-only-creating-new-content-optimize-existing-for-geo-leverage.png
+coverKeyword: 存量内容First
+date: 2025-11-20
+description: null
+draft: false
+tags:
+- 内容优化
+- GEO
+- 内容刷新
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 内容工程
+title: 别再只写新内容了：存量优化才是GEO的最大杠杆
 ---
+
 # 别再只写新内容了：存量优化才是GEO的最大杠杆
 
 你的团队今年写了200篇新内容，但AI搜索引用率只提升了8%。

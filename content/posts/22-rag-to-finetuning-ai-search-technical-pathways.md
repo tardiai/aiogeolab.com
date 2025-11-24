@@ -1,29 +1,34 @@
 ---
-title: 从RAG到Fine-tuning：AI搜索的两条技术路线
-date: 2025-11-18
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories: [GEO基础理论]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-22-rag-to-finetuning-ai-search-technical-pathways.png
-  alt: 22-rag-to-finetuning-ai-search-technical-pathways
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO基础理论
+cover:
+  alt: 从RAG到Fine-tuning：AI搜索的两条技术路线
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-22-rag-to-finetuning-ai-search-technical-pathways.png
+coverKeyword: 不同技术不同路线
+date: 2025-11-18
+description: null
+draft: false
+tags:
+- RAG
+- FineTuning
+- GEO
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: 从RAG到Fine-tuning：AI搜索的两条技术路线
 ---
+
 # 从RAG到Fine-tuning：AI搜索的两条技术路线
 你花3个月优化的GEO内容，在Perplexity里被高频引用，在ChatGPT里却几乎隐形。
 

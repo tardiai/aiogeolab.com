@@ -1,28 +1,33 @@
 ---
-title: 视频内容的GEO策略：从字幕到视觉语义的全面优化
-date: 2025-11-12
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories: [GEO实战体系, GEO内容工程]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-16-video-geo-strategy-subtitle-visual-semantics-optimization.png
-  alt: 16-video-geo-strategy-subtitle-visual-semantics-optimization
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+- GEO内容工程
+cover:
+  alt: 视频内容的GEO策略：从字幕到视觉语义的全面优化
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-16-video-geo-strategy-subtitle-visual-semantics-optimization.png
+coverKeyword: 如何GEO视频
+date: 2025-11-12
+description: null
+draft: false
+tags:
+- 视频优化
+- GEO
+- 多模态
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: 视频内容的GEO策略：从字幕到视觉语义的全面优化
 ---
 
 # 视频内容的GEO策略：从字幕到视觉语义的全面优化

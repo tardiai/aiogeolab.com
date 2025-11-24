@@ -1,29 +1,35 @@
 ---
-title: PDF、PPT、Excel：文档类内容的GEO优化方法
-date: 2025-11-13
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 内容工程
-categories: [GEO内容工程, GEO实战体系]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-17-pdf-ppt-excel-geo-optimization-tactics.png
-  alt: 17-pdf-ppt-excel-geo-optimization-tactics
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO内容工程
+- GEO实战体系
+cover:
+  alt: PDF、PPT、Excel：文档类内容的GEO优化方法
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-17-pdf-ppt-excel-geo-optimization-tactics.png
+coverKeyword: 如何GEO你的文档
+date: 2025-11-13
+description: null
+draft: false
+tags:
+- 文档优化
+- GEO
+- 多模态
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 内容工程
+title: PDF、PPT、Excel：文档类内容的GEO优化方法
 ---
+
 # PDF、PPT、Excel：文档类内容的GEO优化方法
 
 你的企业白皮书下载量破万，行业报告被各大平台转载，数据看起来很漂亮。但当客户问ChatGPT"XX行业2025年趋势报告"，问Kimi"XX领域权威数据来源"时，你的文档从未被引用过。

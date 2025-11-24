@@ -1,29 +1,33 @@
 ---
-title: AEO、GEO、LLM优化：三个概念的边界与联系
-date: 2025-11-07
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories: GEO基础理论
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-11-aeo-geo-llm-optimization-boundaries-connections.png
-  alt: 11-aeo-geo-llm-optimization-boundaries-connections
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO基础理论
+cover:
+  alt: AEO、GEO、LLM优化：三个概念的边界与联系
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-11-aeo-geo-llm-optimization-boundaries-connections.png
+coverKeyword: AEO-GEO-LLMO
+date: 2025-11-07
+description: null
+draft: false
+tags:
+- LLMO
+- GEO
+- 零号位
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: AEO、GEO、LLM优化：三个概念的边界与联系
 ---
+
 # AEO、GEO、LLM优化：三个概念的边界与联系
 
 你听到AEO，点头说懂了。

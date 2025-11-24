@@ -1,28 +1,32 @@
 ---
-title: E-E-A-T：AI搜索时代的信任货币
-date: 2025-10-30
-draft: false
-description: 
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-categories: GEO基础理论
-author: 塔迪Tardi
-cover:
-  image: "/images/cover/AioGeoLab-cover-3-eeat-trust-currency-ai-search-era.png"
-  alt: "3-eeat-trust-currency-ai-search-era"
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO基础理论
+cover:
+  alt: E-E-A-T：AI搜索时代的信任货币
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-3-eeat-trust-currency-ai-search-era.png
+coverKeyword: EEAT信任货币
+date: 2025-10-30
+description: null
+draft: false
+tags:
+- EEAT
+- GEO
+- 信任
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: E-E-A-T：AI搜索时代的信任货币
 ---
+
 # E-E-A-T：AI搜索时代的信任货币
 你的内容专业度拉满，数据详实，逻辑严密。
 

@@ -1,29 +1,35 @@
 ---
-title: AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
-date: 2025-11-19
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 搜索意图
-categories: [GEO基础理论, GEO实战体系]
-author: 塔迪Tardi
-cover:
-  image: "/images/cover/AioGeoLab-cover-23-ai-search-intent-shift-informational-intercepted-decision-transaction.png"
-  alt: "23-ai-search-intent-shift-informational-intercepted-decision-transaction"
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO基础理论
+- GEO实战体系
+cover:
+  alt: AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-23-ai-search-intent-shift-informational-intercepted-decision-transaction.png
+coverKeyword: 少了但更精准了
+date: 2025-11-19
+description: null
+draft: false
+tags:
+- 搜索意图
+- GEO
+- 零点击
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- null
+title: AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
 ---
+
 # AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
 
 你的GEO内容被AI引用100次，带来的转化却只有5个。

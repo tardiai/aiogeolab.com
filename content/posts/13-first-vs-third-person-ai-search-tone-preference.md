@@ -1,30 +1,34 @@
 ---
-title: 第一人称还是第三人称？AI搜索对内容语态的偏好分析
-date: 2025-11-09
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories:
-  - GEO实战体系
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-13-first-vs-third-person-ai-search-tone-preference.png
-  alt: 13-first-vs-third-person-ai-search-tone-preference
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+cover:
+  alt: 第一人称还是第三人称？AI搜索对内容语态的偏好分析
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-13-first-vs-third-person-ai-search-tone-preference.png
+coverKeyword: AI也关注你的语态
+date: 2025-11-09
+description: null
+draft: false
+tags:
+- 内容工程
+- GEO
+- 语态
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: 第一人称还是第三人称？AI搜索对内容语态的偏好分析
 ---
+
 # 第一人称还是第三人称？AI搜索对内容语态的偏好分析
 你写产品评测，用第三人称："该产品经过测试，结果显示..."
 

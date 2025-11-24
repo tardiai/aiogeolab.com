@@ -1,30 +1,34 @@
 ---
-title: AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
-date: 2025-11-01
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 内容工程
-  - 内容优化
-categories: GEO内容工程
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-5-ai-search-content-structures-citation-rate-comparison.png
-  alt: 5-ai-search-content-structures-citation-rate-comparison
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO内容工程
+cover:
+  alt: AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-5-ai-search-content-structures-citation-rate-comparison.png
+coverKeyword: 五种内容结构
+date: 2025-11-01
+description: null
+draft: false
+tags:
+- 内容工程
+- GEO
+- 内容结构
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 内容工程
+- 内容优化
+title: AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
 ---
+
 # AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
 
 你的文章逻辑严密，数据翔实，洞察深刻。

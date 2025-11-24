@@ -1,30 +1,34 @@
 ---
-title: AI Agent时代的GEO：从被动检索到主动推荐
-date: 2025-11-14
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - Agent
-categories:
-  - GEO实战体系
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-18-ai-agent-geo-passive-search-to-proactive-recommendation.png
-  alt: 18-ai-agent-geo-passive-search-to-proactive-recommendation
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+cover:
+  alt: AI Agent时代的GEO：从被动检索到主动推荐
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-18-ai-agent-geo-passive-search-to-proactive-recommendation.png
+coverKeyword: 让AI主动帮你推荐
+date: 2025-11-14
+description: null
+draft: false
+tags:
+- 内容优化
+- GEO
+- 流程优化
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- Agent
+title: AI Agent时代的GEO：从被动检索到主动推荐
 ---
+
 # AI Agent时代的GEO：从被动检索到主动推荐
 你的GEO做得很好：内容被ChatGPT引用了，品牌在Kimi上可见了，AI搜索流量也来了。数据看起来不错，但转化率还是惨淡。
 

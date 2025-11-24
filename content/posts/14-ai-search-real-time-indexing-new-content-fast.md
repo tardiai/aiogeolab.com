@@ -1,29 +1,33 @@
 ---
-title: AI搜索的实时性问题：如何让新内容快速被索引
-date: 2025-11-10
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 收录
-categories: [GEO实战体系]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-14-ai-search-real-time-indexing-new-content-fast.png
-  alt: 14-ai-search-real-time-indexing-new-content-fast
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+cover:
+  alt: AI搜索的实时性问题：如何让新内容快速被索引
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-14-ai-search-real-time-indexing-new-content-fast.png
+coverKeyword: 如何让AI快速了解你
+date: 2025-11-10
+description: null
+draft: false
+tags:
+- 索引
+- 收录
+- GEO
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: AI搜索的实时性问题：如何让新内容快速被索引
 ---
+
 # AI搜索的实时性问题：如何让新内容快速被索引
 
 你两周前发布了一篇重磅文章。

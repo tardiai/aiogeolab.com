@@ -1,30 +1,33 @@
 ---
-title: ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
-date: 2025-10-31
-draft: false
-description:
-tags: 
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - ChatGPT
-  - 引用
-categories: GEO基础理论
-author: 塔迪Tardi
-cover:
-  image: "/images/cover/AioGeoLab-cover-4-chatgpt-citation-mechanism-context-window-deep-dive.png"
-  alt: "4-chatgpt-citation-mechanism-context-window-deep-dive"
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO基础理论
+cover:
+  alt: ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-4-chatgpt-citation-mechanism-context-window-deep-dive.png
+coverKeyword: 引用机制深度解释
+date: 2025-10-31
+description: null
+draft: false
+tags:
+- 引用
+- GEO
+- 上下文窗口
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- ChatGPT
+title: ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
 ---
+
 # ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
 
 你的内容写得专业、数据详实、逻辑严密。

@@ -1,29 +1,32 @@
 ---
-title: GEO的投入产出模型：什么时候该启动GEO？
-date: 2025-11-05
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - ROI
-categories: GEO评估体系
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-9-geo-roi-model-when-to-launch.png
-  alt: 9-geo-roi-model-when-to-launch
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO评估体系
+cover:
+  alt: GEO的投入产出模型：什么时候该启动GEO？
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-9-geo-roi-model-when-to-launch.png
+coverKeyword: GEO的ROI
+date: 2025-11-05
+description: null
+draft: false
+tags:
+- ROI
+- 价值模型
+- GEO
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: GEO的投入产出模型：什么时候该启动GEO？
 ---
+
 # GEO的投入产出模型：什么时候该启动GEO？
 
 你问老板要GEO预算。

@@ -1,30 +1,37 @@
 ---
-title: AI搜索的语义场优化：如何让你的内容覆盖“相关查询”而非单点关键词
-date: 2025-11-23
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-  - 语义场
-categories: [GEO实战体系, GEO内容工程, GEO基础理论]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-27-ai-search-semantic-field-optimization-related-queries.png
-  alt: 27-ai-search-semantic-field-optimization-related-queries
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+- GEO内容工程
+- GEO基础理论
+cover:
+  alt: AI搜索的语义场优化：如何让你的内容覆盖“相关查询”而非单点关键词
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-27-ai-search-semantic-field-optimization-related-queries.png
+coverKeyword: 语义场 no 关键词
+date: 2025-11-23
+description: null
+draft: false
+tags:
+- 语义场
+- GEO
+- 主题集群
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+- null
+title: AI搜索的语义场优化：如何让你的内容覆盖“相关查询”而非单点关键词
 ---
+
 # AI搜索的语义场优化：如何让你的内容覆盖“相关查询”而非单点关键词
 
 你的内容关键词排名第一，但ChatGPT就是不引用你。

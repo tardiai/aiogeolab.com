@@ -1,19 +1,22 @@
 ---
-title: AI 搜索新范式：生成引擎优化（GEO）入门
-date: 2025-10-28
-draft: false
-description:
-tags:
-  - GEO
-  - 优化
-categories: GEO基础理论
-author: 塔迪Tardi
-cover:
-  image: "/images/cover/AioGeoLab-cover-1-ai-search-engine-optimize-geo-guide.png"
-  alt: "1-ai-search-engine-optimize-geo-guide"
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO基础理论
+cover:
+  alt: AI 搜索新范式：生成引擎优化（GEO）入门
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-1-ai-search-optimize-geo-guide.png
+coverKeyword: GEO入门
+date: 2025-10-28
+description: null
+draft: false
+tags:
+- GEO
+- 优化
+- 生成式引擎
+title: AI 搜索新范式：生成引擎优化（GEO）入门
 ---
 
 # AI 搜索新范式：生成引擎优化（GEO）入门
@@ -69,7 +72,7 @@ GEO的重要性体现在以下三个方面：
     -   **引用来源**：添加相关的参考文献或权威性数据。
     -   **使用统计数据**：尽可能采用定量数据来支持论点。
     -   **引用专家语录**：增加可信专家的引言，提升内容权威性。
-        
+    
 2.  **优化内容结构**
     AI青睐结构清晰、简洁明了的内容。以下是优化的关键点：
     
@@ -77,7 +80,7 @@ GEO的重要性体现在以下三个方面：
     -   **直接回答和摘要**：每个段落或章节开头，提供简短的总结。
     -   **语义化标签**：使用清晰的标题层级（H1-H4）来组织内容结构。
     -   **结构化数据标记**：使用Schema.org标记（如FAQPage、HowTo、Product）帮助AI更好地理解内容。
-        
+    
 3.  **多平台布局**  
     AI会从互联网上抓取信息，不限于官方网站。扩展你的内容布局至社交平台和社区网站（如Reddit、知乎、Quora）也能增加AI的曝光机会。
     

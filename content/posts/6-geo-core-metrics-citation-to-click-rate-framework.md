@@ -1,28 +1,32 @@
 ---
-title: GEO的5个核心指标：从引用率到点击率的完整体系
-date: 2025-11-02
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-categories: GEO评估体系
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-6-geo-core-metrics-citation-to-click-rate-framework.png
-  alt: 6-geo-core-metrics-citation-to-click-rate-framework
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO评估体系
+cover:
+  alt: GEO的5个核心指标：从引用率到点击率的完整体系
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-6-geo-core-metrics-citation-to-click-rate-framework.png
+coverKeyword: GEO核心指标
+date: 2025-11-02
+description: null
+draft: false
+tags:
+- 指标
+- 引用率
+- GEO
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: GEO的5个核心指标：从引用率到点击率的完整体系
 ---
+
 # GEO的5个核心指标：从引用率到点击率的完整体系
 
 你的内容被ChatGPT引用了。

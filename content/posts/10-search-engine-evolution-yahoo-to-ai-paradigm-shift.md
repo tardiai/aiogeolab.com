@@ -1,28 +1,32 @@
 ---
-title: 搜索引擎30年：从Yahoo到AI搜索的范式更替
-date: 2025-11-06
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-categories: GEO基础理论
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-10-search-engine-evolution-yahoo-to-ai-paradigm-shift.png
-  alt: 10-search-engine-evolution-yahoo-to-ai-paradigm-shift
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO基础理论
+cover:
+  alt: 搜索引擎30年：从Yahoo到AI搜索的范式更替
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-10-search-engine-evolution-yahoo-to-ai-paradigm-shift.png
+coverKeyword: 搜索大历史观
+date: 2025-11-06
+description: null
+draft: false
+tags:
+- 搜索引擎
+- GEO
+- 范式转移
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: 搜索引擎30年：从Yahoo到AI搜索的范式更替
 ---
+
 # 搜索引擎30年：从Yahoo到AI搜索的范式更替
 30年前，你想找个网站，得记住URL手动输入。
 
@@ -413,5 +417,5 @@ ChatGPT提供自定义指令功能，允许用户通过指定首选回答风格�
 **搜索引擎的30年是三次范式更替的历史——从Yahoo的人工目录到Google的PageRank算法再到ChatGPT的大语言模型，每次更替都改变了人类获取信息的方式，也创造了新的商业巨头，而现在正处于第三次更替的早期，掌握GEO的人正在建立下一个10年的竞争优势。**
 
 ---
-> 我是「AioGeoLab」主理人塔迪Tardi，AioGeoLab是追踪、研究、实验、创作并分享海外顶级GEO实践者**第一手最佳实践**的技术类社区，为广大GEO、SEO从业者提供深度的内容、社群、推广、培训、平台相关的服务。  
+> 我是「AioGeoLab」主理人塔迪Tardi，AioGeoLab是追踪、研究、实验、创作并分享海外顶级GEO实践者**第一手最佳实践**的技术类社区，为广大GEO、SEO从业者提供深度的内容、社群、推广、培训、平台相关的服务。
 我们认为：知识的应用和经验的碰撞才能够赋予知识生命力，对于一个新兴的领域 - GEO，尤其如此。我们会逐步开放我们的社区以及知识库，感兴趣的朋友可以先加小编的微信 - tardyai2025。

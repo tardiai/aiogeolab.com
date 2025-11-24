@@ -1,29 +1,34 @@
 ---
-title: 60%引用出错：如何让AI“正确”标注你的来源？
-date: 2025-11-22
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories: [GEO实战体系]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-26-ai-citation-accuracy-correct-source-labeling.png
-  alt: 26-ai-citation-accuracy-correct-source-labeling
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+cover:
+  alt: 60%引用出错：如何让AI“正确”标注你的来源？
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-26-ai-citation-accuracy-correct-source-labeling.png
+coverKeyword: AI如何正确引用
+date: 2025-11-22
+description: null
+draft: false
+tags:
+- AI引用
+- 提及
+- GEO
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: 60%引用出错：如何让AI“正确”标注你的来源？
 ---
+
 # 60%引用出错：如何让AI“正确”标注你的来源？
 
 你的内容被ChatGPT引用了。

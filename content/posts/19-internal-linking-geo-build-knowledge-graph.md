@@ -1,29 +1,35 @@
 ---
-title: 内部链接for GEO：如何构建内容知识图谱
-date: 2025-11-15
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories: [GEO实战体系, GEO基础理论]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-19-internal-linking-geo-build-knowledge-graph.png
-  alt: 19-internal-linking-geo-build-knowledge-graph
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+- GEO基础理论
+cover:
+  alt: 内部链接for GEO：如何构建内容知识图谱
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-19-internal-linking-geo-build-knowledge-graph.png
+coverKeyword: AI内容导购
+date: 2025-11-15
+description: null
+draft: false
+tags:
+- 知识图谱
+- GEO
+- 内链
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: 内部链接for GEO：如何构建内容知识图谱
 ---
+
 # 内部链接for GEO：如何构建内容知识图谱
 你有100篇优质文章，每篇都做了GEO优化，关键词布局合理，E-E-A-T信号清晰。但ChatGPT搜索相关主题时，只引用了你的3篇内容。
 

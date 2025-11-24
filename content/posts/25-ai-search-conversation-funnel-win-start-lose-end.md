@@ -1,28 +1,33 @@
 ---
-title: AI搜索的对话漏斗：为什么你赢了开头，却输了结局
-date: 2025-11-21
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-categories: [GEO实战体系]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-25-ai-search-conversation-funnel-win-start-lose-end.png
-  alt: 25-ai-search-conversation-funnel-win-start-lose-end
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+cover:
+  alt: AI搜索的对话漏斗：为什么你赢了开头，却输了结局
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-25-ai-search-conversation-funnel-win-start-lose-end.png
+coverKeyword: 多轮对话AI搜索
+date: 2025-11-21
+description: null
+draft: false
+tags:
+- 对话漏斗
+- 零点击
+- GEO
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: AI搜索的对话漏斗：为什么你赢了开头，却输了结局
 ---
+
 # AI搜索的对话漏斗：为什么你赢了开头，却输了结局
 
 你的GEO内容在ChatGPT被引用，用户满意地点了头。但当他继续追问"那具体怎么选择"、"有什么工具推荐"时，AI引用的全是竞品内容。不是你的内容不够好，而是你只准备了开头儿。

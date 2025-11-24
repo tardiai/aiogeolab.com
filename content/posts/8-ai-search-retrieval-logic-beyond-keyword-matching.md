@@ -1,28 +1,32 @@
 ---
-title: AI搜索的信息检索逻辑：为什么不是关键词匹配
-date: 2025-11-04
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-categories: GEO基础理论
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-8-ai-search-retrieval-logic-beyond-keyword-matching.png
-  alt: 8-ai-search-retrieval-logic-beyond-keyword-matching
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories: GEO基础理论
+cover:
+  alt: AI搜索的信息检索逻辑：为什么不是关键词匹配
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-8-ai-search-retrieval-logic-beyond-keyword-matching.png
+coverKeyword: 关键词搜索已死
+date: 2025-11-04
+description: null
+draft: false
+tags:
+- 关键词搜索
+- GEO
+- 语义搜索
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+title: AI搜索的信息检索逻辑：为什么不是关键词匹配
 ---
+
 # AI搜索的信息检索逻辑：为什么不是关键词匹配
 
 你在Google输入"降噪耳机推荐"，排第一。

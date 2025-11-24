@@ -1,29 +1,35 @@
 ---
-title: 标题、摘要、正文：AI搜索如何扫描你的内容
-date: 2025-11-16
-draft: false
-description:
-tags:
-  - GEO
-  - 生成式引擎
-  - AI
-  - AEO
-  - SEO
-  - AIO
-  - EEAT
-  - LLM
-  - 大语言模型
-  - 优化
-  - 反向工程
-categories: [GEO实战体系, GEO基础理论]
-author: 塔迪Tardi
-cover:
-  image: /images/cover/AioGeoLab-cover-20-title-abstract-body-ai-search-scanning-behavior.png
-  alt: 20-title-abstract-body-ai-search-scanning-behavior
-  caption: ""
 ShowToc: true
 TocOpen: true
+author: 塔迪Tardi
+categories:
+- GEO实战体系
+- GEO基础理论
+cover:
+  alt: 标题、摘要、正文：AI搜索如何扫描你的内容
+  hidden: false
+  image: /images/cover/AioGeoLab-cover-20-title-abstract-body-ai-search-scanning-behavior.png
+coverKeyword: AI扫描的真相
+date: 2025-11-16
+description: null
+draft: false
+tags:
+- 文案专家
+- GEO
+- 内容提取
+- 生成式引擎
+- AI
+- AEO
+- SEO
+- AIO
+- EEAT
+- LLM
+- 大语言模型
+- 优化
+- 反向工程
+title: 标题、摘要、正文：AI搜索如何扫描你的内容
 ---
+
 # 标题、摘要、正文：AI搜索如何扫描你的内容
 你花3小时写完一篇5000字文章，AI只用0.3秒扫描完。但它到底看了什么？
 
