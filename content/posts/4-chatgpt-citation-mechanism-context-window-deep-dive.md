@@ -1,33 +1,33 @@
 ---
+title: ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
+date: 2025-10-31
+draft: false
+coverKeyword: 引用机制深度解释
+description: 你的内容为何被chatgpt忽略？本文提供引用机制深度解释，揭秘chatgpt如何通过“索引候选池”、“召回到上下文窗口” 和“窗口到引用”三道关卡召回内容。理解AI搜索的关键战场——128k token的上下文窗口，以及如何通过向量检索、RAG 和引用链分析机制提升召回率。掌握结构化答案和建立跨平台引用网络等策略，提升内容被引用的转化率。
+tldr: chatgpt的引用转化率只有0.1%，内容需过三道门；行动：用列表和表格结构化答案，建立跨平台权威信号，单次高质量引用胜过100篇孤立内容。
+tags: 
+  - 引用
+  - GEO
+  - 上下文窗口
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - ChatGPT
+categories: GEO基础理论
+author: 塔迪Tardi
+cover:
+  image: "/images/cover/AioGeoLab-cover-4-chatgpt-citation-mechanism-context-window-deep-dive.png"
+  alt: "4-chatgpt-citation-mechanism-context-window-deep-dive"
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO基础理论
-cover:
-  alt: ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-4-chatgpt-citation-mechanism-context-window-deep-dive.png
-coverKeyword: 引用机制深度解释
-date: 2025-10-31
-description: null
-draft: false
-tags:
-- 引用
-- GEO
-- 上下文窗口
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- ChatGPT
-title: ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
 ---
-
 # ChatGPT引用机制深度解析：你的内容如何进入上下文窗口
 
 你的内容写得专业、数据详实、逻辑严密。

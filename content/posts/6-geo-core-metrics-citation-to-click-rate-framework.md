@@ -1,32 +1,32 @@
 ---
+title: GEO的5个核心指标：从引用率到点击率的完整体系
+date: 2025-11-02
+draft: false
+coverKeyword: GEO核心指标
+description: 在AI时代，传统排名的点击率一年内腰斩45%。本文构建GEO核心指标的完整度量体系：以引用率（citation rate）为北极星指标，搭配品牌提及率、AI可见性份额（sov）衡量影响力。数据显示，AI流量虽然少，但转化率是google的2.9倍，客单价高出39%。掌握这5个递进式指标，助你从“优化排名”升级到“优化影响力”。
+tldr: 传统点击率已崩塌45%，AI流量转化率高2.9倍；行动：立即追踪引用率和AI可见性份额，用正确指标衡量GEO影响力，将影响力优先于流量。
+tags:
+  - 指标
+  - 引用率
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: GEO评估体系
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-6-geo-core-metrics-citation-to-click-rate-framework.png
+  alt: 6-geo-core-metrics-citation-to-click-rate-framework
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO评估体系
-cover:
-  alt: GEO的5个核心指标：从引用率到点击率的完整体系
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-6-geo-core-metrics-citation-to-click-rate-framework.png
-coverKeyword: GEO核心指标
-date: 2025-11-02
-description: null
-draft: false
-tags:
-- 指标
-- 引用率
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: GEO的5个核心指标：从引用率到点击率的完整体系
 ---
-
 # GEO的5个核心指标：从引用率到点击率的完整体系
 
 你的内容被ChatGPT引用了。

@@ -1,32 +1,32 @@
 ---
+title: E-E-A-T：AI搜索时代的信任货币
+date: 2025-10-30
+draft: false
+coverKeyword: EEAT信任货币
+description: 为何你的专业内容不被AI引用？答案在于E-E-A-T的底层重构。本文深度解析AI搜索时代的eeat信任货币：从“知道”到“做过”的经验（experience）；深度打败广度的专业性（expertise）；被引用才是硬通货的权威性（authoritativeness）；以及细节暴露底牌的可信度（trustworthiness）。了解如何用这四个维度建立内容战略，让AI认为你的内容值得信任。
+tldr: E-E-A-T是AI搜索时代的通行证；用经验、专业、权威和可信建立信任，否则AI搜索大门将对你关上一半，请立即构建可验证的内容飞轮。
+tags:
+  - EEAT
+  - GEO
+  - 信任
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: GEO基础理论
+author: 塔迪Tardi
+cover:
+  image: "/images/cover/AioGeoLab-cover-3-eeat-trust-currency-ai-search-era.png"
+  alt: "3-eeat-trust-currency-ai-search-era"
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO基础理论
-cover:
-  alt: E-E-A-T：AI搜索时代的信任货币
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-3-eeat-trust-currency-ai-search-era.png
-coverKeyword: EEAT信任货币
-date: 2025-10-30
-description: null
-draft: false
-tags:
-- EEAT
-- GEO
-- 信任
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: E-E-A-T：AI搜索时代的信任货币
 ---
-
 # E-E-A-T：AI搜索时代的信任货币
 你的内容专业度拉满，数据详实，逻辑严密。
 

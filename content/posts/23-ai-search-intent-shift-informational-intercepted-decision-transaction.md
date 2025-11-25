@@ -1,35 +1,33 @@
 ---
+title: AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
+date: 2025-11-19
+draft: false
+coverKeyword: 少了但更精准了
+description: 零点击搜索已飙升至69%，信息型查询几乎都被AI overview拦截。本文分析AI搜索意图迁移：信息型引用率高但转化极低，决策型和交易型内容的机会窗口正在打开。来自AI的决策/交易型流量转化价值是信息型的7-16倍。掌握GEO策略，立即将重心从信息型内容转向高ROI的决策型和交易型内容。
+tldr: 零点击拦截70%信息型流量，决策/交易型转化价值高7-16倍；行动：立即将GEO重心转向决策型/交易型内容，用对比表格和透明定价抢占高ROI流量。
+tags:
+  - 搜索意图
+  - GEO
+  - 零点击
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 
+categories: [GEO基础理论, GEO实战体系]
+author: 塔迪Tardi
+cover:
+  image: "/images/cover/AioGeoLab-cover-23-ai-search-intent-shift-informational-intercepted-decision-transaction.png"
+  alt: "23-ai-search-intent-shift-informational-intercepted-decision-transaction"
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO基础理论
-- GEO实战体系
-cover:
-  alt: AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-23-ai-search-intent-shift-informational-intercepted-decision-transaction.png
-coverKeyword: 少了但更精准了
-date: 2025-11-19
-description: null
-draft: false
-tags:
-- 搜索意图
-- GEO
-- 零点击
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- null
-title: AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
 ---
-
 # AI搜索的意图迁移：信息型被拦截，决策型+交易型成为新战场
 
 你的GEO内容被AI引用100次，带来的转化却只有5个。

@@ -1,33 +1,32 @@
 ---
+title: 视频内容的GEO策略：从字幕到视觉语义的全面优化
+date: 2025-11-12
+draft: false
+coverKeyword: 如何GEO视频
+description: 你的视频有10万播放，AI却从不引用？本文揭示如何GEO视频：因为AI无法“观看”视频，只能“读取”字幕。AI字幕技术可使视频搜索排名提升15%。通过字幕信息自洽化、描述区信息密集化、结构化时间戳，将视频从“会动的图片”变成“AI能理解的知识库”，引用率可提升300%-400%。
+tldr: AI看不懂视频，只能读字幕；GEO可让引用率提升300%-400%；行动：上传srt/vtt字幕文件，用时间戳结构化，让字幕信息自洽。
+tags:
+  - 视频优化
+  - GEO
+  - 多模态
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories: [GEO实战体系, GEO内容工程]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-16-video-geo-strategy-subtitle-visual-semantics-optimization.png
+  alt: 16-video-geo-strategy-subtitle-visual-semantics-optimization
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-- GEO内容工程
-cover:
-  alt: 视频内容的GEO策略：从字幕到视觉语义的全面优化
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-16-video-geo-strategy-subtitle-visual-semantics-optimization.png
-coverKeyword: 如何GEO视频
-date: 2025-11-12
-description: null
-draft: false
-tags:
-- 视频优化
-- GEO
-- 多模态
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: 视频内容的GEO策略：从字幕到视觉语义的全面优化
 ---
 
 # 视频内容的GEO策略：从字幕到视觉语义的全面优化

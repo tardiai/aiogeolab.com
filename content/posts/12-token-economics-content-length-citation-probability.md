@@ -1,35 +1,35 @@
 ---
+title: Token经济学：内容长度如何影响被引用概率
+date: 2025-11-08
+draft: false
+coverKeyword: Token经济学
+description: 为什么5000字长文不被AI引用？本文揭示token经济学：AI上下文窗口虽大（128k token），但输出预算有限（4k token）。内容长度优化不追求字数而是追求token密度。掌握“前100 tokens黄金法则”和“可引用块”设计，让精炼的1500字内容产生5000字冗长内容的3倍引用效果。立即停止冗余表达。
+tldr: AI输出token有限，1500字精炼内容效果是5000字冗长内容的3倍；行动：用前100 tokens黄金法则，优化内容密度，避免冗余。
+tags:
+  - Token
+  - 上下文
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories:
+  - GEO实战体系
+  - GEO支撑工具
+author: 塔迪Tardi
+cover:
+  image: "/images/cover/AioGeoLab-cover-12-token-economics-content-length-citation-probability.png"
+  alt: "12-token-economics-content-length-citation-probability"
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-- GEO支撑工具
-cover:
-  alt: Token经济学：内容长度如何影响被引用概率
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-12-token-economics-content-length-citation-probability.png
-coverKeyword: Token经济学
-date: 2025-11-08
-description: null
-draft: false
-tags:
-- Token
-- 上下文
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: Token经济学：内容长度如何影响被引用概率
 ---
-
 # Token经济学：内容长度如何影响被引用概率
 
 你写了一篇5000字的深度长文。

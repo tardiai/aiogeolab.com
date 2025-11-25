@@ -1,34 +1,33 @@
 ---
+title: 从RAG到Fine-tuning：AI搜索的两条技术路线
+date: 2025-11-18
+draft: false
+coverKeyword: 不同技术不同路线
+description: 你的内容在perplexity被高频引用，在chatgpt却隐形？这是因为AI搜索存在RAG（实时检索型）和fine-tuning（知识内化型）两条不同技术路线。本文分析两条路线的本质差异和GEO策略适配：RAG适合快速见效，通过优化结构化和语义标签，可使引用率提升30-50%。中小企业应优先适配RAG策略，建立短期引用优势。
+tldr: AI搜索有RAG（实时检索）和fine-tuning（知识内化）两条路线；行动：中小企业优先适配RAG，通过结构化和语义标签，快速提升引用率30-50%。
+tags:
+  - RAG
+  - FineTuning
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories: [GEO基础理论]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-22-rag-to-finetuning-ai-search-technical-pathways.png
+  alt: 22-rag-to-finetuning-ai-search-technical-pathways
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO基础理论
-cover:
-  alt: 从RAG到Fine-tuning：AI搜索的两条技术路线
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-22-rag-to-finetuning-ai-search-technical-pathways.png
-coverKeyword: 不同技术不同路线
-date: 2025-11-18
-description: null
-draft: false
-tags:
-- RAG
-- FineTuning
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: 从RAG到Fine-tuning：AI搜索的两条技术路线
 ---
-
 # 从RAG到Fine-tuning：AI搜索的两条技术路线
 你花3个月优化的GEO内容，在Perplexity里被高频引用，在ChatGPT里却几乎隐形。
 

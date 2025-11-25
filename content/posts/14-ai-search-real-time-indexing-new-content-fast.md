@@ -1,33 +1,32 @@
 ---
+title: AI搜索的实时性问题：如何让新内容快速被索引
+date: 2025-11-10
+draft: false
+coverKeyword: 如何让AI快速了解你
+description: AI搜索的实时性取决于三个致命瓶颈：发现、爬取和触发延迟。本文揭秘如何让AI快速了解你：通过indexnow主动推送可在48小时内索引，优化robots.txt允许所有AI爬虫，以及在标题和内容中嵌入明确的时间标记（如“2025 Q2”）来触发AI实时搜索功能。实时性是GEO的新战场，抢占时间就是抢占流量。
+tldr: AI索引有3个瓶颈，indexnow可48小时内索引；行动：立即使用indexnow推送，优化robots.txt，并在标题加明确时间标记（2025 Q2），加速AI发现。
+tags: 
+  - 索引
+  - 收录
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: [GEO实战体系]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-14-ai-search-real-time-indexing-new-content-fast.png
+  alt: 14-ai-search-real-time-indexing-new-content-fast
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-cover:
-  alt: AI搜索的实时性问题：如何让新内容快速被索引
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-14-ai-search-real-time-indexing-new-content-fast.png
-coverKeyword: 如何让AI快速了解你
-date: 2025-11-10
-description: null
-draft: false
-tags:
-- 索引
-- 收录
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: AI搜索的实时性问题：如何让新内容快速被索引
 ---
-
 # AI搜索的实时性问题：如何让新内容快速被索引
 
 你两周前发布了一篇重磅文章。

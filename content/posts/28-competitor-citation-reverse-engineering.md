@@ -6,12 +6,13 @@ categories:
 - GEO支撑工具
 - GEO实战体系
 cover:
-  alt: GEO的"反向工程"：如何从竞品引用中学习
-  hidden: false
+  alt: 28-competitor-citation-reverse-engineering
+  caption: ''
   image: /images/cover/AioGeoLab-cover-28-competitor-citation-reverse-engineering.png
 coverKeyword: 竞品反向工程
 date: 2025-11-24
-description: null
+description: 你的内容SEO排名高但AI引用为零，竞品排名低却被频繁引用？本文揭示GEO的竞品反向工程方法论。通过系统化拆解竞品被引用的逻辑，重点监控引用频率、引用位置、引用上下文三个维度。学习竞品使用的结构化技巧（表格、faqpage
+  Schema），并复制其成功路径，将引用率从5%提升到35%以上。
 draft: false
 tags:
 - 反向工程
@@ -27,7 +28,9 @@ tags:
 - LLM
 - 大语言模型
 - 优化
+- null
 title: GEO的"反向工程"：如何从竞品引用中学习
+tldr: 引用成功不等于SEO排名；行动：每周追踪竞品引用频率和位置，反向工程其结构化格式和语义场，立即弥补差距，抢占AI引用高地。
 ---
 
 # GEO的"反向工程"：如何从竞品引用中学习

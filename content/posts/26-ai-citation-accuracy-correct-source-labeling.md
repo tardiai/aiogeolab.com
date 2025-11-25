@@ -1,34 +1,33 @@
 ---
+title: 60%引用出错：如何让AI“正确”标注你的来源？
+date: 2025-11-22
+draft: false
+coverKeyword: AI如何正确引用
+description: 哥伦比亚大学研究发现AI搜索引用错误率高达60%（链接错误、归因到转载方或编造url）。GEO不只是“被引用”，更要“被正确引用”。本文揭秘AI如何正确引用的工程学方法：成为不可替代的原始来源，用canonical标签宣誓主权，部署Schema标记，并建立可验证性护城河，将正确引用概率从40%提升到80%。
+tldr: AI引用错误率60%；行动：立即部署canonical标签和Schema标记，用“原创研究”和数据来源标注内容，每周监控纠错，将正确引用概率提升至80%。
+tags:
+  - AI引用
+  - 提及
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories: [GEO实战体系]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-26-ai-citation-accuracy-correct-source-labeling.png
+  alt: 26-ai-citation-accuracy-correct-source-labeling
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-cover:
-  alt: 60%引用出错：如何让AI“正确”标注你的来源？
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-26-ai-citation-accuracy-correct-source-labeling.png
-coverKeyword: AI如何正确引用
-date: 2025-11-22
-description: null
-draft: false
-tags:
-- AI引用
-- 提及
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: 60%引用出错：如何让AI“正确”标注你的来源？
 ---
-
 # 60%引用出错：如何让AI“正确”标注你的来源？
 
 你的内容被ChatGPT引用了。

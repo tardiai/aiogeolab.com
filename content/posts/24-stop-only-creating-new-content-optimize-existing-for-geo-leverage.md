@@ -1,35 +1,33 @@
 ---
+title: 别再只写新内容了：存量优化才是GEO的最大杠杆
+date: 2025-11-20
+draft: false
+coverKeyword: 存量内容First
+description: 大多数企业把95%的资源用在增量创作上，却只带来少量AI引用率提升。本文揭示存量内容first的战略价值：存量优化ROI是增量创作的7倍，且20%的核心内容贡献80%的AI引用。学会通过内容审计，区分“金矿内容”和“地雷内容”，以最小成本快速提升AI引用率2.1倍和转化率3.4倍。立即停止盲目创作新内容。
+tldr: 存量优化ROI是增量创作的7倍，引用率可提升2.1倍；行动：立即审计内容找金矿，清理低质地雷，集中资源更新高价值内容，抢占AI引用。
+tags:
+  - 内容优化
+  - GEO
+  - 内容刷新
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 内容工程
+categories: [GEO实战体系, GEO内容工程]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-24-stop-only-creating-new-content-optimize-existing-for-geo-leverage.png
+  alt: 24-stop-only-creating-new-content-optimize-existing-for-geo-leverage
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-- GEO内容工程
-cover:
-  alt: 别再只写新内容了：存量优化才是GEO的最大杠杆
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-24-stop-only-creating-new-content-optimize-existing-for-geo-leverage.png
-coverKeyword: 存量内容First
-date: 2025-11-20
-description: null
-draft: false
-tags:
-- 内容优化
-- GEO
-- 内容刷新
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 内容工程
-title: 别再只写新内容了：存量优化才是GEO的最大杠杆
 ---
-
 # 别再只写新内容了：存量优化才是GEO的最大杠杆
 
 你的团队今年写了200篇新内容，但AI搜索引用率只提升了8%。

@@ -1,32 +1,32 @@
 ---
+title: 中文内容的GEO特殊性：分词、语义与引用逻辑
+date: 2025-11-03
+draft: false
+coverKeyword: 中文GEO不一样
+description: 别再用SEO思维做双语内容！本文深度解析中文GEO不一样的原因：中文分词歧义高、token效率差异，且国内外AI的数据源生态（kimi侧重知乎/白皮书）和E-E-A-T验证方式截然不同。掌握差异化结构和文化本地化策略，通过独立创作，让你的中文内容转化率比直译版高2.3倍。
+tldr: 中文GEO与英文不同，本地化转化率比直译版高2.3倍；行动：停止直译，用faq结构、国内案例和权威认证，让中文AI优先引用你。
+tags:
+  - 分词
+  - 语义搜索
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: GEO基础理论
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-7-chinese-content-geo-participle-semantics-citation-logic.png
+  alt: 7-chinese-content-geo-participle-semantics-citation-logic
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO基础理论
-cover:
-  alt: 中文内容的GEO特殊性：分词、语义与引用逻辑
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-7-chinese-content-geo-participle-semantics-citation-logic.png
-coverKeyword: 中文GEO不一样
-date: 2025-11-03
-description: null
-draft: false
-tags:
-- 分词
-- 语义搜索
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: 中文内容的GEO特殊性：分词、语义与引用逻辑
 ---
-
 # 中文内容的GEO特殊性：分词、语义与引用逻辑
 
 你在Google上排名第一，海外流量不错。你在百度也有曝光，国内访问还行。但你发现，ChatGPT从不引用你的英文内容，Kimi也找不到你的中文页面。

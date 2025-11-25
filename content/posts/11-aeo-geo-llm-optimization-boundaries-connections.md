@@ -1,33 +1,33 @@
 ---
+title: AEO、GEO、LLM优化：三个概念的边界与联系
+date: 2025-11-07
+draft: false
+coverKeyword: AEO-GEO-LLMO
+description: 你是否被AEO、GEO、ROI等新术语搞得头大？本文深度解析ROI、ROI、ROI三个概念的边界与联系。AEO专注于争夺“零号位”短答案，GEO是让内容被AI引用为来源，ROI优化则旨在建立品牌记忆，成为AI可推荐的知识源。AEO见效最快（1-3个月），ROI优化是长期护城河（6-12个月），聪明的策略是全面布局。
+tldr: AEO争短答案，GEO争引用来源，ROI建品牌记忆；AEO见效最快（1-3个月），GEO是持续流量，应同时布局建立长期转化优势。
+tags:
+  - LLMO
+  - GEO
+  - 零号位
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories: GEO基础理论
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-11-aeo-geo-llm-optimization-boundaries-connections.png
+  alt: 11-aeo-geo-llm-optimization-boundaries-connections
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO基础理论
-cover:
-  alt: AEO、GEO、LLM优化：三个概念的边界与联系
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-11-aeo-geo-llm-optimization-boundaries-connections.png
-coverKeyword: AEO-GEO-LLMO
-date: 2025-11-07
-description: null
-draft: false
-tags:
-- LLMO
-- GEO
-- 零号位
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: AEO、GEO、LLM优化：三个概念的边界与联系
 ---
-
 # AEO、GEO、LLM优化：三个概念的边界与联系
 
 你听到AEO，点头说懂了。

@@ -1,32 +1,32 @@
 ---
+title: GEO的投入产出模型：什么时候该启动GEO？
+date: 2025-11-05
+draft: false
+coverKeyword: GEO的ROI
+description: GEO的ROI无法用传统公式计算，因为它运作在零点击环境中，更像品牌建设。本文重构GEO的ROI三层价值模型：从引用率到品牌知名度，再到高意向AI流量（转化率是自然搜索的2-3倍）。根据客户AI使用率（>40%）、决策周期（>1个月）和竞争对手投入等四个标准，判断你是否应该启动GEO，以免错过黄金窗口期。
+tldr: GEO ROI难以精确计算，但AI流量转化率高达2-3倍；行动：如果竞争对手已布局且客户AI使用率>40%，请立即启动最小可行投入抢占品牌认知。
+tags: 
+  - ROI
+  - 价值模型
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: GEO评估体系
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-9-geo-roi-model-when-to-launch.png
+  alt: 9-geo-roi-model-when-to-launch
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO评估体系
-cover:
-  alt: GEO的投入产出模型：什么时候该启动GEO？
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-9-geo-roi-model-when-to-launch.png
-coverKeyword: GEO的ROI
-date: 2025-11-05
-description: null
-draft: false
-tags:
-- ROI
-- 价值模型
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: GEO的投入产出模型：什么时候该启动GEO？
 ---
-
 # GEO的投入产出模型：什么时候该启动GEO？
 
 你问老板要GEO预算。

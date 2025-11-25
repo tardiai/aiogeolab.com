@@ -1,33 +1,32 @@
 ---
+title: AI搜索的对话漏斗：为什么你赢了开头，却输了结局
+date: 2025-11-21
+draft: false
+coverKeyword: 多轮对话AI搜索
+description: AI搜索的本质是多轮对话（平均4.7轮），但大多数企业只优化了第1轮（认知阶段）的内容。本文揭示AI搜索的对话漏斗：第5轮用户的转化率是第1轮的3.2倍。GEO策略必须从“单点突破”转向“全程覆盖”，通过主题集群、内部链接和对话路径测试，覆盖认知→对比→行动的完整决策旅程。
+tldr: AI搜索平均4.7轮对话，第5轮转化率高3.2倍；行动：立即用主题集群和内链，覆盖认知→对比→行动的完整对话旅程，深耕核心主题。
+tags:
+  - 对话漏斗
+  - 零点击
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: [GEO实战体系]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-25-ai-search-conversation-funnel-win-start-lose-end.png
+  alt: 25-ai-search-conversation-funnel-win-start-lose-end
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-cover:
-  alt: AI搜索的对话漏斗：为什么你赢了开头，却输了结局
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-25-ai-search-conversation-funnel-win-start-lose-end.png
-coverKeyword: 多轮对话AI搜索
-date: 2025-11-21
-description: null
-draft: false
-tags:
-- 对话漏斗
-- 零点击
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: AI搜索的对话漏斗：为什么你赢了开头，却输了结局
 ---
-
 # AI搜索的对话漏斗：为什么你赢了开头，却输了结局
 
 你的GEO内容在ChatGPT被引用，用户满意地点了头。但当他继续追问"那具体怎么选择"、"有什么工具推荐"时，AI引用的全是竞品内容。不是你的内容不够好，而是你只准备了开头儿。

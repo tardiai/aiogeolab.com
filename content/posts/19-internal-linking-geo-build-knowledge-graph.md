@@ -1,35 +1,33 @@
 ---
+title: 内部链接for GEO：如何构建内容知识图谱
+date: 2025-11-15
+draft: false
+coverKeyword: AI内容导购
+description: 你的优质内容为何被AI忽略？因为AI看到的是“100个孤立的信息点”。内部链接在GEO时代不再是传统SEO的权重传递工具，而是构建内容知识图谱的语义连接。通过主题聚类、多维标签、支柱-集群-支持三层架构，让AI理解你在某个领域拥有系统化的知识体系，从而建立E-E-A-T中的权威性，将内容相关性评分提升65%。
+tldr: 内部链接构建知识图谱，可让内容相关性评分提升65%；行动：用“支柱-集群-支持”架构和语义化链接，让AI把你识别为系统化专家，建立主题权威性。
+tags:
+  - 知识图谱
+  - GEO
+  - 内链
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories: [GEO实战体系, GEO基础理论]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-19-internal-linking-geo-build-knowledge-graph.png
+  alt: 19-internal-linking-geo-build-knowledge-graph
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-- GEO基础理论
-cover:
-  alt: 内部链接for GEO：如何构建内容知识图谱
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-19-internal-linking-geo-build-knowledge-graph.png
-coverKeyword: AI内容导购
-date: 2025-11-15
-description: null
-draft: false
-tags:
-- 知识图谱
-- GEO
-- 内链
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: 内部链接for GEO：如何构建内容知识图谱
 ---
-
 # 内部链接for GEO：如何构建内容知识图谱
 你有100篇优质文章，每篇都做了GEO优化，关键词布局合理，E-E-A-T信号清晰。但ChatGPT搜索相关主题时，只引用了你的3篇内容。
 

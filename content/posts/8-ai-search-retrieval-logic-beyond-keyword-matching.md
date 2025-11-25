@@ -1,32 +1,32 @@
 ---
+title: AI搜索的信息检索逻辑：为什么不是关键词匹配
+date: 2025-11-04
+draft: false
+coverKeyword: 关键词搜索已死
+description: 为何你的内容在google排第一，AI却不引用？因为关键词搜索已死。AI搜索不匹配字符串，而是通过向量嵌入技术，将文本转化为高维坐标，理解查询的语义意图。本文揭秘语义搜索如何通过余弦相似度召回概念相近的内容，甚至能实现跨语言搜索。立即停止关键词堆砌，用自然语言写作，并结构化语义信息，以适应AI的“读心术”。
+tldr: AI搜索只理解语义意图，关键词堆砌已失效；行动：停止堆砌关键词，现在就用列表表格结构化语义概念，回答用户真实意图，让AI读懂你想表达的意思。
+tags: 
+  - 关键词搜索
+  - GEO
+  - 语义搜索
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: GEO基础理论
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-8-ai-search-retrieval-logic-beyond-keyword-matching.png
+  alt: 8-ai-search-retrieval-logic-beyond-keyword-matching
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO基础理论
-cover:
-  alt: AI搜索的信息检索逻辑：为什么不是关键词匹配
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-8-ai-search-retrieval-logic-beyond-keyword-matching.png
-coverKeyword: 关键词搜索已死
-date: 2025-11-04
-description: null
-draft: false
-tags:
-- 关键词搜索
-- GEO
-- 语义搜索
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: AI搜索的信息检索逻辑：为什么不是关键词匹配
 ---
-
 # AI搜索的信息检索逻辑：为什么不是关键词匹配
 
 你在Google输入"降噪耳机推荐"，排第一。

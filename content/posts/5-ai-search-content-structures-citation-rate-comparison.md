@@ -1,34 +1,34 @@
 ---
+title: AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
+date: 2025-11-01
+draft: false
+coverKeyword: 五种内容结构
+description: 为什么你的优质内容不被chatgpt引用？问题在内容结构，AI不是阅读而是在“解构”内容。本文对比AI搜索最爱的五种内容结构引用率差异：对比表格和faq是最高的“金矿”，段落叙述引用率最低。掌握将长篇叙述转化为结构化答案的实操步骤，学会用一张表格创造5个引用触发点，让你的引用率从低点提升。
+tldr: AI引用不看文采看结构，对比表格和faq的引用率高达五颗星；行动：现在就用列表、表格和Schema标记重构内容，将引用率提升到高点。
+tags:
+  - 内容工程
+  - GEO
+  - 内容结构
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 内容工程
+  - 内容优化
+categories: GEO内容工程
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-5-ai-search-content-structures-citation-rate-comparison.png
+  alt: 5-ai-search-content-structures-citation-rate-comparison
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO内容工程
-cover:
-  alt: AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-5-ai-search-content-structures-citation-rate-comparison.png
-coverKeyword: 五种内容结构
-date: 2025-11-01
-description: null
-draft: false
-tags:
-- 内容工程
-- GEO
-- 内容结构
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 内容工程
-- 内容优化
-title: AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
 ---
-
 # AI搜索最爱的5种内容结构：从金字塔到列表的引用率差异
 
 你的文章逻辑严密，数据翔实，洞察深刻。

@@ -1,33 +1,32 @@
 ---
+title: PDF、PPT、Excel：文档类内容的GEO优化方法
+date: 2025-11-13
+draft: false
+coverKeyword: 如何GEO你的文档
+description: 你的企业白皮书和行业报告为何不被AI引用？因为AI根本“读不懂”你的pdf截图和精美排版。本文提供如何GEO你的文档的实操方法：通过ocr转换确保pdf文本可读性，标准化excel数据可提取性，利用ppt备注栏语义化，并完成元数据标注。在GEO市场规模突破200亿元的浪潮中，将文档转化为AI的首选引用源。
+tldr: AI难读懂扫描件和截图表格；行动：将pdf转为可搜索文本（ocr），标准化excel和ppt备注栏语义化，成为AI引用源头。
+tags: 
+  - 文档优化
+  - GEO
+  - 多模态
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 内容工程
+categories: [GEO内容工程, GEO实战体系]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-17-pdf-ppt-excel-geo-optimization-tactics.png
+  alt: 17-pdf-ppt-excel-geo-optimization-tactics
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO内容工程
-- GEO实战体系
-cover:
-  alt: PDF、PPT、Excel：文档类内容的GEO优化方法
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-17-pdf-ppt-excel-geo-optimization-tactics.png
-coverKeyword: 如何GEO你的文档
-date: 2025-11-13
-description: null
-draft: false
-tags:
-- 文档优化
-- GEO
-- 多模态
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 内容工程
-title: PDF、PPT、Excel：文档类内容的GEO优化方法
 ---
 
 # PDF、PPT、Excel：文档类内容的GEO优化方法

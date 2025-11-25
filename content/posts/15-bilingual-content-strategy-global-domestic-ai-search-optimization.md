@@ -1,33 +1,33 @@
 ---
+title: 中英双语内容策略：如何同时优化国际与国内AI搜索
+date: 2025-11-11
+draft: false
+coverKeyword: 如何GEO双语内容
+description: 别再用SEO思维做双语内容！本文解析中文GEO不一样，因为token效率差异、数据源生态（kimi侧重知乎/白皮书）和E-E-A-T验证方式截然不同。掌握差异化结构和文化本地化策略，通过独立创作和在前100 tokens优化语义，让你的中文内容转化率比直译版高2.3倍。立即停止直译，针对中文AI的偏好构建独立的内容体系。
+tldr: 双语GEO不是翻译两遍；中文版转化率比直译版高2.3倍；行动：独立创作，文化本地化案例，优化前100 tokens分词准确率。
+tags: 
+  - 国际化
+  - GEO
+  - 内容工程
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories: GEO实战体系
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-15-bilingual-content-strategy-global-domestic-ai-search-optimization.png
+  alt: 15-bilingual-content-strategy-global-domestic-ai-search-optimization
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO实战体系
-cover:
-  alt: 中英双语内容策略：如何同时优化国际与国内AI搜索
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-15-bilingual-content-strategy-global-domestic-ai-search-optimization.png
-coverKeyword: 如何GEO双语内容
-date: 2025-11-11
-description: null
-draft: false
-tags:
-- 国际化
-- GEO
-- 内容工程
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: 中英双语内容策略：如何同时优化国际与国内AI搜索
 ---
-
 # 中英双语内容策略：如何同时优化国际与国内AI搜索
 
 你在Google上排名第一，海外流量不错。你在百度也有曝光，国内访问还行。但你发现，ChatGPT从不引用你的英文内容，Kimi也找不到你的中文页面。
@@ -367,3 +367,5 @@ A： To authenticate API requests with OAuth 2。0， you need to： （1） Reg
 ---
 > 我是「**AioGeoLab**」主理人塔迪Tardi，AioGeoLab是追踪、研究、实验、创作并分享海外顶级GEO实践者**第一手最佳实践**的技术类社区，为广大GEO、SEO从业者提供深度的内容、社群、推广、培训、平台相关的服务。  
 我们认为：知识的应用和经验的碰撞才能够赋予知识生命力，对于一个新兴的领域 - GEO，尤其如此。我们会逐步开放我们的社区以及知识库，感兴趣的朋友可以先加小编的微信 - **tardyai2025**。
+
+

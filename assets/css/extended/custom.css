@@ -596,3 +596,84 @@ body {
 .post-meta span:first-child::before {
   display: none;
 }
+
+/* TL;DR */
+.tldr {
+  background: #fff3cd;
+  border: 2px solid #ffc107;
+  border-left: 6px solid #ff9800;
+  padding: 18px 22px;
+  margin: 24px 0;
+  border-radius: 8px;
+  font-size: 0.95em;
+  box-shadow: 0 2px 8px rgba(255, 152, 0, 0.1);
+}
+
+.tldr strong {
+  color: #ff6f00;
+  font-weight: 700;
+  margin-right: 8px;
+} 
+
+/* 暗色模式 */
+.dark .tldr {
+  background: #3e2723;
+  border-color: #ff9800;
+  box-shadow: 0 2px 8px rgba(255, 152, 0, 0.2);
+}
+
+.dark .tldr strong {
+  color: #ffb74d;
+} 
+
+/*
+.tldr {
+  background: linear-gradient(to right, #e3f2fd 0%, #ffffff 100%);
+  border: 1px solid #2196f3;
+  border-left: 6px solid #2196f3;
+  padding: 20px 24px;
+  margin: 28px 0;
+  border-radius: 8px;
+  font-size: 0.96em;
+  box-shadow: 0 3px 10px rgba(33, 150, 243, 0.1);
+  position: relative;
+}
+
+.tldr::after {
+  content: "快速阅读";
+  position: absolute;
+  top: -10px;
+  right: 20px;
+  background: #2196f3;
+  color: white;
+  padding: 2px 12px;
+  font-size: 0.75em;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+.tldr strong {
+  color: #1976d2;
+  font-weight: 700;
+  margin-right: 8px;
+  font-size: 1.1em;
+}
+  */
+
+/* 暗色模式 */
+/*
+.dark .tldr {
+  background: linear-gradient(to right, #1a237e 0%, #283593 100%);
+  border-color: #42a5f5;
+  color: #e3f2fd;
+}
+
+.dark .tldr::after {
+  background: #42a5f5;
+  color: #000;
+}
+
+.dark .tldr strong {
+  color: #64b5f6;
+}
+*/

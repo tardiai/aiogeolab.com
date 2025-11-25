@@ -1,32 +1,32 @@
 ---
+title: 搜索引擎30年：从Yahoo到AI搜索的范式更替
+date: 2025-11-06
+draft: false
+coverKeyword: 搜索大历史观
+description: 本文以搜索大历史观回顾30年搜索范式更替：从yahoo的人工目录时代到google的pagerank算法时代，再到chatgpt/perplexity的AI时代。了解AI搜索如何从返回蓝色链接转变为直接给出答案，以及生成引擎优化（GEO）如何成为抢占2025-2027年黄金窗口期的关键战略。每次更替都是重新洗牌的机会。
+tldr: 搜索历经三时代更替；AI搜索目标是被引用，现在是GEO黄金窗口期（2025-2027），请优化引用率抢占下一个10年优势。
+tags:
+  - 搜索引擎
+  - GEO
+  - 范式转移
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: GEO基础理论
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-10-search-engine-evolution-yahoo-to-ai-paradigm-shift.png
+  alt: 10-search-engine-evolution-yahoo-to-ai-paradigm-shift
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories: GEO基础理论
-cover:
-  alt: 搜索引擎30年：从Yahoo到AI搜索的范式更替
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-10-search-engine-evolution-yahoo-to-ai-paradigm-shift.png
-coverKeyword: 搜索大历史观
-date: 2025-11-06
-description: null
-draft: false
-tags:
-- 搜索引擎
-- GEO
-- 范式转移
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: 搜索引擎30年：从Yahoo到AI搜索的范式更替
 ---
-
 # 搜索引擎30年：从Yahoo到AI搜索的范式更替
 30年前，你想找个网站，得记住URL手动输入。
 

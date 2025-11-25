@@ -1,34 +1,34 @@
 ---
+title: 第一人称还是第三人称？AI搜索对内容语态的偏好分析
+date: 2025-11-09
+draft: false
+coverKeyword: AI也关注你的语态
+description: 你的语态选择真的影响AI引用率！本文分析AI也关注你的语态。第一人称叙述（我/我们）能最大化E-E-A-T中的experience信号，实测产品评测引用率高40%；第三人称能最大化expertise信号，技术文档引用率高25%。了解如何用这四个维度建立内容战略，用混合语态平衡E-E-A-T信号，提升整体引用率。
+tldr: AI对语态有情境偏好，第一人称传达经验（+40%引用），第三人称传达专业（+25%引用）；行动：根据内容类型战略组合语态，确保第一人称有可验证数据证据。
+tags: 
+  - 内容工程
+  - GEO
+  - 语态
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
+categories:
+  - GEO实战体系
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-13-first-vs-third-person-ai-search-tone-preference.png
+  alt: 13-first-vs-third-person-ai-search-tone-preference
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-cover:
-  alt: 第一人称还是第三人称？AI搜索对内容语态的偏好分析
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-13-first-vs-third-person-ai-search-tone-preference.png
-coverKeyword: AI也关注你的语态
-date: 2025-11-09
-description: null
-draft: false
-tags:
-- 内容工程
-- GEO
-- 语态
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
-title: 第一人称还是第三人称？AI搜索对内容语态的偏好分析
 ---
-
 # 第一人称还是第三人称？AI搜索对内容语态的偏好分析
 你写产品评测，用第三人称："该产品经过测试，结果显示..."
 

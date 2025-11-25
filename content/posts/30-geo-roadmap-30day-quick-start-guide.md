@@ -1,34 +1,34 @@
 ---
+title: 一张地图+一条最短路径：新手如何30天启动GEO并看到效果
+date: 2025-11-26
+draft: true
+coverKeyword: GEO作战地图
+description: 新手启动GEO不必迷茫。本文提供GEO作战地图的5个阶段（准备、地基、内容攻坚、监测、规模化），并给出30天快速通道：以AI可见性审计为起点，聚焦优化10篇高价值内容（结构化/E-E-A-T强化），并通过indexnow主动推进收录。目标是用最小代价，将AI引用率从0-10%快速提升至20-40%，形成正反馈闭环。
+tldr: GEO新手路线图有5阶段，30天可将引用率提升到20-40%；行动：审计AI可见性，用5步法优化top 10内容结构和E-E-A-T，快速形成正反馈闭环。
+tags:
+  - GEO手册
+  - RoadMap
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories:
+  - GEO实战体系
+  - GEO团队流程
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-30-geo-roadmap-30day-quick-start-guide.png
+  alt: 30-geo-roadmap-30day-quick-start-guide
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO实战体系
-- GEO团队流程
-cover:
-  alt: 一张地图+一条最短路径：新手如何30天启动GEO并看到效果
-  hidden: false
-  image: /images/cover/AioGeoLab-cover-30-geo-roadmap-30day-quick-start-guide.png
-coverKeyword: GEO作战地图
-date: 2025-11-26
-description: null
-draft: true
-tags:
-- GEO手册
-- RoadMap
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: 一张地图+一条最短路径：新手如何30天启动GEO并看到效果
 ---
-
 # 一张地图+一条最短路径：新手如何30天启动GEO并看到效果
 
 上周，一位刚转型做GEO的朋友跟我说："塔迪，我把你们的文章都看完了，E-E-A-T懂了，Token经济学也懂了，但我就是不知道该从哪里开始。老板问我要结果，我连第一步该干什么都不确定。"
@@ -1229,3 +1229,5 @@ GEO不是一场百米冲刺，而是一场马拉松。30天快速通道让你建
 * * *
 > 我是「**AioGeoLab**」主理人塔迪Tardi，AioGeoLab是追踪、研究、实验、创作并分享海外顶级GEO实践者**第一手最佳实践**的技术类社区，为广大GEO、SEO从业者提供深度的内容、社群、推广、培训、平台相关的服务。  
 我们认为：知识的应用和经验的碰撞才能够赋予知识生命力，对于一个新兴的领域 - GEO，尤其如此。我们会逐步开放我们的社区以及知识库，感兴趣的朋友可以先加小编的微信 - **tardyai2025**。
+
+
