@@ -13,6 +13,11 @@ enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 pagination.pagerSize = 10
+summaryLength = 150
+
+# 为了hugo自动处理lastmod信息
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date"]
 
 [markup]
   [markup.highlight]
@@ -32,6 +37,15 @@ pagination.pagerSize = 10
 [params]
   env = "production"
   description = "追踪、研究、实验、创作并分享海外顶级GEO实践者第一手最佳实践的技术类社区"
+  keywords = [
+    "GEO",
+    "生成式引擎优化",
+    "AI搜索优化",
+    "ChatGPT SEO",
+    "AEO",
+    "大模型优化",
+    "AI搜索"
+  ]
   author = "塔迪Tardi"
   
   # Logo 配置 - 左上角显示
@@ -52,6 +66,7 @@ pagination.pagerSize = 10
   
 
   images = ["/images/og-image-1200x630.png"]
+
   
   # 首页信息 - 中间大横幅
   [params.homeInfoParams]
@@ -67,6 +82,10 @@ pagination.pagerSize = 10
     name = "github"
     url = "https://github.com/tardiai"
   
+  [[params.socialIcons]]
+    name = "rss"
+    url = "https://aiogeolab.com/index.xml"
+
   [[params.socialIcons]]
     name = "wechat"
     url = "/contact/"
@@ -121,3 +140,7 @@ pagination.pagerSize = 10
   [privacy.googleAnalytics]
     anonymizeIP = true
     respectDoNotTrack = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
