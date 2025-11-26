@@ -61,7 +61,7 @@ summaryLength = 150
   # Logo 配置 - 左上角显示
   [params.label]
     text = "GEO优化实验室"
-    icon = "/logo.png"
+    icon = "images/logo.png"
     iconHeight = 35
   
   defaultTheme = "light"
