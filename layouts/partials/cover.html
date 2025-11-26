@@ -1,0 +1,32 @@
+{{- with .cxt}} {{/* Apply proper context from dict */}}
+{{- if (and .Params.cover.image (not $.isHidden)) }}
+{{- $alt := (.Params.cover.alt | default .Params.cover.caption | default "") }}
+{{- $cover := .Params.cover.image }}
+{{- $addLink := (and .Site.Params.cover.linkFullImages (not $.IsHome)) }}
+
+{{- /* 尝试从assets获取图片 */ -}}
+{{- $img := resources.Get $cover }}
+
+<figure class="entry-cover">
+  {{- if $addLink }}<a href="{{ $cover | absURL }}" target="_blank"
+    rel="noopener noreferrer">{{ end }}
+    {{- if $img }}
+      {{- /* 图片在assets中，可以获取尺寸 */ -}}
+      <img loading="eager" 
+           src="{{ $img.RelPermalink }}" 
+           alt="{{ $alt }}"
+           width="{{ $img.Width }}"
+           height="{{ $img.Height }}">
+    {{- else }}
+      {{- /* 图片在static或外部链接 */ -}}
+      <img loading="eager" 
+           src="{{ $cover | absURL }}" 
+           alt="{{ $alt }}">
+    {{- end }}
+    {{- if $addLink }}</a>{{ end }}
+    {{- if .Params.cover.caption }}
+    <figcaption>{{ .Params.cover.caption | markdownify }}</figcaption>
+    {{- end }}
+</figure>
+{{- end }}{{/* End image */}}
+{{- end }}{{/* End context */}}

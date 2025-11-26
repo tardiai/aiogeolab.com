@@ -1,0 +1,29 @@
+{{- $alt := .Text -}}
+{{- $src := .Destination -}}
+
+{{- /* 尝试从assets获取图片 */ -}}
+{{- $img := .Page.Resources.GetMatch $src -}}
+{{- if not $img -}}
+  {{- $img = resources.Get $src -}}
+{{- end -}}
+
+{{- if $img -}}
+  {{- /* 图片存在于assets，可以获取尺寸 */ -}}
+  <figure>
+    <img src="{{ $img.RelPermalink }}" 
+         alt="{{ $alt }}" 
+         width="{{ $img.Width }}" 
+         height="{{ $img.Height }}"
+         loading="lazy"
+         decoding="async">
+    {{- with $alt }}
+    <figcaption>{{ . }}</figcaption>
+    {{- end }}
+  </figure>
+{{- else -}}
+  {{- /* 外部图片或无法处理的图片 */ -}}
+  <img src="{{ $src | safeURL }}" 
+       alt="{{ $alt }}"
+       loading="lazy"
+       decoding="async">
+{{- end -}}

@@ -19,6 +19,12 @@ summaryLength = 150
 [frontmatter]
   lastmod = ["lastmod", ":git", "date"]
 
+# 图片处理配置
+[imaging]
+  resampleFilter = "Lanczos"
+  quality = 85
+  anchor = "Smart"
+
 [markup]
   [markup.highlight]
     style = "monokai" 
@@ -33,6 +39,10 @@ summaryLength = 150
     [markup.goldmark.renderer]
       unsafe = true
       # 允许渲染原始 HTML
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
 
 [params]
   env = "production"
@@ -144,3 +154,6 @@ summaryLength = 150
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[services.googleAnalytics]
+  ID = "G-27PKQ3EY68"
