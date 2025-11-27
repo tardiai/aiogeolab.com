@@ -1,0 +1,79 @@
+{{ $author := .Site.Params.author | default .Params.author }}
+{{ $image := "" }}
+{{ if .Params.image }}
+  {{ $image = .Params.image }}
+{{ else if .Site.Params.images }}
+  {{ $image = index .Site.Params.images 0 }}
+{{ end }}
+{{ $description := .Description | default .Summary }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ .Params.schema.type | default "BlogPosting" }}",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ $description | plainify | truncate 200 | jsonify }},
+  "image": {{ $image | absURL | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ $author | jsonify }},
+    {{ with .Site.Params.authorUrl }}
+    "url": {{ . | jsonify }}
+    {{ end }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ .Site.Title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ .Site.Params.logo | absURL | jsonify }}
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify }}
+  },
+  {{ with .WordCount }}
+  "wordCount": {{ . }},
+  {{ end }}
+  {{ with .Params.keywords }}
+  "keywords": {{ . | jsonify }},
+  {{ end }}
+  "inLanguage": "{{ .Site.Language.Lang }}",
+  "articleSection": {{ with .Params.categories }}{{ index . 0 | jsonify }}{{ else }}"未分类"{{ end }}
+}
+</script>
+
+<!-- 面包屑导航Schema -->
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "首页",
+      "item": {{ .Site.BaseURL | jsonify }}
+    },
+    {{ with .CurrentSection }}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ .Title | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    },
+    {{ end }}
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ .Title | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    }
+  ]
+}
+</script>
+{{ end }}
