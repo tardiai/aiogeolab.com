@@ -138,6 +138,14 @@ summaryLength = 150
     url = "/search/"
     weight = 50
 
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 80
+
+
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
