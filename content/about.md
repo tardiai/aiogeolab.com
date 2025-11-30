@@ -2,6 +2,7 @@
 title: "关于我"
 date: 2025-10-28
 draft: false
+description: 作者塔迪Tardi个人简介，以及联系方式信息
 # layout: "about"  # 可选：使用自定义布局
 #menu:
 #  main:
