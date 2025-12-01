@@ -12,7 +12,7 @@ cover:
 coverKeyword: 如何深耕垂直行业GEO
 date: 2025-12-01
 description: 垂直行业如何用GraphRAG打造差异化GEO竞争力？本文以B2B SaaS为例，拆解知识图谱构建、内容工程优化、数据驱动迭代的完整3步落地法，帮助垂直企业在AI搜索中以深度专业性对抗大平台流量优势，实现引用率从个位数到30%+的跃升，建立难以复制的知识壁垒。
-draft: true
+draft: false
 image: ''
 schema:
   dateModified: auto
