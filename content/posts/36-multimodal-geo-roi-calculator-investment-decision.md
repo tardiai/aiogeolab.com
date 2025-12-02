@@ -11,7 +11,7 @@ cover:
 coverKeyword: 多模态GEO三步测算法
 date: 2025-12-02
 description: 多模态GEO值不值得投？本文提供完整ROI测算模型，拆解图文视频协同的四大收益（引用率提升133%、场景覆盖扩大191%、品牌溢价、复用效率）与三大成本，给出年预算12万、60万、120万三个量级的真实案例测算，帮助决策者用3步计算法算清投入产出比，配套15页PPT提报框架和竞争导向决策矩阵，让你有理有据地向老板证明多模态GEO的商业价值。
-draft: true
+draft: false
 image: ''
 schema:
   dateModified: auto
