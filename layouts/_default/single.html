@@ -48,7 +48,8 @@
 
    {{- if .Params.tldr }}
     <div class="tldr">
-      <strong>📌 TL;DR:</strong> {{ .Params.tldr }}
+      <strong>📌 TL;DR:</strong> 
+      {{ .Params.tldr | safeHTML }}    
     </div>
     {{- end }}
 

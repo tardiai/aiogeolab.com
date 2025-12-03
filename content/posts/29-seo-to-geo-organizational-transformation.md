@@ -1,34 +1,32 @@
 ---
+title: 从SEO到GEO的组织变革：团队、流程、KPI如何调整？
+date: 2025-11-25
+draft: false
+coverKeyword: GEO团队<>SEO团队
+description: 从SEO到GEO，不仅是技术升级，更是深刻的组织变革。本文提供GEO团队<>SEO团队的转型方案：重构人员配置，引入“内容工程师”新岗位，提升内容产出效率2.8倍；协作模式从线性转向网状，实现跨部门协同；kpi体系从排名流量转向AI引用率、引用质量分数、语义覆盖率等GEO核心指标。
+tldr: GEO转型需重构组织，引入“内容工程师”新岗位效率提升2.8倍；行动：立即重组kpi，用引用率/质量分数考核，并启动跨部门协作，建立GEO组织肌肉。
+tags:
+  - 内容工程师
+  - 团队建设
+  - 组织变革
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+categories: [GEO团队流程]
+author: 塔迪Tardi
+cover:
+  image: /images/cover/AioGeoLab-cover-29-seo-to-geo-organizational-transformation.png
+  alt: 29-seo-to-geo-organizational-transformation
+  caption: ""
 ShowToc: true
 TocOpen: true
-author: 塔迪Tardi
-categories:
-- GEO团队流程
-cover:
-  alt: 29-seo-to-geo-organizational-transformation
-  caption: ''
-  image: /images/cover/AioGeoLab-cover-29-seo-to-geo-organizational-transformation.png
-coverKeyword: GEO团队<>SEO团队
-date: 2025-11-25
-description: 从SEO到GEO，不仅是技术升级，更是深刻的组织变革。本文提供GEO团队<>SEO团队的转型方案：重构人员配置，引入“内容工程师”新岗位，提升内容产出效率2.8倍；协作模式从线性转向网状，实现跨部门协同；kpi体系从排名流量转向AI引用率、引用质量分数、语义覆盖率等GEO核心指标。
-draft: false
-tags:
-- 内容工程师
-- 团队建设
-- 组织变革
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-title: 从SEO到GEO的组织变革：团队、流程、KPI如何调整？
-tldr: GEO转型需重构组织，引入“内容工程师”新岗位效率提升2.8倍；行动：立即重组kpi，用引用率/质量分数考核，并启动跨部门协作，建立GEO组织肌肉。
 ---
-
 # 从SEO到GEO的组织变革：团队、流程、KPI如何调整？
 
 六个月前，某B2B SaaS公司的CMO做了个决定：把SEO团队改名为GEO团队。
