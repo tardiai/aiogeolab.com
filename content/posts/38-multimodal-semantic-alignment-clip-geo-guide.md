@@ -12,7 +12,7 @@ cover:
 coverKeyword: 文本图像视频说同一语言
 date: 2025-12-04
 description: AI搜索如何理解你的图文视频？本文揭秘多模态语义对齐技术，深入浅出讲解CLIP通过对比学习将文本图像视频转换到统一向量空间的原理，对比CLIP、ALIGN、Florence三大主流架构差异，拆解跨模态嵌入空间构建机制和模态鸿沟问题，分析语义对齐对GEO的三大影响包括AI能准确理解多模态内容、跨模态检索让视觉搜索月处理200亿次、内容一致性成为排名因素，提供图文匹配优化5要点和视频对齐3步法，附30天语义对齐优化计划和5个常见误区避坑指南。
-draft: true
+draft: false
 image: ''
 schema:
   dateModified: auto
