@@ -12,7 +12,7 @@ echo ""
  cd /Users/wyh/baidusync/OneAILtd/aiogeolab.com
  
  echo "frontmatter checker run"
- python /Users/wyh/baidusync/OneAILtd/VibCX/tarditools/frontmatter_checker/md_frontmatter_checker.py /Users/wyh/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/tardyai/20\ -\ Projects/01\ -\ AioGeoLab/05\ -\ Aiogeolab.com --days 2
+ python /Users/wyh/baidusync/OneAILtd/VibCX/tarditools/frontmatter_checker/md_frontmatter_checker.py /Users/wyh/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/tardyai/20\ -\ Projects/01\ -\ AioGeoLab/05\ -\ Aiogeolab.com --days 3 
  
  echo "articles sync to posts"
  /usr/local/bin/FreeFileSync /Users/wyh/Documents/Obsidian2aiogeolab.com.ffs_batch

@@ -1,30 +1,29 @@
 ---
 title: GEO的"负优化"清单：10个会让引用率暴跌的常见错误
 date: 2025-12-05
-draft: true
+draft: false
 coverKeyword: 不做什么比做什么更重要
 description: GEO负优化清单揭示10个会让AI引用率暴跌的常见错误，按严重程度分为致命错误（过度营销化下降60-75%、Alt文本缺失下降50-70%、标题党下降60-80%）、严重错误（行业黑话下降40-60%、缺少可引用块下降40-55%、内部链接缺失下降35-50%、数据来源不标注下降40-55%）、常见错误（内容过时下降20-40%、加载过慢下降20-35%、移动端差下降20-30%），从内容类型影响对象优化阶段严重程度四维度系统分类帮助举一反三，每个错误配真实案例数据AI判断逻辑正确做法自检方法，附30天排查计划和发布前检查清单。
 tldr: 10个负优化错误按致命程度分级：🔴 **致命3个** 过度营销化让引用率暴跌71%(某SaaS每段推销从24%降至7%) | Alt文本缺失丧失所有图片引用机会 | 标题党连坐惩罚整站下降42% <br><br> 🟡 **严重4个** 行业黑话堆砌90%垂直行业在犯 | 缺少可引用块AI找不到完整答案 | 数据来源不标注(有来源引用率是无来源的4.25倍) | 内部链接缺失成为孤岛 <br><br> 🟢 **常见3个** 内容过时被判定不可信 | 页面加载慢AI直接放弃 | 移动端体验差影响70%场景 <br><br> ✅ **关键洞察** 图文不同步引用率暴跌60%、标题党会拖累整站非单篇、多模态错误比纯文本错误惩罚更重 <br><br> 📋 **30天排查** Week1修复致命错误 → Week2解决严重问题 → Week3优化常见错误 → Week4建立发布前检查机制
 tags:
-- 负优化
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
+  - 负优化
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
 categories: [GEO实战体系]
 author: 塔迪Tardi
 cover:
   image: /images/cover/AioGeoLab-cover-39-geo-negative-optimization-mistakes-checklist.png
-  alt: GEO的"负优化"清单：10个会让引用率暴跌的常见错误
+  alt: 39-geo-negative-optimization-mistakes-checklist
   caption:
-  hidden: false
 schema:
   type: BlogPosting
   wordCount: auto

@@ -6,28 +6,27 @@ coverKeyword: 被严重低估的金矿
 description: UGC是GEO的隐藏金矿，Reddit占AI搜索引用40.1%超越Wikipedia，Perplexity引用中Reddit占46.7%。本文揭秘UGC的三大差异化价值包括独一无二护城河竞品无法伪造、长尾覆盖用户问题官方内容覆盖不到、实时更新同一帖子持续数年保持最新，拆解Reddit知乎Stack Overflow等平台的GEO特点与实操策略，教你如何通过外部UGC平台提升企业权威性和AI引用率包括选择正确subreddit贡献真实经验答案长期参与策略、引导用户生成AI友好内容的四大方法、技术优化Schema标注和快速响应机制，附30天UGC优化计划从平台选择到系统化运营。
 tldr: UGC 是 GEO 的暗矿。挖好这座矿，有三张王牌：<br><br>① 竞品抄不动的真实人声，AI 一眼能辨；<br><br>② 长尾死角全覆盖，官方文档够不着的地方它全包；<br><br>③ 实时刷新，被引用帖平均年龄 1 年，只有 4% 是 2019 前的老黄历。
 tags:
-- UGC
-- 内容工程
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
+  - UGC
+  - 内容工程
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
 categories:
-- GEO实战体系
-- GEO内容工程
+  - GEO实战体系
+  - GEO内容工程
 author: 塔迪Tardi
 cover:
   image: /images/cover/AioGeoLab-cover-41-ugc-geo-value-reddit-quora-optimization-guide.png
-  alt: UGC是GEO的隐藏金矿：如何让用户评论和问答成为AI引用源
+  alt: 41-ugc-geo-value-reddit-quora-optimization-guide
   caption:
-  hidden: false
 schema:
   type: BlogPosting
   wordCount: auto
