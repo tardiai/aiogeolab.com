@@ -1,6 +1,7 @@
 baseURL = "https://aiogeolab.com/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
+timeZone = "Asia/Shanghai"
 
 title = "AioGeoLab|GEO优化实验室"  # 改为品牌名
 theme = "PaperMod"
