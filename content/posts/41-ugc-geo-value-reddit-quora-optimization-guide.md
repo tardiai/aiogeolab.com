@@ -36,7 +36,6 @@ TocOpen: true
 image:
 ---
 # UGC是GEO的隐藏金矿：如何让用户评论和问答成为AI引用源
-![](https://p.vibcx.com/x/2025/12/AioGeoLab-cover-41-ugc-geo-value-reddit-quora-optimization-guide.png)
 2025年6月，一个让整个营销圈震惊的数据出炉：
 
 Reddit成为AI搜索引用的第一大来源，占所有LLM引用的40.1%，超越了Wikipedia（26.3%）和YouTube（23.5%），甚至Google也跌至第四位（23.3%）。

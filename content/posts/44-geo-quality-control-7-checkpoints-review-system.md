@@ -6,28 +6,27 @@ coverKeyword: 不那么性感的质量控制
 description: GEO质量控制体系不只是大团队需要，一人公司更需要因返工成本是预防的3倍。详解7个关键检查点（AI可理解性、可引用块、多模态对齐、内链网络、事实准确性、来源可信度、技术检查）建立可量化标准，分级评审流程（核心内容三级严审、常规内容两级快审）平衡质量与效率，一人公司用两阶段自查加AI虚拟审核员，通过质量数据追踪月度复盘标准迭代持续改进，避免过度审核、标准主观、只查不教、过度怀疑、工具依赖五个坑，实现返工率降73%、引用率升65%、审核时间减55%。
 tldr: 团队从5人扩到15人返工率飙升35%、一人创业者发布后发现致命错误品牌受损，揭示质量控制不是大团队专利而是一人公司更需要因为返工成本是预防的3倍 <br><br>7个可量化检查点建立标准：AI可理解性（Answer-First结构）、可引用块设计（独立完整）、多模态对齐（Alt文本50-125字符）、内链网络、事实准确性、来源可信度、技术检查，避免主观判断导致标准无法执行 <br><br>分级评审平衡质量效率：团队核心内容三级严审常规两级快审、一人公司两阶段自查（创作后立即+隔天复查）加AI虚拟审核员、80分原则不追求完美避免过度审核成瓶颈 <br><br>持续改进：质量数据追踪返工率<10%引用率>25%、月度复盘、避开只查不教团队抵触，实战效果返工率35%→8%引用率17%→28%审核时间-55%
 tags:
-- 质量管理
-- GEO
-- 生成式引擎
-- AI
-- AEO
-- SEO
-- AIO
-- EEAT
-- LLM
-- 大语言模型
-- 优化
-- 反向工程
+  - 质量管理
+  - GEO
+  - 生成式引擎
+  - AI
+  - AEO
+  - SEO
+  - AIO
+  - EEAT
+  - LLM
+  - 大语言模型
+  - 优化
+  - 反向工程
 categories:
-- GEO内容工程
-- GEO支撑工具
-- GEO团队流程
+  - GEO内容工程
+  - GEO支撑工具
+  - GEO团队流程
 author: 塔迪Tardi
 cover:
   image: /images/cover/AioGeoLab-cover-44-geo-quality-control-7-checkpoints-review-system.png
-  alt: 别让质量失控：从一人公司到规模团队的GEO内容评审7个检查点
+  alt: 44-geo-quality-control-7-checkpoints-review-system
   caption:
-  hidden: false
 schema:
   type: BlogPosting
   wordCount: auto
