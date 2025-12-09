@@ -53,9 +53,13 @@
     </div>
     {{- end }}
 
+   {{- /* 处理隐藏内容 */ -}}
+    {{- $content := .Content -}}
+    {{- $content = replaceRE "(?s)<!-- hugo-hide-start -->.*?<!-- hugo-hide-end -->" "" $content -}}
+
     {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+    {{- partial "anchored_headings.html" $content -}}
+    {{- else }}{{ $content | safeHTML }}{{ end }}
   </div>
   {{- end }}
 
