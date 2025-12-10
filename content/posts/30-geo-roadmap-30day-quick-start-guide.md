@@ -44,7 +44,8 @@ TocOpen: true
 
 <iframe title="Firstory" src="https://open.firstory.me/embed/story/cmiyn08qx00fv01w5f2qabf3o" height="180" width="500" frameborder="0" scrolling="no"></iframe>
 <br>
-* * *
+
+---
 
 ## 先看全景：GEO的5个阶段
 
