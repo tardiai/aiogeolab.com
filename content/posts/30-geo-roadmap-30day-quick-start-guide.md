@@ -31,9 +31,6 @@ TocOpen: true
 ---
 # 一张地图+一条最短路径：新手如何30天启动GEO并看到效果
 
-
-<iframe title="Firstory" src="https://open.firstory.me/embed/story/cmiyn08qx00fv01w5f2qabf3o" height="180" width="500" frameborder="0" scrolling="no"></iframe>
-
 上周，一位刚转型做GEO的朋友跟我说："塔迪，我把你们的文章都看完了，E-E-A-T懂了，Token经济学也懂了，但我就是不知道该从哪里开始。老板问我要结果，我连第一步该干什么都不确定。"
 
 这不是个例。我发现很多新GEOer都卡在同一个地方：不是缺知识，而是缺一张"作战地图"——告诉你全局有什么，更重要的是，告诉你如何开始。
@@ -42,6 +39,11 @@ TocOpen: true
 
 大处着眼，小处下手。
 
+---
+> <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
+
+<iframe title="Firstory" src="https://open.firstory.me/embed/story/cmiyn08qx00fv01w5f2qabf3o" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 * * *
 
 ## 先看全景：GEO的5个阶段
