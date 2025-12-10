@@ -21,3 +21,6 @@ echo ""
  echo "create cover"
  /Users/wyh/baidusync/OneAILtd/aiogeolab.com/draftcover.sh 
 
+ echo "create audio cover"
+ /Users/wyh/baidusync/OneAILtd/aiogeolab.com/audiocover.sh
+

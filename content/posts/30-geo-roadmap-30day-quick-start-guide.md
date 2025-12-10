@@ -31,6 +31,9 @@ TocOpen: true
 ---
 # 一张地图+一条最短路径：新手如何30天启动GEO并看到效果
 
+
+<iframe title="Firstory" src="https://open.firstory.me/embed/story/cmiyn08qx00fv01w5f2qabf3o" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+
 上周，一位刚转型做GEO的朋友跟我说："塔迪，我把你们的文章都看完了，E-E-A-T懂了，Token经济学也懂了，但我就是不知道该从哪里开始。老板问我要结果，我连第一步该干什么都不确定。"
 
 这不是个例。我发现很多新GEOer都卡在同一个地方：不是缺知识，而是缺一张"作战地图"——告诉你全局有什么，更重要的是，告诉你如何开始。
