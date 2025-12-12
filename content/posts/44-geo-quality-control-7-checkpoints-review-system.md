@@ -38,6 +38,9 @@ image:
 
 
 # 别让质量失控：从一人公司到规模团队的GEO内容评审7个检查点
+<!-- hugo-hide-start -->
+![](https://p.vibcx.com/x/2025/12/AioGeoLab-cover-44-geo-quality-control-7-checkpoints-review-system.png)
+<!-- hugo-hide-end -->
 
 某B2B SaaS公司的GEO负责人Lisa，团队从5人扩到15人用了8个月。
 

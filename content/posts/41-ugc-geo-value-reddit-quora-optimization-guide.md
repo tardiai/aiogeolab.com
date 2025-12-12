@@ -48,6 +48,12 @@ Reddit成为AI搜索引用的第一大来源，占所有LLM引用的40.1%，超�
 
 今天塔迪揭秘UGC（用户生成内容）在GEO中的隐藏价值，更重要的是，教你如何通过外部UGC平台提升企业权威性和AI引用率——**即使你没有自己的社区。**
 
+> <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
+
+<iframe title="Firstory" src="https://open.firstory.me/embed/story/cmj2iyzfi000101xl9jzp8r3l" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
+
+
 ## 一、UGC的GEO价值：被严重低估的金矿
 
 ### 1.1 数据震撼：UGC主导AI搜索引用

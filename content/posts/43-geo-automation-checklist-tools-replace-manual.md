@@ -35,6 +35,10 @@ image:
 ---
 
 # GEO自动化清单：如何用工具替代80%的重复劳动
+<!-- hugo-hide-start -->
+![](https://p.vibcx.com/x/2025/12/AioGeoLab-cover-43-geo-automation-checklist-tools-replace-manual.png)
+<!-- hugo-hide-end -->
+
 某B2B SaaS公司的GEO负责人Sarah每天早上9点的第一件事：
 
 - 手动检查10个产品页面的Schema是否正常
@@ -51,6 +55,11 @@ Sarah第二天上午10点才发现，立即召集团队开会讨论应对方案�
 **结果**：竞品的内容已经获得了27次AI引用，Sarah的内容只有3次。
 
 **市场窗口期：72小时 → 8小时，先发优势价值：9倍引用量差距。**
+
+> <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
+
+<iframe title="Firstory" src="https://open.firstory.me/embed/story/cmj2irhnn004001sg8v1vgep6" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 ---
 
