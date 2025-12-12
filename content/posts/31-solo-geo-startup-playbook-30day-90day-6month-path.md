@@ -1344,13 +1344,13 @@ GEO市场的发展阶段：
 **审计与监测**
 
 -   **Google Search Console**：监测AI爬虫抓取（免费）
--   **ChatGPT Plus**：手动测试引用表现（$20/月）
--   **Perplexity Pro**：手动测试引用表现（$20/月）
+-   **ChatGPT Plus**：手动测试引用表现
+-   **Perplexity Pro**：手动测试引用表现
 -   **Google Sheets**：记录数据和对比（免费）
 
 **内容创作**
 
--   **Claude/ChatGPT**：AI辅助创作（免费或$20/月）
+-   **Claude/ChatGPT**：AI辅助创作
 -   **Hemingway Editor**：可读性检查（免费）
 -   **Grammarly**：语法检查（免费版够用）
 
@@ -1369,9 +1369,9 @@ GEO市场的发展阶段：
 
 **如果月收入稳定2万+，可以考虑**：
 
--   **BrightEdge**：AI引用监测（$299/月起）
--   **SEMrush**：竞品分析（$129/月起）
--   **Surfer SEO**：内容优化（$89/月起）
+-   **BrightEdge**：AI引用监测
+-   **SEMrush**：竞品分析
+-   **Surfer SEO**：内容优化
 
 ### 学习资源
 
