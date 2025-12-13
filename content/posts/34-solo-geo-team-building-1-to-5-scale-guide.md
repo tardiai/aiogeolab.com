@@ -66,7 +66,7 @@ tldr: 一人公司天花板在月入20-25万：时间卖完、助手能力有限
 
 > <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
 
-<iframe title="Firstory" src="https://open.firstory.me/embed/story/cmj0zz4pc002601w50pyob518" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmj0zz4pc002601w50pyob518" height="180" width="500" frameborder="0" scrolling="no"></iframe>
 <br>
 
 ## 一人公司的天花板在哪里？何时必须招人？
