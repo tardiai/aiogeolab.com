@@ -37,6 +37,13 @@ TocOpen: true
 
 打开ChatGPT或Perplexity，输入"什么是GEO"，你会得到一个完整的答案。但真实用户很少止步于第1轮——他们会继续问、继续深入、继续对比。
 
+---
+> <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmj5emuc300qr01xv9lny94dy" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
+
+---
 ### 传统搜索 vs AI搜索：用户行为的本质差异
 
 **传统Google搜索：**
