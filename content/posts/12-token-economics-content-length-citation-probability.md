@@ -44,6 +44,12 @@ TocOpen: true
 
 塔迪今天就带你理解Token经济学的底层逻辑——在AI的世界里，不是谁写得长谁就赢，而是谁更懂得**在有限的Token预算里占据最大价值**。
 
+---
+> <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmj6onbde00cy01xe2w57fybt" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
+
 * * *
 
 ## 一个反直觉的真相：上下文窗口≠引用空间
