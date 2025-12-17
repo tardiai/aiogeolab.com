@@ -38,8 +38,14 @@ TocOpen: true
 
 这不是SEO的延续，而是GEO的起点。
 
----
 
+---
+> <small>塔迪输出的文章偏长，源于塔迪总想一次把事情都讲完整，不留尾巴。但有读者反馈，这样阅读压力很大。前一段时间使用NotebookLM的音频概览功能，发现主持人可以把我的文章转变为通俗易懂的方式讲出来，让我这个技术脑袋从不同的视角看自己的文章，大有收获，所以很想分享给大家，尤其时间比较紧张的读者朋友...当然有时间的朋友，塔迪还是建议大家完整地看文章。</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmj81iwxz003q01yb5z623hmq" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
+
+---
 ## Experience（经验）：从"知道"到"做过"
 
 AI搜索不再满足于二手转述。
