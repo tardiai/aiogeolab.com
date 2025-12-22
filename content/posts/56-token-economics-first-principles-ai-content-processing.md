@@ -1,7 +1,7 @@
 ---
 title: Token经济学的第一性原理：AI为什么这样处理你的内容
 date: 2025-12-22
-draft: true
+draft: false
 coverKeyword: 处理内容的五个第一性原理
 description: 深入解析AI处理内容的五大第一性原理：Tokenization切分机制、Attention注意力分配、Context Window工作记忆限制、输出Token预算策略、格式编码效率差异。理解Token不只是计量单位，更是优化指标，掌握底层逻辑，让GEO优化从试错升级到推理，提升AI引用率。
 tldr: 🔍 同样3000字的文章，为什么AI引用率差3倍？因为你看到的是"字数"，AI看到的是"Token序列"——Token消耗差50%，引用概率天差地别。<br><br>💡 这篇文章不讲"怎么做"，而是深挖"为什么"：为什么结构化有效？为什么核心前置？为什么格式差异巨大？从Tokenization、Attention、Context Window、输出预算、格式编码五个第一性原理出发，让你真正理解AI处理内容的底层逻辑。<br><br>🎯 最大收获：掌握原理后，你能推导优化方法，面对新模型也能快速调整——Token不只是计量单位，更是把内容从"盲目优化"升级到"推理式优化"的核心抓手。
