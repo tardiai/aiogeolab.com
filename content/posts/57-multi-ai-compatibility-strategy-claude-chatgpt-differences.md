@@ -1,7 +1,7 @@
 ---
 title: 为什么你的内容在Claude有效、在ChatGPT失效-多AI兼容的底层逻辑
 date: 2025-12-23
-draft: true
+draft: false
 coverKeyword: AI世界的平行宇宙现象
 description: 深度解析Claude、ChatGPT、Perplexity、Gemini引用行为差异的五大根源：训练数据偏向、对齐目标、检索架构、Context Window策略、输出生成取舍。提供系统化兼容策略：内容分层、证据链明确、Schema双轨、多入口设计、金句提炼，让一份内容适配多个AI，提升引用率237%。
 tldr: 😱 同样的内容，Claude引用率23%，ChatGPT只有9%——这不是偶然，而是不同AI在用不同规则"读"你的内容。<br><br>🔍 五大差异决定引用命运：Claude偏好完整论述（Constitutional AI训练），ChatGPT追求简洁改写（RLHF偏好），Perplexity强调实时引用（实时搜索架构），Gemini依赖结构化数据（schema markup)。理解差异，才能超越差异。<br><br>💡 核心策略：内容分层设计——前100 tokens给Perplexity快速答案，结构化展开层给Gemini和Claude，完整论述层给深度阅读型AI。一份内容，多个入口，让引用机会暴涨237%。
