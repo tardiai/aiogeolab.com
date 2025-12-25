@@ -19,7 +19,7 @@ tags:
   - 大语言模型
   - 优化
   - 反向工程
-categories:
+categories: [GEO实战体系]
 author: 塔迪Tardi
 cover:
   image: /images/cover/AioGeoLab-cover-60-geo-from-zero-to-one-three-core-levers.png
