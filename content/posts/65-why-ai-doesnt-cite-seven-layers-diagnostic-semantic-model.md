@@ -33,7 +33,7 @@ TocOpen: true
 image:
 ---
 
-# 为什么AI不引用你的内容？塔迪七层语义模型找出致命缺失
+# 为什么AI不引用你的内容？塔迪七层语义模型为你诊断
 <!-- hugo-hide-start -->
 ![](https://p.vibcx.com/x/2025/12/AioGeoLab-cover-65-why-ai-doesnt-cite-seven-layers-diagnostic-semantic-model.png)
 <!-- hugo-hide-end -->
