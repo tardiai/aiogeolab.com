@@ -325,15 +325,24 @@ body {
 
 .post-content blockquote {
   border-left: 4px solid var(--brand-primary);
-  background: var(--brand-light);
+  background: #f3f4f6;
   padding: 1rem 1.5rem;
   margin: 1.5rem 0;
   border-radius: 0 8px 8px 0;
   color: var(--content);
 }
 
+/* 去除引用内段落的额外空行 */
+.post-content blockquote p {
+  margin: 0;
+}
+
+.post-content blockquote p + p {
+  margin-top: 0.75rem;
+}
+
 .dark .post-content blockquote {
-  background: rgba(0, 152, 115, 0.1);
+  background: rgba(156, 163, 175, 0.1);
   border-left-color: var(--brand-secondary);
 }
 

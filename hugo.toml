@@ -3,7 +3,7 @@ languageCode = "zh"
 defaultContentLanguage = "zh"
 timeZone = "Asia/Shanghai"
 
-title = "AioGeoLab|GEO优化实验室"  # 改为品牌名
+title = "AioGeoLab | GEO优化实验室"  # 改为品牌名
 theme = "PaperMod"
 copyright = "© 2025 TardiAI"
 
@@ -81,7 +81,7 @@ summaryLength = 150
   
   # 首页信息 - 中间大横幅
   [params.homeInfoParams]
-    Title = "欢迎来到 AioGeoLab|GEO优化实验室 👋"
+    Title = "欢迎来到 AioGeoLab | GEO优化实验室 👋"
     Content = "追踪全球顶级GEO一手实践洞察，探索AI时代的中小企业内容优化策略"
 
   # 社交链接
@@ -114,6 +114,12 @@ summaryLength = 150
     name = "文章"
     url = "/posts/"
     weight = 10
+  
+  [[menu.main]]
+    identifier = "tardi-geo-judge"
+    name = "🎯 判断工程"
+    url = "/categories/GEO判断工程/"
+    weight = 15
   
   [[menu.main]]
     identifier = "tags"

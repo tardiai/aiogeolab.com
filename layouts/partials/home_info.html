@@ -1,0 +1,41 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    
+    {{/* 塔迪GEO判断工程特别栏目卡片 */}}
+    <div class="tardi-geo-feature">
+        <div class="feature-main">
+            <h2 class="feature-title">🎯 特别栏目 · 塔迪GEO判断工程</h2>
+            <div class="feature-description">
+                <blockquote>
+                    <p>不讨论如何被更多人看见，<br>
+                    只讨论在 AI 必须下判断时，<br>
+                    系统为什么会用你。</p>
+                </blockquote>
+                <blockquote>
+                    <p>判断工程不是教你多下判断，<br>
+                    而是让"可以被系统使用的判断"<br>
+                    变得极其稀缺。</p>
+                </blockquote>
+                <blockquote>
+                    <p>如果你的判断被系统反复使用，<br>
+                    那你是否准备好，<br>
+                    为它的后果长期负责？</p>
+                </blockquote>
+            </div>
+            <a href="/categories/GEO判断工程/" class="feature-button">
+                进入栏目 →
+            </a>
+        </div>
+    </div>
+    
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

@@ -1,0 +1,205 @@
+/* ========================================
+   塔迪GEO判断工程 - 首页卡片样式
+   ======================================== */
+
+.tardi-geo-feature {
+  margin: 1.5rem 0 1rem 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  position: relative;
+}
+
+.feature-main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.feature-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--brand-primary, #009873);
+  margin: 0 0 0.4rem 0;
+  line-height: 1.3;
+}
+
+.feature-description {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.feature-description blockquote {
+  margin: 0;
+  padding: 0 0 0 0.8rem;
+  border-left: 3px solid var(--brand-primary, #009873);
+  background: transparent;
+  font-size: 0.9rem;
+  color: var(--secondary);
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+.feature-description blockquote p {
+  margin: 0;
+}
+
+.feature-button {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.3rem 0;
+  background: transparent;
+  color: var(--brand-primary, #009873);
+  border: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  margin-top: 0.3rem;
+}
+  margin-top: 0.5rem;
+}
+
+.feature-button:hover {
+  color: var(--brand-dark, #006B52);
+  transform: translateX(3px);
+}
+
+/* 深色模式适配 */
+.dark .feature-title {
+  color: var(--brand-secondary, #00BF8F);
+}
+
+.dark .feature-description blockquote {
+  border-left-color: var(--brand-secondary, #00BF8F);
+  background: transparent;
+}
+
+.dark .feature-button {
+  color: var(--brand-secondary, #00BF8F);
+}
+
+.dark .feature-button:hover {
+  color: #00E5A8;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .tardi-geo-feature {
+    padding: 0;
+    margin: 1rem 0 0.8rem 0;
+  }
+  
+  .feature-title {
+    font-size: 1rem;
+  }
+  
+  .feature-description blockquote {
+    font-size: 0.85rem;
+    padding-left: 0.6rem;
+    border-left-width: 2px;
+  }
+  
+  .feature-button {
+    align-self: flex-start;
+    font-size: 0.85rem;
+  }
+}
+
+
+/* ========================================
+   塔迪GEO判断工程 - 分类页面样式
+   ======================================== */
+
+.tardi-geo-intro {
+  margin: 1.5rem 0 2rem 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+}
+
+.tardi-geo-intro .post-content {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.tardi-geo-intro .post-content blockquote {
+  border-left: 3px solid var(--brand-primary, #009873);
+  background: transparent;
+  padding: 0 0 0 1rem;
+  margin: 0.8rem 0;
+  font-weight: 500;
+  color: var(--secondary);
+  line-height: 1.7;
+}
+
+.tardi-geo-intro .post-content blockquote p {
+  margin: 0;
+}
+
+.tardi-geo-intro .post-content p {
+  line-height: 1.7;
+  margin-bottom: 0.8rem;
+}
+
+.category-posts {
+  margin-top: 2rem;
+}
+
+.section-title {
+  font-size: 1.2rem;
+  color: var(--brand-primary, #009873);
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--border);
+  position: relative;
+}
+
+.section-title::before {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: var(--brand-primary, #009873);
+}
+
+/* 深色模式 */
+.dark .tardi-geo-intro .post-content blockquote {
+  border-left-color: var(--brand-secondary, #00BF8F);
+  background: transparent;
+}
+
+.dark .section-title {
+  color: var(--brand-secondary, #00BF8F);
+}
+
+.dark .section-title::before {
+  background: var(--brand-secondary, #00BF8F);
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .tardi-geo-intro {
+    padding: 0;
+    margin: 1rem 0 1.5rem 0;
+  }
+  
+  .tardi-geo-intro .post-content blockquote {
+    padding-left: 0.8rem;
+    border-left-width: 2px;
+    font-size: 0.9rem;
+  }
+  
+  .category-posts {
+    margin-top: 1.5rem;
+  }
+  
+  .section-title {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+}
