@@ -1,7 +1,7 @@
 ---
 title: Schema不是格式，而是一种"我是谁、我处在什么认知位置"的声明协议
 date: 2026-01-08
-draft: true
+draft: false
 coverKeyword: Schema的本质
 description: Schema不是JSON格式或标注工具，而是一种"我是谁、我处在什么认知位置"的声明协议。本文揭示Schema的本质，拆解内容的三个层级（人类可读、机器可用、系统可复用），提供5类核心Schema的实战指南，帮助你让内容从"被用过"到"被引用"，真正成为AI可调用的认知组件。
 tldr: 🔍 **Schema不是格式，而是认知位置的声明**<br><br>大家以为Schema是JSON/结构化数据，实际上它是向机器声明"我是谁、我处在什么认知位置"的协议。没有Schema的内容，AI只能"猜测"；有Schema的内容，AI才能"确认"并"引用"。<br><br>📊 **内容有三个层级：猜→确认→复用**<br><br>人类可读（无Schema）→ 机器可用（有Schema依赖上下文）→ 系统可复用（Schema原子化）。大多数内容停在第一层，只有极少数到达第三层，成为AI的"认知组件"。<br><br>⚙️ **5类核心Schema覆盖90%场景**<br><br>Article（内容实体）+ DefinedTerm（术语概念）+ Person（人物）+ Organization（组织）+ Product（产品），用3周最小闭环：标记 → 验证 → 迭代，让你的内容真正"可被调用"。
