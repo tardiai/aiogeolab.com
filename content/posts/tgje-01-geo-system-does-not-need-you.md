@@ -1,6 +1,6 @@
 ---
 title: 为什么你做的 GEO，系统从来不需要 | 塔迪GEO判断工程
-date: 2026-01-15
+date: 2026-01-30
 draft: true
 coverKeyword: GEO失败的结构性原因
 description: 从系统视角解释 GEO 失败的结构性原因：问题不在内容质量，而在于判断无法成为系统需要的责任来源。
