@@ -35,6 +35,8 @@ image:
 ---
 # 为什么教程越全，用户反而越不敢行动丨塔迪GEO判断工程
 
+![](https://p.vibcx.com/x/2026/01/infographic-tgje-12-why-detailed-tutorials-stop-action_1280_714.jpg)
+
 你一定见过这样的现象。
 
 教程越来越长，  
@@ -45,6 +47,12 @@ image:
 
 这并不是教程写得不够好，  
 而是它在一个关键位置，**什么都没有提供**。
+
+---
+> <small>近期塔迪文章进入深水区-短期的、必须踏过去的门槛，不久还是会回到实践之路。而NotebookLM的音频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmkshmycs0b6901uv8p6khypn" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 ---
 
