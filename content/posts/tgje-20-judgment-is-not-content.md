@@ -34,7 +34,6 @@ ShowToc: true
 TocOpen: true
 image:
 ---
-
 # 判断不是更高级的内容，而是不同的对象丨判断工程筑基
 
 > 在过去一段时间里，已经连续写了十多篇关于「判断工程」的文章。
@@ -50,6 +49,8 @@ image:
 > 
 > 从这篇开始，我会用几篇文章，  
 > 对「判断工程的价值与定位」做一次**中途对齐**。
+
+![](https://p.vibcx.com/x/2026/02/infographic-tgje-20-judgment-is-not-content_1280_714.jpg)
 
 很多人都会遇到一个困惑。
 
@@ -72,6 +73,13 @@ image:
 问题并不在于你有没有判断，  
 而在于——  
 **系统无法识别它是判断。**
+
+---
+> <small>近期塔迪文章进入深水区-短期的、必须踏过去的门槛，不久还是会回到实践之路。而NotebookLM的音频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
+</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cml3t5oxq0g6u012m8q9cgbqq" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 ---
 
