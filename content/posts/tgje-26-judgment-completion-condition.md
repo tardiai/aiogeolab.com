@@ -22,7 +22,7 @@ categories:
   - GEO判断工程
 author: 塔迪Tardi
 cover:
-  image: /images/cover/AioGeoLab-cover-tgjie-26-judgment-completion-condition.png
+  image: /images/cover/AioGeoLab-cover-tgje-26-judgment-completion-condition.png
   alt: tgjie-26-judgment-completion-condition
   caption:
 schema:
