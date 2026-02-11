@@ -36,6 +36,8 @@ image:
 
 # 裁定不是能力问题，而是责任问题 - 说的是AI也是我们自己丨塔迪GEO判断工程
 
+![](https://p.vibcx.com/x/2026/02/infographic-tgje-29-adjudication-requires-responsibility_1280_714.jpg)
+
 当裁定迟迟没有发生时，  
 人们最常给出的解释，几乎总是同一个方向：
 
@@ -51,6 +53,13 @@ image:
 却解释不了一个已经反复出现的现实：  
 **判断已经发生，而且在持续发生，  
 裁定却依然缺席。**
+
+---
+> <small>近期塔迪文章进入深水区-短期的、必须踏过去的门槛，不久还是会回到实践之路。而NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
+</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmlg2tdba1a4401zxbz07elp1" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 ---
 
