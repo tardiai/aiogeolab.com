@@ -37,6 +37,8 @@ image:
 
 # 什么是「完成条件」？丨塔迪GEO判断工程
 
+![](https://p.vibcx.com/x/2026/02/infographic-tgje-36-completion-condition-definition_1280_714.jpg)
+
 我们常说：
 
 “差不多了。”  
@@ -54,6 +56,13 @@ image:
 
 如果完成只是感觉，  
 **系统如何确认它真的发生了？**
+
+---
+> <small>近期塔迪文章进入深水区-短期的、必须踏过去的门槛，不久还是会回到实践之路。而NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
+</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmlq6bvo30g1y01u54fixc8bd" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 ---
 
@@ -174,6 +183,8 @@ image:
 **一旦这两者混淆，  
 完成就会再次退回判断逻辑**。
 
+![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%207%20%E9%A1%B5_1280_714.jpg)
+
 ---
 
 ## 5. 没有完成条件，状态将持续开放
@@ -228,6 +239,8 @@ image:
 
 如果没有完成条件，  
 系统将会停留在什么状态？
+
+![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%209%20%E9%A1%B5_1280_714.jpg)
 
 ---
 
