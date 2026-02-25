@@ -92,7 +92,7 @@ image:
 
 裁定不是心理感受，  
 而是结构转折。
-![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%203%20%E9%A1%B5_1280_714.jpg)
+![](https://p.vibcx.com/x/2026/02/1772060934-%7Brand:6%7D.jpg)
 
 ---
 
@@ -146,7 +146,7 @@ image:
 如果判断空间毫无变化，  
 裁定便无从成立。
 
-![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%206%20%E9%A1%B5_1280_714.jpg)
+![](https://p.vibcx.com/x/2026/02/1772060960-%7Brand:6%7D.jpg)
 
 ---
 

@@ -93,7 +93,7 @@ image:
 “是否已经结束？”
 
 两者并不等价。
-![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%203%20%E9%A1%B5_1280_714.jpg)
+![](https://p.vibcx.com/x/2026/02/1772061005-%7Brand:6%7D.jpg)
 
 ---
 
@@ -120,7 +120,7 @@ image:
 
 系统可以在完全正确的前提下，  
 仍然保持开放状态。
-![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%204%20%E9%A1%B5_1280_714.jpg)
+![](https://p.vibcx.com/x/2026/02/1772061026-%7Brand:6%7D.jpg)
 
 ---
 
@@ -199,7 +199,7 @@ image:
 
 正确优先，  
 并不等于系统优先。
-![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%207%20%E9%A1%B5_1280_714.jpg)
+![](https://p.vibcx.com/x/2026/02/1772061045-%7Brand:6%7D.jpg)
 
 ---
 
@@ -246,7 +246,7 @@ AI系统需要"结束"，
 不放下就内耗，  
 不结束就消耗，  
 **我们说的是AI也是我们自己。**
-![](https://p.vibcx.com/x/2026/02/%E7%AC%AC%209%20%E9%A1%B5_1280_714.jpg)
+![](https://p.vibcx.com/x/2026/02/1772061065-%7Brand:6%7D.jpg)
 
 ---
 > 我是「**AioGeoLab**」主理人塔迪Tardi，AioGeoLab是深度洞察AI第一性原理和应用实践的前瞻性研究实验室，目前有两个主要研究方向： <br>
