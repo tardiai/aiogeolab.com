@@ -43,6 +43,8 @@ image:
 ---
 # 裁定权，是AI系统设计里最贵的那个决策丨不是因为它难，是因为跳过它的代价被严重低估
 
+![](https://p.vibcx.com/x/2026/03/1772767685-infographici-tgje-53-verdict-authority-the-most-expensive-ai-design-decision_1280_714.jpg)
+
 有一种**技术债**，在欠下的时候完全感觉不到。
 
 不像性能瓶颈，系统变慢会立刻有人投诉。不像安全漏洞，一旦被利用损失立刻可见。这种债安静地藏在系统结构里，直到某一天，一个不预期的事件发生，所有人才意识到：这里从来没有被认真设计过。
@@ -54,6 +56,13 @@ image:
 裁定权不在这个清单里。
 
 因为它的缺失，在系统上线的第一天，什么问题都不会发生。
+
+---
+> <small>NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
+</small>
+
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmmebzq6z3ofd01xhe3mm3xd4" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 * * *
 
