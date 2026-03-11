@@ -1,7 +1,7 @@
 ---
 title: AI正在从顾问变成执行者丨OpenClaw为什么会爆火
 date: 2026-03-12
-draft: true
+draft: false
 coverKeyword: 从顾问变成执行者
 description: OpenClaw在72小时内收获60,000个GitHub星标，背后不是一个产品的成功，而是AI角色转变的信号。本文是AI Agent系列的认知入口篇，厘清工具增强型与自主执行型Agent的本质差异，解释为什么"谁来触发下一步动作"才是理解这场变革的核心问题。
 tldr: |-
