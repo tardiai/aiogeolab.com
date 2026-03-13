@@ -1,7 +1,7 @@
 ---
 title: 你对Agent的四个误解，让你用错这个跨时代工具
 date: 2026-03-13
-draft: true
+draft: false
 coverKeyword: 对Agent的四个误解
 description: OpenClaw爆火之后，最常见的两种反应是过度兴奋和过度恐惧——而两种都是误解。本文拆解对AI Agent最普遍的四个认知错误，从"它只是更聪明的ChatGPT"到"不懂技术就用不了"，指出每个误解背后的旧假设，以及框架升级之后应该怎么重新看待这个工具。
 tldr: |-
