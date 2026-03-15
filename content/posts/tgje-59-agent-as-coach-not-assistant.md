@@ -1,7 +1,7 @@
 ---
 title: 让龙虾来养你——Agent是教练，不是助手
 date: 2026-03-15
-draft: true
+draft: false
 coverKeyword: Agent是教练
 description: AI Chat是老师，Agent是教练——这个区分，定义了两种完全不同的成长方式。本文探讨如何通过和Agent协作，打磨边界感和拆解能力这两种AI时代最核心的人类能力，以及为什么真正用好Agent之后，变强的是你自己而不只是你的效率。
 tldr: |-
