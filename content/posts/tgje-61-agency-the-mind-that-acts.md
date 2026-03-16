@@ -1,7 +1,7 @@
 ---
 title: 主动性——Agent从工具进化成伙伴的核心特征
 date: 2026-03-17
-draft: true
+draft: false
 coverKeyword: Agent的主动性
 description: 权限释放了Agent的手，主动性解放了它的脑。本文拆解主动性这个核心特征：它和自动化的本质差别，为什么主动询问是判断行为而非合规行为，意外惊喜与意外惊吓的同源关系，以及自我迭代进化作为主动性最高形态意味着什么。
 tldr: |-
