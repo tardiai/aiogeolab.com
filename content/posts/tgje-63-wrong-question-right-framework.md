@@ -1,7 +1,7 @@
 ---
 title: 选Agent工具，你问错问题了
 date: 2026-03-19
-draft: true
+draft: false
 coverKeyword: Agent如何选
 description: 面对OpenClaw、Claude Code、Cursor、Manus等越来越多的Agent工具，大多数人问错了问题——"哪个最强"没有意义，真正的选择依据是权责匹配：你的需求是代码还是工作流、你愿意承担多少运维责任、你现在处于哪个阶段。本文提供两大阵营的工作哲学框架（工具增强型vs自主执行型），并针对不同处境直接给出选型建议。产品会迭代，框架不会过时。
 tldr: |-
