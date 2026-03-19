@@ -53,17 +53,18 @@ publish:
     infographic_url: https://p.vibcx.com/x/2026/03/1773850303-infographic-tgje-65-copilot-cursor-claude-code-dna-not-features_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-65-copilot-cursor-claude-code-dna-not-features_1280_714.jpg
   wechat:
-    cover_media_id: lEmH66TSP501Rw-1R2Ao36but02ck1tQoXO-k10g2hk2Tl2BxKpcDY-osrE2WzGu
-    video_vid: apiv_4433516469393637377
-    video_cover_url: ''
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVK2tj6VSBsyqJ4vYnPTibibjdsUHhDGh3BvN9ExxqJ3IsX45Us71kvtTGEv84YicRibJ9OjV90sRWVRJQgSJNW0SOhmruDTKObibkw/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao33k7o6njI7o8UANfII0SzyFQRkQfR1sBb1W_DmFD0Z6x
-    draft_created_at: 2026-03-18 16:14
-    video_media_id: lEmH66TSP501Rw-1R2Ao397nIoOo6-qJZh14SEJCxcZxcBmYM_Whjb8Fcc6mxxlk
+    cover_media_id: lEmH66TSP501Rw-1R2Ao3wbBFlV5U9bjPDauKonlcDjSD_6uOd18QxmWv0iQ2S1V
+    video_vid: wxv_4434420268354256906
+    video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXrNaRKlPXPs5ic5FAYER5revW0V7kDORmJwJuicial45pQ941r2lZ7TicP9UvkGmEGOmDAf50xLsDsQCrkV3M71jT6rLAEiaolbUyM/0?wx_fmt=jpeg
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNV1AtqbdoicEE3N0jh3CYCrtCtkicAmJJtPCren4gauRiaczzVqsa0gbw8QxquXPiaN0p31xRMFQtCf6bK2YfSAwMiaExEWaDF6roYw/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3wWe84TZweA9LxYdOj5zHETiMDhDQ1gm3QfAjCaVYGpm
+    draft_created_at: 2026-03-19 07:25
+    video_media_id: lEmH66TSP501Rw-1R2Ao34ioUTBWqDi5Bw1YdxACQj5Jks3ybn7blFmcmQRv6VRO
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-03-19 06:12
 ---
 # 编程型Agent怎么选：Cursor、Claude Code、Copilot的真实差异
 
