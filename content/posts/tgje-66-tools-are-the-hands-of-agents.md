@@ -49,32 +49,43 @@ publish:
     video: null
     infographic: null
   cdn:
-    infographic_url: https://p.vibcx.com/x/2026/03/1773912200-infographic-tgje-66-tools-are-the-hands-of-agents_1280_714.jpg
+    infographic_url: https://p.vibcx.com/x/2026/03/1773912749-infographic-tgje-66-tools-are-the-hands-of-agents_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-66-tools-are-the-hands-of-agents_1280_714.jpg
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao31gc6Wm0eDPcPJHKiTxKAPYQByTWQMjQ8XWhYm-wR2dh
     video_vid: wxv_4434540672226050058
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWG15rNARAWtP7ticPhwVnyRmVhibxO6Oe5Gibp31FibnyekyLnvp54Kywaos4a9AIqzWtaao0yLDdTeQuKiaQfVic9xib777U72EppQA/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVLqpkZJQcRt1JDJUL9OUaiaib97lWWWMdePic3hEeMsUYzDGuJC0ntZc8Hvl9jJr4nziaVNOXtXnMMoibhQqXGkVX4ZC6Phn9ZiaVibE/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao35TavUSGDrU9jOKhEgfrveOAPNamBK7RRZXt9scESqSM
-    draft_created_at: 2026-03-19 09:23
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNUfia0aShiaCYtviae1v7DTm0mhDibbCRwsEe9PDngXcKlt6rM2A5NvIPxhSXmRb1Rjrs8iaUbZRZJPOib5lxf0TxlhqfibarNNr6pIy8/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3zMaUXUWx0YQslo_IdyspzaaMOA7mU2iiWRJxFVOOmS2
+    draft_created_at: 2026-03-19 18:07
     video_media_id: lEmH66TSP501Rw-1R2Ao36SCwrv47xU4-5woFdicCpX9WddlWrgBx1uDML_3KhVw
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-03-19 17:23
 ---
-
 # Agent的手：工具调用是什么
+
 <!-- infographic-start -->
-![信息图](https://p.vibcx.com/x/2026/03/1773912200-infographic-tgje-66-tools-are-the-hands-of-agents_1280_714.jpg)
+![信息图](https://p.vibcx.com/x/2026/03/1773912749-infographic-tgje-66-tools-are-the-hands-of-agents_1280_714.jpg)
 <!-- infographic-end -->
+
 系列一的前几篇讲清楚了Agent是什么、怎么理解它的主动性、怎么迈出使用的第一步。
 但有一个更基础的问题一直没有正面回答：
 
 **Agent为什么能"做事"，而不只是"说话"？**
 
 这篇来回答这个问题。
+
+---
+<!-- audiovideo-start -->  
+> <small>NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
+</small>
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmmx8gl5o02ia01ylgtmifjed" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<br>
+<!-- audiovideo-end -->
+
 
 * * *
 
