@@ -31,7 +31,7 @@ categories:
   - GEO判断工程
 author: 塔迪Tardi
 cover:
-  image: /images/cover/AioGeoLab-cover- tgje-58-stop-feeding-the-lobster-start-using-it.png
+  image: /images/cover/AioGeoLab-cover-tgje-58-stop-feeding-the-lobster-start-using-it.png
   alt: tgje-58-stop-feeding-the-lobster-start-using-it
   caption:
 schema:

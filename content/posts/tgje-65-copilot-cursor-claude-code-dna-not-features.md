@@ -1,7 +1,7 @@
 ---
 title: 编程型Agent怎么选：Cursor、Claude Code、Copilot的真实差异
 date: 2026-03-21
-draft: true
+draft: false
 coverKeyword: 编程型Agent怎么选
 description: Cursor、Claude Code、GitHub Copilot的真实差异不在功能参数，在设计基因：Copilot是键盘级增强、不具备完整任务闭环；Cursor是最均衡的生产力工具、半闭环、UX最好；Claude Code是Agent优先、完整闭环、最强但最重。本文结合2026年企业采用率数据，揭示行业从"补全工具"向"Agent开发"迁移的趋势，并说明为何在市场走向融合的背景下理解工具基因仍然重要。
 tldr: |-

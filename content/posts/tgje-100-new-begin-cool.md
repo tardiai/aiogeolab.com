@@ -11,7 +11,7 @@ cover:
 coverKeyword: 千人排队到强制卸载
 date: 2026-03-20
 description: 2026年3月同一周内，OpenClaw经历了从千人排队到高校强制卸载的戏剧性反转。本文不评判禁令对错，而是追问背后的结构性问题：个人用Agent，责权利一体，裁定权天然在自己手里；组织用Agent，责权利分离，裁定权如果没有显式设计就会在出问题时凭空消失。机构的禁令是应激反应，解决了眼前的安全问题，却回避了真正需要被设计的框架。
-draft: true
+draft: false
 image: null
 publish:
   cdn:
