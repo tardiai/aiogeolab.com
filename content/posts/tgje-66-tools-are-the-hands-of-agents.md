@@ -1,7 +1,7 @@
 ---
 title: Agent的手：工具调用是什么
 date: 2026-03-22
-draft: true
+draft: false
 coverKeyword: Agent的手
 description: Agent能"做事"而不只是"说话"，唯一的原因是工具调用。本文拆解工具调用的完整链路、三个层次（系统级/服务级/Agent级），以及一个反直觉的结论：工具越多越好是错的，OpenClaw用4个核心工具撑起所有任务的极简哲学，正是这个逻辑的极端体现。工具是能力放大器，也是风险放大器——行动力和责任永远是一体的。
 tldr: |-

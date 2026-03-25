@@ -1,7 +1,7 @@
 ---
 title: Skills还是脚本：什么时候用AI，什么时候用代码
 date: 2026-03-24
-draft: true
+draft: false
 coverKeyword: Skills还是脚本
 description: 有了AI之后很多人停止写脚本，但该自动化的事还是没自动化——问题不是该用哪个，而是什么时候用哪个。本文提出三种方案的选择框架：纯脚本（确定性，规则可穷举）、Skills/Agent（概率性，语义理解）、脚本调用API（两层组合，保留确定性框架同时获得AI理解能力）。一个判断问题收口：输入变了，需要重新理解还是只需要重新计算？
 tldr: |-
@@ -67,6 +67,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-03-21 11:59
 ---
 # Skills还是脚本：什么时候用AI，什么时候用代码
 <!-- infographic-start -->

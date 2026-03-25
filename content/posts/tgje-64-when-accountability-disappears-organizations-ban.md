@@ -32,7 +32,7 @@ tags:
 categories: [AIAgent, GEO判断工程]
 author: 塔迪Tardi
 cover:
-  image: /images/cover/AioGeoLab-cover- tgje-64-when-accountability-disappears-organizations-ban.png
+  image: /images/cover/AioGeoLab-cover-tgje-64-when-accountability-disappears-organizations-ban.png
   alt: tgje-64-when-accountability-disappears-organizations-ban
   caption:
 schema:

@@ -1,7 +1,7 @@
 ---
 title: Skills：让AI真正懂你的工作方式
 date: 2026-03-23
-draft: true
+draft: false
 coverKeyword: Skills是菜谱
 description: 每次对话从零开始是AI使用中最持久的隐性摩擦，Skills是Anthropic给出的解决方案——一个装着你工作方式的文件夹，自动触发、无需手动调用。本文拆解Skills的核心机制（渐进式三层加载）、和MCP的本质区别（菜谱vs厨具）、开放标准带来的跨平台价值，以及不能忽视的供应链安全风险。
 tldr: |-
