@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-03-26 13:19
 ---
 # 全民养虾，你是在用AI，还是成了AI的养料？
 <!-- infographic-start -->
