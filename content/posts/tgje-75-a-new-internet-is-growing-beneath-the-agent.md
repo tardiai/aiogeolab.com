@@ -1,7 +1,7 @@
 ---
 title: 龙虾底下，正在长出一层新的互联网
 date: 2026-03-31
-draft: true
+draft: false
 coverKeyword: Agent基础设施
 description: 龙虾让AI Agent变得可见，但让Agent真正可用的基础设施还没建好。支付、身份、记忆、协作协议、权限边界——这五层东西，原来的互联网一个都没有为Agent准备好。现在，Visa、Coinbase、Stripe、Mastercard、Sam Altman的World正在以极快的速度重建这一切。这篇文章梳理这层正在被建造的新基础设施，以及为什么它比应用层更值得关注。
 tldr: |-
