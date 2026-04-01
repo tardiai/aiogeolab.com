@@ -62,6 +62,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-03-31 11:06
 ---
 # 龙虾成本管理四步框架：像投资一样管你的Agent支出
 <!-- infographic-start -->

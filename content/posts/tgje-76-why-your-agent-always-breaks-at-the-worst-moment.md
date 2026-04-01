@@ -1,7 +1,7 @@
 ---
 title: 你的龙虾为什么总在关键时刻掉链子
 date: 2026-04-01
-draft: true
+draft: false
 coverKeyword: Agent结构性局限
 description: 龙虾总在关键时刻掉链子——任务跑偏、忘记偏好、工具选错。这不是你的问题，也不只是模型不够强，而是所有Agent系统共同面对的三层结构性局限：planning、memory、skill。这篇文章拆解这三层为什么会出问题，以及用户现在能做什么来绕开它们。
 tldr: |-
