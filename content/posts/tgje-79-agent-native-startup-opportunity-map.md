@@ -61,6 +61,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-01 10:45
 ---
 # Agent原生创业：四类机会与选择逻辑丨基于OpenClaw生态的实战地图
 <!-- infographic-start -->
