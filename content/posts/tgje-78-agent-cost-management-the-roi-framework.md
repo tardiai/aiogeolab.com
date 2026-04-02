@@ -1,6 +1,6 @@
 ---
 title: 龙虾成本管理四步框架：像投资一样管你的Agent支出
-date: 2026-04-03
+date: 2026-04-06
 draft: true
 coverKeyword: 龙虾成本管理四步框架
 description: 省钱和投资回报是两件不同的事。省钱思维会让你把高价值任务也降档，最后龙虾没用了；投资回报思维是把钱花在刀刃上。这篇文章给出一套可长期复用的龙虾成本管理方法论：四个步骤，从看清楚钱流向哪里，到给每笔消耗标注价值，再到两个任务设计原则和三层模型选择框架，最后用一个完整案例演示调控过程。方法论类，长期有效。
@@ -44,9 +44,9 @@ publish:
   slug: tgje-78-agent-cost-management-the-roi-framework
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
+    cover_img:
+    video:
+    infographic:
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/03/1774926378-infographic-tgje-78-agent-cost-management-the-roi-framework_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-78-agent-cost-management-the-roi-framework_1280_714.jpg
@@ -59,7 +59,7 @@ publish:
     draft_created_at: 2026-03-31 11:06
     video_media_id: lEmH66TSP501Rw-1R2Ao3xvvfU0134o4iM1be08tnkpMWzWtwG8sogWtEDTzvz0n
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
   blog_published_at: 2026-03-31 11:06

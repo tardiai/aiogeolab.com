@@ -1,7 +1,7 @@
 ---
 title: 失控的龙虾账单丨龙虾账单到底会有多少？算清楚你就不怕了
-date: 2026-04-02
-draft: false
+date: 2026-04-05
+draft: true
 coverKeyword: 失控的账单不是因为用量大
 description: 阻止大多数人用龙虾的，不是账单本身，是看不见底的账单。这篇文章先用三个真实的天价账单案例说清楚失控是怎么来的，再把token定价逻辑翻译成普通人能理解的语言，算出三种常见任务的实际成本，最后给出消除不确定性的具体方法。结论是：失控的账单不是因为用量大，是因为没有边界。
 tldr: |-
@@ -45,9 +45,9 @@ publish:
   slug: tgje-77-your-agent-bill-decoded-boundaries-not-usage-cause-runaway-costs
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
+    cover_img:
+    video:
+    infographic:
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/03/1774843785-infographic-tgje-77-your-agent-bill-decoded-boundaries-not-usage-cause-runaway-costs_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-77-your-agent-bill-decoded-boundaries-not-usage-cause-runaway-costs_1280_714.jpg
@@ -60,7 +60,7 @@ publish:
     draft_created_at: 2026-03-30 12:10
     video_media_id: lEmH66TSP501Rw-1R2Ao3_L4YhvYuc2-aFgBlx4WS1QdmYN0-ITsLcU0ebwr7J-3
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
   blog_published_at: 2026-03-30 12:10

@@ -1,7 +1,7 @@
 ---
 title: 光有裁定权还不够：Harness Engineering丨判断工程的另一半
-date: 2026-04-05
-draft: true
+date: 2026-04-02
+draft: false
 coverKeyword: 完整的AI治理框架
 description: 裁定机制设计好了，Agent在执行中还是会漂移——这是判断工程解决不了的问题。本文介绍Harness Engineering：从三层演化（Prompt→Context→Harness）到三根支柱（Context工程、架构约束、熵管理），再到它与判断工程如何构成完整的AI治理框架。两者合在一起：判断工程划边界，Harness Engineering守边界。缺一个，AI治理都是半成品。
 tldr: |-
@@ -47,9 +47,9 @@ publish:
   slug: tgje-80-harness-engineering-the-other-half-of-judgment
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
+    cover_img:
+    video:
+    infographic:
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/04/1775116655-infographic-tgje-80-harness-engineering-the-other-half-of-judgment_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-80-harness-engineering-the-other-half-of-judgment_1280_714.jpg
@@ -62,9 +62,10 @@ publish:
     draft_created_at: 2026-04-02 15:58
     video_media_id: lEmH66TSP501Rw-1R2Ao337XZJUO-oto29c9S1XlVNaoPYCaKVhAT3Aeq4fl9T7n
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
+  blog_published_at: 2026-04-02 15:58
 ---
 # 光有裁定权还不够：Harness Engineering丨判断工程的另一半
 <!-- infographic-start -->
