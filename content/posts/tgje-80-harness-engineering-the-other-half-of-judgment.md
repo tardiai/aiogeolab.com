@@ -47,9 +47,9 @@ publish:
   slug: tgje-80-harness-engineering-the-other-half-of-judgment
   status: wx_draft_created
   paths:
-    cover_img:
-    video:
-    infographic:
+    cover_img: null
+    video: null
+    infographic: null
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/04/1775116655-infographic-tgje-80-harness-engineering-the-other-half-of-judgment_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-80-harness-engineering-the-other-half-of-judgment_1280_714.jpg
@@ -62,10 +62,10 @@ publish:
     draft_created_at: 2026-04-02 15:58
     video_media_id: lEmH66TSP501Rw-1R2Ao337XZJUO-oto29c9S1XlVNaoPYCaKVhAT3Aeq4fl9T7n
   wx_article:
-    digest:
+    digest: null
     original: false
     comment: true
-  blog_published_at: 2026-04-02 15:58
+  blog_published_at: 2026-04-02 16:56
 ---
 # 光有裁定权还不够：Harness Engineering丨判断工程的另一半
 <!-- infographic-start -->
