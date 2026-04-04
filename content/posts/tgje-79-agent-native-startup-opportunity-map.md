@@ -1,7 +1,7 @@
 ---
 title: " Agent原生创业：四类机会与选择逻辑丨基于OpenClaw生态的实战地图"
 date: 2026-04-04
-draft: true
+draft: false
 coverKeyword: Agent原生创业
 description: Agent原生创业系列第一篇。本文不做方向推荐，而是建立一套分类框架：从Agent带来的四个结构性变化出发，推导出Agent原生团队真正有优势的四类创业机会。适合没有传统行业客群资源、从零开始考虑Agent创业的团队和个人。基于OpenClaw生态，底层逻辑适用于同类Agent平台。
 tldr: |-

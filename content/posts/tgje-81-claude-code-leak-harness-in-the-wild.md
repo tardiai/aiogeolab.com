@@ -1,7 +1,7 @@
 ---
 title: 连Anthropic自己都翻车了，但源码里藏着一份教材
 date: 2026-04-03
-draft: true
+draft: false
 coverKeyword: CC源码泄露事件复盘
 description: Claude Code源码泄露事件复盘：从一个60MB调试文件引发的连锁反应，到源码里真正值得研究的三个Harness设计决策——权限系统的真实意图、用AI审查AI的裁定机制、记忆系统的克制哲学。以及最后一个值得玩味的悖论：最懂AI裁定机制的公司，自己的发布流程里有一个裁定节点失效了两次。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-02 18:38
 ---
 # 连Anthropic自己都翻车了，但源码里藏着一份教材
 <!-- infographic-start -->
