@@ -1,7 +1,7 @@
 ---
 title: 从聊天到干活，你的AI账单结构变了
 date: 2026-04-07
-draft: true
+draft: false
 coverKeyword: 聊天型消耗和干活型消耗
 description: 从"聊天型消耗"和"干活型消耗"两种结构入手，拆解为什么同样是用AI、账单差距可以达到十倍甚至百倍。提供三个决定消耗量级的核心变量（调度频次、任务粒度、上下文长度），帮助读者建立正确的账单认知框架——不是省钱，是看懂结构。
 tldr: |-
@@ -64,7 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-04-04 22:39
+  blog_published_at: 2026-04-04 22:42
 ---
 # 从聊天到干活，你的AI账单结构变了
 <!-- infographic-start -->
