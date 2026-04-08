@@ -1,7 +1,7 @@
 ---
 title: 当软件的用户变成Agent｜你的产品，Agent用得上吗
 date: 2026-04-08
-draft: true
+draft: false
 coverKeyword: 当Agent成为用户时
 description: 从"用户是人"这个产品设计的隐藏假设入手，分析当Agent成为用户时，产品逻辑如何从根本上发生改变。结合招聘API和购物Skill两个真实案例，给出为Agent设计产品的核心判断：干净的API、明确的输入输出、按结果计费。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-07 16:32
 ---
 # 当软件的用户变成Agent｜你的产品，Agent用得上吗
 <!-- infographic-start -->
