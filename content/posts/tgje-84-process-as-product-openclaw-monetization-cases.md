@@ -1,7 +1,7 @@
 ---
 title: 流程即产品，结果即收费｜OpenClaw商业变现案例篇
 date: 2026-04-09
-draft: true
+draft: false
 coverKeyword: 四个龙虾变现案例
 description: 通过虾导、购物Skill、Pine AI、招聘Agent四个真实案例，拆解"流程即产品、结果即收费"这一Agent时代最值得关注的商业模式——不卖工具卖结果，不收工具费收交付费。每个案例拆解：替谁跑什么流程、交付什么结果、收费逻辑是什么。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-08 14:53
 ---
 # 流程即产品，结果即收费｜OpenClaw商业变现案例篇
 <!-- infographic-start -->
