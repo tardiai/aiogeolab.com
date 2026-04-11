@@ -1,7 +1,7 @@
 ---
 title: " 付了$200选了超大桶，还是提心吊胆｜如果互联网按比特收费，你还敢上网吗"
 date: 2026-04-10
-draft: true
+draft: false
 coverKeyword: 如果互联网按比特收费
 description: 从$200用户19分钟烧完额度的真实案例切入，拆解AI计费最核心的矛盾——不是贵，是不可预期。通过"互联网如果当年按比特收费"的类比，指出Token计费和业务单位之间的语义鸿沟，并给出行业解法方向和用户现在能做的三件事。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-09 08:45
 ---
 # 付了$200选了超大桶，还是提心吊胆｜如果互联网按比特收费，你还敢上网吗
 <!-- infographic-start -->
