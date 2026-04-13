@@ -9,7 +9,10 @@ echo ""
 
 
 
- cd /Users/wyh/baidusync/OneAILtd/aiogeolab.com
+ c d/Users/wyh/baidusync/OneAILtd/aiogeolab.com
+
+export http_proxy=http://127.0.0.1:7897
+export https_proxy=http://127.0.0.1:7897
  
  echo "git commit"
 git add .
