@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-13 16:28
 ---
 # 龙虾越好用，你越危险｜头脑和手脚同时退场，你还剩什么
 <!-- infographic-start -->

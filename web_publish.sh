@@ -8,16 +8,18 @@ echo "==================================================="
 echo ""
 
 
-
- c d/Users/wyh/baidusync/OneAILtd/aiogeolab.com
+cd /Users/wyh/baidusync/OneAILtd/aiogeolab.com
 
 export http_proxy=http://127.0.0.1:7897
 export https_proxy=http://127.0.0.1:7897
  
- echo "git commit"
+echo "git commit"
+
 git add .
 git commit -m "article publish" 
- echo "push to github"
+
+echo "push to github"
+
 git push 
  
 
