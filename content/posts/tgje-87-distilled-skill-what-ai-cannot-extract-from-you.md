@@ -1,7 +1,7 @@
 ---
 title: 同事被炼化了｜你的护城河，能被蒸馏吗
 date: 2026-04-13
-draft: true
+draft: false
 coverKeyword: 你的护城河，能被蒸馏吗
 description: 如果一个人的思维框架可以被蒸馏成Skill，什么才是真正炼不出来的东西？提出元技能和体验两个维度，并给出三个可操作的积累方向。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-12 10:58
 ---
 # 同事被炼化了｜你的护城河，能被蒸馏吗
 <!-- infographic-start -->
