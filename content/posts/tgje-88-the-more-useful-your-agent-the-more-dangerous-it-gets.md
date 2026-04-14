@@ -1,7 +1,7 @@
 ---
 title: 龙虾越好用，你越危险｜头脑和手脚同时退场，你还剩什么
 date: 2026-04-14
-draft: true
+draft: false
 coverKeyword: 别成为一个空壳指挥者
 description: 从"龙虾接管手脚"切入，指出AI接管思考、龙虾接管行动两者叠加的结果——你变成一个空壳指挥者，既没有判断力也没有执行直觉。给出四个解法：判断在前执行在后、红队蓝队挑战法、亲身跑过一次、定期校准。
 tldr: |-
@@ -65,7 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-04-13 16:28
+  blog_published_at: 2026-04-13 16:30
 ---
 # 龙虾越好用，你越危险｜头脑和手脚同时退场，你还剩什么
 <!-- infographic-start -->
