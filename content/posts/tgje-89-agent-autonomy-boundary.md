@@ -1,7 +1,7 @@
 ---
 title: Hermes Agent的自我进化丨Agent主动性边界：一条正在移动的线
 date: 2026-04-15
-draft: true
+draft: false
 coverKeyword: Agent主动性边界
 description: 聚焦Agent主动性边界这一核心概念。从Hermes Agent自动创建Skill的真实案例出发，区分"执行层主动"与"规则层主动"两种不同的Agent行为模式，帮助读者建立主动性边界的认知框架，并提供三个校准问题用于自我检查。适合正在使用或规划使用AI Agent的读者。
 tldr: |-
@@ -47,9 +47,9 @@ publish:
   slug: tgje-89-agent-autonomy-boundary
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
+    cover_img:
+    video:
+    infographic:
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/04/1776163632-infographic-tgje-89-agent-autonomy-boundary_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-89-agent-autonomy-boundary_1280_714.jpg
@@ -62,19 +62,11 @@ publish:
     draft_created_at: 2026-04-14 18:47
     video_media_id: lEmH66TSP501Rw-1R2Ao33EOoppj79JoGrw96LY6CYYSM92b_u271ssK65ArbBgY
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
-firstorycode: |-
-  
-  ---
-  \n
-  <!-- audiovideo-start -->  
-  > <small>NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
-  </small>
-  <iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmnyhitt10dvm01xi97ct3xt4" height="180" width="500" frameborder="0" scrolling="no"></iframe>
-  \n
-  <!-- audiovideo-end -->
+  blog_published_at: 2026-04-14 18:48
+firstorycode:
 ---
 # Hermes Agent的自我进化丨Agent主动性边界：一条正在移动的线
 <!-- infographic-start -->
