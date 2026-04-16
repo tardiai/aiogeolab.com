@@ -1,7 +1,7 @@
 ---
 title: 别再追新了｜选第一个Agent，先问自己这三个问题
 date: 2026-04-16
-draft: true
+draft: false
 coverKeyword: 如何选择Agent
 description: 在看任何产品之前，先把自己的需求诊断清楚。文章提供三个自我诊断问题，帮读者识别自己的场景类型，再用OpenClaw和Hermes作为典型落点，给出有立场的选型建议。适合正在纠结选哪个Agent、或者已经换了几个还没落地的读者。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-15 14:17
 ---
 # 别再追新了｜选第一个Agent，先问自己这三个问题
 <!-- infographic-start -->
@@ -95,6 +96,7 @@ publish:
 不是工具不好。
 
 **是选工具的顺序搞反了。**
+
 ---
 <!-- audiovideo-start -->  
 > <small>NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
