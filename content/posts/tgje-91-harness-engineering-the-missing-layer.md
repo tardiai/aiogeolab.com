@@ -1,7 +1,7 @@
 ---
 title: Agent越来越聪明，但翻车率并没有减少丨Harness Engineering
 date: 2026-04-17
-draft: true
+draft: false
 coverKeyword: " Agent执行环境设计"
 description: 聚焦Harness Engineering这一2026年正在成为Agent生产实践核心的新兴工程纪律。从凌晨三点的Agent失控场景出发，完整介绍Harness的定义、前馈与反馈两个核心机制、计算型与推理型两类实现方式，并给出从已有失控点开始迭代构建Harness的实践路径。适合已经在真实场景中使用Agent、正在从Demo走向生产的实践者。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-16 14:18
 ---
 # Agent越来越聪明，但翻车率并没有减少丨Harness Engineering
 <!-- infographic-start -->
