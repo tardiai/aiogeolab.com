@@ -1,7 +1,7 @@
 ---
 title: 你在用Agent，Agent也在用你｜护城河可以这样建
 date: 2026-04-18
-draft: true
+draft: false
 coverKeyword: 个人护城河构建
 description: 如何主动用Agent加速三种不可被替代的积累：判断力、领域深度、信任关系。文章区分替代逻辑与加速逻辑，以Hermes的双向积累特性为核心，给出三条具体的积累回路设计，适合已经在使用Agent、希望把工具价值转化为真实护城河的读者。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-17 14:25
 ---
 # 你在用Agent，Agent也在用你｜护城河可以这样建
 <!-- infographic-start -->
