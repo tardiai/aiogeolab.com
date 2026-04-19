@@ -1,7 +1,7 @@
 ---
 title: Token计费的数量黑盒与质量黑盒｜你买的Token，买到了什么
 date: 2026-04-19
-draft: true
+draft: false
 coverKeyword: 数量黑盒与质量黑盒
 description: 以2026年4月Claude Code缓存TTL争议事件为切入点，分析Token计费系统的双重黑盒结构——数量黑盒（计费规则对用户不透明）与质量黑盒（同等消耗对应的智力质量不可知）。立场中立，不批评Anthropic，聚焦行业结构性问题，给出用户在不透明系统里的实用认知框架。
 tldr: |-
