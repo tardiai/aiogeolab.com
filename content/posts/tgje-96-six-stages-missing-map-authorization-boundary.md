@@ -65,8 +65,9 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-21 13:01
 ---
-# 六阶段之外，还有一张图没画出来丨Agent能走多远是一回事，应该走多远是另一回事
+# Agent能走多远是一回事，应该走多远是另一回事丨Agent发展六阶段论
 <!-- infographic-start -->
 ![信息图](https://p.vibcx.com/x/2026/04/1776747346-infographic-tgje-96-six-stages-missing-map-authorization-boundary_1280_714.jpg)
 <!-- infographic-end -->
