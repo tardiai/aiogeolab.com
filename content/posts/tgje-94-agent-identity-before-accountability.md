@@ -1,7 +1,7 @@
 ---
 title: Agent闯祸了，你却不知道该找谁负责丨因为你从来没给它发过「工牌」
 date: 2026-04-20
-draft: true
+draft: false
 coverKeyword: Agent权限越界问题
 description: Agent安全事故高发的真正原因，不是模型能力问题，而是身份缺失问题。没有清晰的身份，就没有权限边界，就没有可追责的行为链。文章提出"颁工牌"的思维框架，帮助读者在部署Agent之前就做出正确的设计决策。
 tldr: |-

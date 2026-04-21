@@ -1,7 +1,7 @@
 ---
 title: 你说「让Agent自己判断」，但判断的边界在哪里？丨裁定机制落地，需要回答这三个问题
 date: 2026-04-20
-draft: true
+draft: false
 coverKeyword: 裁定机制的三层结构
 description: 从读者最常见的困惑出发，先厘清判断工程与Harness Engineering的关系——一个管执行环境，一个管决策边界，两者是公路与红绿灯的关系。在此基础上，提出裁定机制的三层结构：自主执行层、确认层、拒绝层，并重点讨论谁来定边界、确认层如何校准、以及落地的真正起点在哪里。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-19 17:21
 ---
 # 你说「让Agent自己判断」，但判断的边界在哪里？丨裁定机制落地，需要回答这三个问题
 <!-- infographic-start -->
