@@ -1,7 +1,7 @@
 ---
 title: AI计费的演进-从黑盒走向结果导向丨Token经济学
 date: 2026-04-22
-draft: true
+draft: false
 coverKeyword: AI计费的演进
 description: 近期关于AI计费结构变化的讨论，从个人用户视角切入，梳理AI计费从Token走向多维过程计费、再走向按结果计费的演进逻辑。提出当前过渡阶段是"黑盒最厚"的时期，并对按结果计费的行业影响给出独立判断：对用户是好事，对行业是双刃剑——理想情况促成任务分层充分竞争，现实风险是AI低迁移成本可能加速赢家通吃。结局取决于"结果"的定义权落在谁手里。
 tldr: |-
@@ -57,14 +57,15 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao33U3B3COzbnsWc0LSc3cTRbI8sKlsoj4CFRAQ39qMFmJ
     video_vid: wxv_4482326133203484673
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXXvCav4NM5ujTyquH2Odec3XgwsegHjmUVMeMbbgLEt4WQcotVdY0QM700SCPAzuQeDf0Eoicf0oCuIzJVzty2mXuibg2EBjliaA/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVvicJq5TzoiaOLzME0u1jfAmr10OEFYcdfbR8uCBod0hGXJNicbcIS04CLlTiaMaquChibAOAibZ0WCFmQ49FvN1tI7nlxW1pvD0FLQ/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3_bk64RKZbnB0pzjetrX9nDTuHWT3lifkQ9UbgQcEwYn
-    draft_created_at: 2026-04-21 16:26
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNVBzFGRKE1ZT8Bc474yPu9cjGMbTCt17xs3gibHn87juNn8ribQ7tUwBNl32E1Ngwfo7wtBR0ia0lhnVNsDDErENTVT6Ro8mIDicvc/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao36k6LhhK3LUqu47k5rXCt1OKh9_kk7U3zujKbyOICo7_
+    draft_created_at: 2026-04-21 16:28
     video_media_id: lEmH66TSP501Rw-1R2Ao349PTgtCMYjukPSLGHe_jwLpXygXOW5kB5KsLe4YcXBq
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-21 16:26
 ---
 # AI计费的演进-从黑盒走向结果导向丨Token经济学
 <!-- infographic-start -->
