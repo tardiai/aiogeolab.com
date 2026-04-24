@@ -1,7 +1,7 @@
 ---
 title: 垂直Agent：为什么通用AI越强，你的机会反而越大
 date: 2026-04-24
-draft: true
+draft: false
 coverKeyword: 垂直Agent的护城河
 description: 本文探讨垂直Agent原生创业的护城河逻辑：为什么通用AI越强，垂直Agent的机会反而越清晰。以Harvey法律AI为核心案例，拆解垂直Agent真正的竞争壁垒——数据、工作流、信任三层——并说明为什么护城河不在模型，而在行业深度。适合正在评估Agent创业机会、或关注AI行业格局变化的读者。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-23 11:35
 ---
 # 垂直Agent：为什么通用AI越强，你的机会反而越大
 <!-- infographic-start -->
