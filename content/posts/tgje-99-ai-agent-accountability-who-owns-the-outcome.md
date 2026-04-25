@@ -1,7 +1,7 @@
 ---
 title: 让AI全自主接管业务流之前，先想清楚这件事
 date: 2026-04-25
-draft: true
+draft: false
 coverKeyword: 授权责任执行责任结果责任
 description: YC W26批次56家AI原生服务公司，Agent正在从辅助工具走向业务执行主体。本文从"出了事找谁"切入，拆解Agent时代责任归属的三个层次——授权责任、执行责任、结果责任——并给出一个最小可行的组织起点：三个必须在部署前回答的问题。适合正在推进Agent落地、或关注AI治理问题的读者。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-24 12:45
 ---
 # 让AI全自主接管业务流之前，先想清楚这件事
 <!-- infographic-start -->
