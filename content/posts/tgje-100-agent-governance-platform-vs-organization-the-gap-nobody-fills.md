@@ -1,7 +1,7 @@
 ---
 title: Agent治理，正在成为企业的必答题｜今年谷歌Cloud Next传递的趋势
 date: 2026-04-26
-draft: true
+draft: false
 coverKeyword: Agent治理的两个层次
 description: Google Cloud Next 2026上，谷歌推出Gemini Enterprise Agent Platform，宣告Agent治理市场正式启动。本文从这场发布会切入，区分Agent治理的两个层次：平台层（可见性、监控、身份管理）与组织层（判断权、角色设计、校准机制）。核心判断：工具买得到，组织层的空白买不到。给出三个企业在Agent进入生产环境前必须回答的问题。适合正在推进Agent落地或关注AI治理趋势的读者。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-25 14:23
 ---
 # Agent治理，正在成为企业的必答题｜今年谷歌Cloud Next传递的趋势
 <!-- infographic-start -->
