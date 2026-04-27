@@ -1,7 +1,7 @@
 ---
 title: AI安全的威胁变了｜现在最危险的不是黑客，是Agent本身
 date: 2026-04-27
-draft: true
+draft: false
 coverKeyword: Agent特有的三类威胁
 description: 本文从C3安全大会的核心判断切入，拆解Agent时代安全威胁的根本性转变：传统安全体系建立在"威胁来自外部、行为可被规则穷举"两个假设上，Agent同时打破了这两个假设。深入分析提示注入、权限集中、随机性三类Agent特有威胁机制，以及从"最小权限"到"最小Agent"的安全原则转变。核心判断：Agent安全不只是技术问题，是治理设计问题。边界在哪里，必须有人来划。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-26 12:40
 ---
 # AI安全的威胁变了｜现在最危险的不是黑客，是Agent本身
 <!-- infographic-start -->
