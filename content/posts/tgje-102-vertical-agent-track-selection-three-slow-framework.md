@@ -1,7 +1,7 @@
 ---
 title: 垂直Agent怎么选赛道：三慢筛选法
 date: 2026-04-28
-draft: true
+draft: false
 coverKeyword: 垂直Agent怎么选赛道
 description: 聚焦垂直Agent创业的赛道选择方法论。提出"三慢筛选法"：在决策慢、数据慢、信任慢三个维度同时成立的赛道，护城河积累速度才能跑赢被替代速度。以法律行业为例做实战拆解，并为没有行业资源的一人公司创业者提供三条白手起家的进入路径。适合正在考虑Agent创业方向的个人创业者、独立开发者和小团队阅读。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-27 10:28
 ---
 # 垂直Agent怎么选赛道：三慢筛选法
 <!-- infographic-start -->
