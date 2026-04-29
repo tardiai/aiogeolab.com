@@ -1,7 +1,7 @@
 ---
 title: 全球AI监管正在分叉｜同一个问题，三个不同的答案
 date: 2026-04-30
-draft: true
+draft: false
 coverKeyword: 全球AI监管地图
 description: ' 本文是"判断工程·AI Agent·子系列五"监管动态篇。以2026年4月全球三大AI监管动态为切入点——中国《AI伦理审查办法》落地、欧盟AI法案执行节奏放缓、美国联邦与加州监管博弈升级——提炼出三套监管逻辑背后的同一个根本问题：AI出了问题，谁来负责？从"谁定义高风险""出问题谁负责""合规成本由谁承担"三个维度拆解对比，为读者提供一张可实际使用的全球AI监管地图。适合关注AI治理、垂直Agent创业、出海布局的读者。'
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-29 12:02
 ---
 # 全球AI监管正在分叉｜同一个问题，三个不同的答案
 <!-- infographic-start -->
