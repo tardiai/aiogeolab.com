@@ -1,7 +1,7 @@
 ---
 title: 你的Agent越能干，被攻破后的破坏面越大
 date: 2026-04-29
-draft: true
+draft: false
 coverKeyword: Agent结构性安全问题
 description: 本文是"判断工程·AI Agent·子系列五"安全事件拆解篇。以近期Vercel权限继承攻击事件和ClawHub恶意Skills植入事件为切入点，拆解Agent时代供应链攻击为何比传统软件供应链攻击危险——不只因为权限更大，更因为Agent会自主把攻击跑完。提出授权边界设计的三个核心动作：最小Agent原则、工牌机制、定期校准。适合正在部署或使用Agent的企业负责人、技术团队、以及关注AI治理的读者。
 tldr: |-
@@ -65,7 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-04-28 14:06
+  blog_published_at: 2026-04-28 14:31
 ---
 # 你的Agent越能干，被攻破后的破坏面越大
 <!-- infographic-start -->
