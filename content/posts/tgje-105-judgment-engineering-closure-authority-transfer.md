@@ -1,7 +1,7 @@
 ---
 title: 裁定权不会消失，只会转移｜判断工程
 date: 2026-05-01
-draft: true
+draft: false
 coverKeyword: 判断工程三层结构
 description: 系统梳理判断工程三层结构（推理层、判断层、裁定层），重申裁定层在四种必要条件下从可选变必选的判断标准，并通过权限漂移、信任链被利用、责任真空三种已发生的失效模式说明裁定层缺失的结构性代价。面向已读系列的读者提供完整框架回顾，同时对新读者保持友好。给出三个立刻可执行的行动出口：画出权限边界、给Agent发工牌、建立定期校准机制。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-04-30 07:16
 ---
 # 裁定权不会消失，只会转移｜判断工程
 <!-- infographic-start -->
