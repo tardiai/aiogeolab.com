@@ -1,7 +1,7 @@
 ---
 title: 用AI一年，你留下了什么？｜一人公司的资产建设指南
 date: 2026-05-02
-draft: true
+draft: false
 coverKeyword: 四类可沉淀的资产
 description: 本文是"Agent时代的个人护城河"系列篇目，专为一人公司创业者和独立工作者写作。从"工具收藏者→高效执行者→资产建设者"三种状态切入，提出用AI干活是效率、用AI建资产才是一人公司真正的活法。系统梳理四类可沉淀的资产（方法论、案例、客户关系、工作流），以及Agent在资产建设中的三个具体角色。适合正在用AI接单但感觉什么都没留下的独立工作者、自由职业者、一人公司创业者阅读。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-01 13:08
 ---
 # 用AI一年，你留下了什么？｜一人公司的资产建设指南
 <!-- infographic-start -->
