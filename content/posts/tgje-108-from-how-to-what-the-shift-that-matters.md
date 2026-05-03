@@ -1,7 +1,7 @@
 ---
 title: 你努力成为AI时代最会用工具的人，然后呢？
 date: 2026-05-04
-draft: true
+draft: false
 coverKeyword: 从"怎么做"到"做什么"
 description: AI工具越来越强，越来越多人在努力成为"工具达人"——把工具用熟、把工作流优化、把执行效率拉满。但这条路走到头，会走出一个没人提前告诉你的问题：执行被接管之后，人的位置在哪里？本文不推销焦虑，带读者走一遍AI时代能力迁移的完整路径，从"怎么做"走到"做什么"，看清楚那个更值得投资的位置。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-03 09:56
 ---
 # 你努力成为AI时代最会用工具的人，然后呢？
 <!-- infographic-start -->
