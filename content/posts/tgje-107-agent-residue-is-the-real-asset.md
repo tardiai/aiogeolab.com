@@ -1,7 +1,7 @@
 ---
 title: " Manus被叫停，但真正值钱的不是那20亿"
 date: 2026-05-03
-draft: true
+draft: false
 coverKeyword: Manus收购被叫停
 description: Manus被Meta收购后遭国家发改委叫停，20亿美元交易被强制撤销。这件事最值得想的问题不是地缘政治，而是：为什么一个AI Agent产品会被认定为战略资产？本文从这个问题出发，揭示Agent运行后沉淀的那层东西才是真正的价值所在，以及对每个普通用户意味着什么。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-02 13:06
 ---
 # Manus被叫停，但真正值钱的不是那20亿
 <!-- infographic-start -->
