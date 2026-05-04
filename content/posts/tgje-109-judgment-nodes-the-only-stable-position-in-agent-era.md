@@ -1,7 +1,7 @@
 ---
 title: Agent时代，哪种职业位置是真的稳？
 date: 2026-05-05
-draft: true
+draft: false
 coverKeyword: AI与职业
 description: AI时代的职业焦虑，大多数人在回答错误的问题。新职业名单解决不了根本问题，因为职业名称背后的位置逻辑才是关键。本文从工作流节点的视角切入，区分执行节点与判断节点，解释为什么随着Agent接管执行，判断节点反而会变得更稀缺，以及如何判断自己现在站在哪里。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-04 07:10
 ---
 # Agent时代，哪种职业位置是真的稳？
 <!-- infographic-start -->
