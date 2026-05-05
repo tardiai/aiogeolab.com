@@ -1,7 +1,7 @@
 ---
 title: 小众深度服务，正在从「养不活」变成「最能活」
 date: 2026-05-06
-draft: true
+draft: false
 coverKeyword: 一人公司最适合的创业结构
 description: 小众深度服务过去有个致命的经济困境：服务太重、客户太少、规模化路径不存在。Agent正在改变这个等式——把执行层接管，让判断层的价值更突出。本文拆解小众深度服务的新经济模型，以及为什么这个模式恰好是一人公司最适合的创业结构。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-05 07:15
 ---
 # 小众深度服务，正在从「养不活」变成「最能活」
 <!-- infographic-start -->
