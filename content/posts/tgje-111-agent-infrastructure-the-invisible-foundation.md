@@ -1,7 +1,7 @@
 ---
 title: Agent跑真实业务之前，需要夯实这四层地基
 date: 2026-05-07
-draft: true
+draft: false
 coverKeyword: Agent四层地基
 description: Agent在演示环境里跑得很顺，一放进真实业务就开始出问题——做了不该做的事、任务中断无法恢复、出了问题无从追溯。这不是模型的问题，是基础设施的问题。本文拆解Agent运行依赖的四层地基：权限与身份、记忆与上下文、工具调用协议、执行环境隔离，结合OpenClaw、Claude Code、Hermes Agent的真实架构案例，帮你看清这层通常隐形的结构。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-06 07:12
 ---
 # Agent跑真实业务之前，需要夯实这四层地基
 <!-- infographic-start -->
