@@ -1,7 +1,7 @@
 ---
 title: AI Agent为什么总是"失忆"——它的记忆，其实是三个完全不同的东西
 date: 2026-05-08
-draft: true
+draft: false
 coverKeyword: AI Agent记忆系统
 description: 本文拆解AI Agent记忆系统的三层结构：工作台（短期记忆）、档案柜（长期记忆）、本能（参数记忆），并以OpenClaw和Hermes两个主流开源框架为例，对比两种不同的记忆设计哲学。读懂这篇，你会知道Agent为什么"失忆"，以及真正该怎么配合它工作。
 tldr: AI Agent不是因为"不够聪明"而失忆，是因为它的记忆天生就是三层拼凑出来的，每层各管各的，不会自动流转。工作台（Context窗口）用完即走，对话结束清空归零；档案柜（长期记忆）靠检索命中，找到的不一定是你最需要的；本能（参数记忆）永远在线，但训练截止后改不了。OpenClaw选择透明丰富，让Agent自己定期整理档案柜；Hermes选择克制精炼，用硬上限换缓存稳定。两种哲学没有对错，只有适不适合你的场景。真正值得追问的不是"怎么让它记更多"，而是"你往它桌上放了什么"。
@@ -57,6 +57,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-07 14:54
 ---
 # AI Agent为什么总是"失忆"——它的记忆，其实是三个完全不同的东西
 <!-- infographic-start -->
