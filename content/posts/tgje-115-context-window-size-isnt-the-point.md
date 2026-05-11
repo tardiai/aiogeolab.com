@@ -1,7 +1,7 @@
 ---
 title: 厂商拼命扩大Context窗口——但窗口大小不是关键
 date: 2026-05-11
-draft: true
+draft: false
 coverKeyword: 容量不是问题，注意力才是
 description: Context窗口的真实工作机制：Context不是存储而是工作台，模型对不同位置信息的注意力分配不均匀（Lost in the Middle效应），以及Context满了之后OpenClaw和Hermes两种截然不同的处理哲学——截断优先vs压缩优先。读完你会知道为什么窗口大小不是关键，以及三条从底层机理推出来的操作原则。
 tldr: Context窗口不是存储，是工作台——模型只能处理当前窗口里的信息，窗口之外什么都不知道。窗口越大不等于越好，因为模型对头尾信息最敏感、对中间信息注意力最弱，关键信息放错位置，窗口再大也没用。Context满了之后，OpenClaw默认截断最老的消息（简单但信息损失硬），Hermes做智能压缩（保留更多但成本更高），两种方案各有代价，没有无损选项。Agent场景里Context压力远大于聊天场景，工具调用结果大量注入，长任务很容易在失真的上下文里跑偏。操作原则三条：关键信息放头尾不要埋中间、工具返回结果精炼再注入、长任务主动设检查点定期整理Context。
@@ -58,6 +58,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-10 09:28
 ---
 # 厂商拼命扩大Context窗口——但窗口大小不是关键
 <!-- infographic-start -->
