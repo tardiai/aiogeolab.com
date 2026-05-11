@@ -1,7 +1,7 @@
 ---
 title: 一个Agent搞不定的事——不是它不够聪明，是结构问题
 date: 2026-05-12
-draft: true
+draft: false
 coverKeyword: 多Agent系统
 description: 本文拆解单Agent的结构性天花板——为什么复杂任务容易跑偏不是能力问题而是架构问题——并讲清多Agent系统的四个结构性改善：专注度、并行、错误隔离、按能力分工优化成本。以Hermes最新两个版本的多Agent实践为例，结合Mistral和谷歌同期动作，说明这不是趋势预测而是已经发生的行业转变。附单Agent vs 多Agent的任务适用判断标准。
 tldr: 单Agent的天花板不是模型不够聪明，是一个Agent同时承担规划、执行、记忆、工具调用，Context压力和注意力分配互相干扰，任务越复杂问题越突出。多Agent把这些职责按分工拆开，带来四个结构性改善：专注度提升、并行提速、错误隔离、按能力匹配模型优化成本。基本结构是Orchestrator总调度加Worker执行Agent，各自只看自己的Context，互不干扰。Hermes连续两个版本密集更新多Agent能力，Mistral和谷歌同期跟进，行业共识已经形成。判断是否用多Agent的标准只有一个：这件事如果交给人，你会不会考虑让一个小组来分工——会，就考虑多Agent；不会，单Agent够了。
@@ -57,6 +57,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-11 10:08
 ---
 # 一个Agent搞不定的事——不是它不够聪明，是结构问题
 <!-- infographic-start -->
