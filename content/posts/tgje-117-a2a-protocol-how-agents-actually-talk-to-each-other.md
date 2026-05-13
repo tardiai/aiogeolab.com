@@ -1,7 +1,7 @@
 ---
 title: Agent之间怎么说话——这个问题，比你想的更重要
 date: 2026-05-13
-draft: true
+draft: false
 coverKeyword: A2A的三个核心机制
 description: 本文拆解A2A（Agent-to-Agent）协议的来龙去脉：多Agent通信在A2A之前面临的"巴别塔"困境、A2A的三个核心机制（Agent Card名片、任务生命周期管理、异步通信）、与MCP的分工关系，以及ACP并入A2A的历史脉络。读完你会理解为什么A2A是多Agent时代的基础设施，以及它对整个Agent生态意味着什么。
 tldr: 多Agent系统的前提，是Agent之间能真正"说上话"。A2A出现之前，多Agent通信要么被锁在同一框架内，要么靠各自写定制API，无法规模化。A2A是Google发起、OpenAI/Anthropic/Microsoft/AWS等六家联合治理的开放协议，核心机制是Agent Card名片发现、任务生命周期管理和异步通信，解决的是跨厂商、跨框架的Agent协作标准化问题。MCP解决Agent和工具之间的通信，A2A解决Agent和Agent之间的通信，两者是分工关系不是竞争关系。Hermes早期用的ACP协议已于2025年8月合并入A2A，方向一脉相承。A2A对Agent生态的意义类似HTTP对互联网的意义——有了公共语言，封闭的局域网才能变成开放的互联网。
@@ -58,6 +58,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-12 06:44
 ---
 # Agent之间怎么说话——这个问题，比你想的更重要
 <!-- infographic-start -->
