@@ -1,7 +1,7 @@
 ---
 title: 一群Agent没有人指挥，会发生什么丨多Agent系统中的总调度（Orchestrator）
 date: 2026-05-14
-draft: true
+draft: false
 coverKeyword: 多Agent系统中的总调度
 description: 本文拆解多Agent系统中最关键也最容易被忽视的角色——总调度（Orchestrator）：它是什么、不是什么，五个核心职责，为什么是整个系统最难设计的部分（任务边界、终止条件、异常处理），以及中心化vs去中心化两种架构形态的取舍。以Hermes多Agent实践为例，并给出普通用户的两个实用视角。
 tldr: 多Agent系统里，执行Agent负责干活，但谁来决定谁干、干什么、干到哪里停、出错怎么办？这就是总调度（Orchestrator）的职责。总调度不直接执行任务，它的五个核心职责是：任务分解、动态分配、执行编排、状态监控、结果整合。Anthropic今年4月的研究指出，多Agent系统最难的不是让Agent干活，而是把任务边界、终止条件、异常处理设计清楚——这三件事都压在总调度身上。架构上有两种形态：中心化总调度全局视野清晰但有单点风险，去中心化更灵活但难调试。对普通用户最直接的启示：给多Agent系统的任务描述，是总调度做任务分解的唯一依据，说清楚才能拆清楚。
@@ -57,6 +57,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-13 12:04
 ---
 # 一群Agent没有人指挥，会发生什么丨多Agent系统中的总调度（Orchestrator）
 <!-- infographic-start -->
