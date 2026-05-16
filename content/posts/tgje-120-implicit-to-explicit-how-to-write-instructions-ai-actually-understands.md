@@ -1,8 +1,8 @@
 ---
 title: 你和AI说话，它听到的不是你以为的那句话
 date: 2026-05-16
-draft: true
-coverKeyword:
+draft: false
+coverKeyword: AI理解语言的底层机制
 description: 你觉得指令写得清楚了，AI给的还是不对——问题不在表达，在于你用"和人说话"的方式和AI说话。AI没有共同语境，只有概率推算；你脑子里"不言自明"的部分，对它根本不存在。本文拆解AI理解语言的底层机制，给出四个维度的检查框架，让你写任何场景的指令都有逻辑可循。
 tldr: |-
   你和AI说话，它不是在"理解"你，是在做概率推算——从训练数据里推算你这句话后面最可能跟的内容是什么。你脑子里的默认共识、工作背景、隐性标准，它一概不知道。
@@ -47,9 +47,9 @@ publish:
   slug: tgje-120-implicit-to-explicit-how-to-write-instructions-ai-actually-understands
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
+    cover_img:
+    video:
+    infographic:
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/05/1778808549-infographic-tgje-120-implicit-to-explicit-how-to-write-instructions-ai-actually-understands_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-120-implicit-to-explicit-how-to-write-instructions-ai-actually-understands_1280_714.jpg
@@ -62,9 +62,10 @@ publish:
     draft_created_at: 2026-05-15 09:29
     video_media_id: lEmH66TSP501Rw-1R2Ao3walh9zUW91TUtHUK9pFEgivkWgI7K8jmF8IeUs2w7FT
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
+  blog_published_at: 2026-05-15 09:30
 ---
 # 你和AI说话，它听到的不是你以为的那句话
 <!-- infographic-start -->
