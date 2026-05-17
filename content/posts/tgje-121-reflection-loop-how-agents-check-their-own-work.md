@@ -1,7 +1,7 @@
 ---
 title: Agent做完了，但它不知道自己做对了没有丨反馈环：执行链里那个被默认跳过的环节
 date: 2026-05-17
-draft: true
+draft: false
 coverKeyword: Agent"回头看"机制
 description: Agent执行完任务，不代表任务做对了——它没有内置的"回头看"机制，不会自己发现错误。本文拆解反馈环（Reflection）的底层逻辑，呈现从自检型、双Agent型到迭代循环型的三种设计形态，并以OpenClaw与Hermes的真实实现为例，说明反馈环不是固定的解，而是需要根据目标做出的设计选择。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-16 09:27
 ---
 # Agent做完了，但它不知道自己做对了没有丨反馈环：执行链里那个被默认跳过的环节
 <!-- infographic-start -->
