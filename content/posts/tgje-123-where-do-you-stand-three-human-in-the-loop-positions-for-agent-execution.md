@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-loop不是一个开关，是一个设计决策丨人在Agent执行中的三个位置
 date: 2026-05-19
-draft: true
+draft: false
 coverKeyword: 人站在执行链的哪个位置
 description: '"Human-in-the-loop"被说了很多，但很少有人说清楚：人应该站在执行链的哪个位置。全程监督、关键节点介入、事后审计——三种模式对应不同的风险承受和信任程度，不是哪种更好，是哪种更适合当前任务。本文拆解三种介入模式的设计逻辑，给出选择依据，以及一个最容易踩进去的判断错误。'
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-18 10:39
 ---
 # Human-in-the-loop不是一个开关，是一个设计决策丨人在Agent执行中的三个位置
 <!-- infographic-start -->
