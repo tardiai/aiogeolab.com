@@ -1,7 +1,7 @@
 ---
 title: 不是Agent不够聪明，是这个任务不该给它做丨三个维度，判断任务该不该交出去
 date: 2026-05-18
-draft: true
+draft: false
 coverKeyword: Agent能不能做这件事
 description: '"Agent能不能做这件事"是一个移动的靶子，随着模型能力进化答案每天都在变。更稳定的判断依据是任务的结构：可验证性（做完怎么知道对了）、可逆性（做错了能不能改回来）、上下文完整性（Agent拿到的信息够不够）。本文用这三个维度建立一张任务适配性的判断地图，帮你在交出任务之前就看清楚风险形状，以及结构上需要补什么。'
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-17 11:00
 ---
 # 不是Agent不够聪明，是这个任务不该给它做丨三个维度，判断任务该不该交出去
 <!-- infographic-start -->
