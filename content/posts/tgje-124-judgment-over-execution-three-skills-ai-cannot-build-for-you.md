@@ -1,7 +1,7 @@
 ---
 title: Agent替你干活，但有一件事它永远替不了你丨判断力是什么，怎么练
 date: 2026-05-20
-draft: true
+draft: false
 coverKeyword: 判断力变得越来越稀缺
 description: Agent越自主，执行层被接管得越彻底——但这不意味着人越来越没用，而是判断力变得越来越稀缺、越来越值钱。本文把"判断力"拆成三件具体的事：定义问题的能力、评估结果的能力、在不确定性下做决定的能力，并说明为什么这三件事不能靠Agent替你练，以及三个可以从今天开始的调整。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-19 07:11
 ---
 # Agent替你干活，但有一件事它永远替不了你丨判断力是什么，怎么练
 <!-- infographic-start -->
