@@ -1,7 +1,7 @@
 ---
 title: 当Agent跑起来，原来的组织结构为什么装不下丨从Cloudflare裁员20%说起
 date: 2026-05-21
-draft: true
+draft: false
 coverKeyword: Agent重构组织架构
 description: Cloudflare在财报亮眼的情况下裁员20%，理由是AI用量三个月涨了600%，需要"为Agent时代重构组织架构"。本文从这个事件出发，区分效率变化与结构相变的本质差异，拆解传统组织架构失效的三个具体节点，并落到对个人的实际意义：不是"岗位会不会被裁"，而是你在执行节点还是判断节点上。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-20 10:39
 ---
 # 当Agent跑起来，原来的组织结构为什么装不下丨从Cloudflare裁员20%说起
 <!-- infographic-start -->
