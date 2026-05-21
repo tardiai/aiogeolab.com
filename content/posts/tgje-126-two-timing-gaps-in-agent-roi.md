@@ -55,9 +55,9 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao39jcTrCFcl_a-DfjDgazLCeKwDb4QfXJZ5Hd9goG0dpJ
     video_vid: apiv_4525503979354783750
     video_cover_url: ''
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXB90KH4g3E99kQcP4jKoHtNfJT6NiaDmRa1yJVo5nulIPvkl7jSIXAicxrXkWJ8RUYuLohMibfI8ZkHFTEJn592BnrhyWbiavrZ3g/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3ykknHC6thXzkSG1kuc2UZNXutK2HqgtccosKG81PwvP
-    draft_created_at: 2026-05-21 11:15
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNW6VJrQpSJnzycDUISehWUdic81vFmIMbJ7GKkLws74ImpVN7iaBibcdRNcicVBvZnLnjuIeWuyiazW83zzyfcibCCFgn8P97v0xFrcM/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3wv-swLMUi-SW3UoR9oKBsZ8Em-kpvj2jun9ljZgKW4E
+    draft_created_at: 2026-05-21 11:17
     video_media_id: lEmH66TSP501Rw-1R2Ao39MreSrYtnXc4SCEWn7QrxxAudPTYYuPD1KjxbsJD9Qs
   wx_article:
     digest: null
