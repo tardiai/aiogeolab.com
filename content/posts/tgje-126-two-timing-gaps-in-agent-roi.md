@@ -53,12 +53,12 @@ publish:
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/infographic-tgje-126-two-timing-gaps-in-agent-roi_1280_714.jpg
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao39jcTrCFcl_a-DfjDgazLCeKwDb4QfXJZ5Hd9goG0dpJ
-    video_vid: apiv_4525503979354783750
-    video_cover_url: ''
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNW6VJrQpSJnzycDUISehWUdic81vFmIMbJ7GKkLws74ImpVN7iaBibcdRNcicVBvZnLnjuIeWuyiazW83zzyfcibCCFgn8P97v0xFrcM/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3wv-swLMUi-SW3UoR9oKBsZ8Em-kpvj2jun9ljZgKW4E
-    draft_created_at: 2026-05-21 11:17
-    video_media_id: lEmH66TSP501Rw-1R2Ao39MreSrYtnXc4SCEWn7QrxxAudPTYYuPD1KjxbsJD9Qs
+    video_vid: wxv_4525501340365914113
+    video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNUHzSDha25eIzfDCEHn0ts7Pq6ibeibB7hAqRbACwre83SA2bhIibOpy7YyPB3GBmfz3aK9rDsUJ0dh3zPiaBcoJnpbXiakcgj15Wa4/0?wx_fmt=jpeg
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNXsibjp1I1iciaIOI8pC2pG4mHMSmcWNyuibPkETvAbLw3iaJrp6TuF847o5fu3JtycicVlZnqgy2L7SFNzu3QcfeRf1NvVicAXqb8HEI/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao38mEIGfujOtLmMPKJplFcYRGLe53v27bK5aRtaKG2-IH
+    draft_created_at: 2026-05-21 11:21
+    video_media_id: lEmH66TSP501Rw-1R2Ao31UN6k65wGoxAHL4Oo8NFbUcMiApLHgQVDEsj5Mhs4CA
   wx_article:
     digest: null
     original: false
