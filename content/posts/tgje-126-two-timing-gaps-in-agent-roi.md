@@ -1,7 +1,7 @@
 ---
 title: 用Agent到底省了什么，又花了什么丨写给纠结的你
 date: 2026-05-22
-draft: true
+draft: false
 coverKeyword: 用Agent到底值不值
 description: 用AI Agent到底值不值？这个问题大多数人没有答案，因为他们从来没有拆开来看过。本文拆解用Agent的两次成本-收益错位：学习成本前置收益后置让人望而却步，执行收益明显但隐藏成本后置让进门的人算不清账。文章给出四类隐藏成本的具体拆法，以及判断一个任务值不值得上Agent的三维框架。AI Agent机制深挖系列第14篇。
 tldr: |-
@@ -63,6 +63,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-21 11:21
 ---
 # 用Agent到底省了什么，又花了什么丨写给纠结的你
 <!-- infographic-start -->
