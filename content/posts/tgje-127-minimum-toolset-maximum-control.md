@@ -1,7 +1,7 @@
 ---
 title: 工具越多，Agent越强？你可能配反了丨AIAgent基础系列
 date: 2026-05-23
-draft: true
+draft: false
 coverKeyword: AIAgent工具调用
 description: 给Agent配工具，很多人的直觉是"越多越好"。但工具数量和系统可靠性的关系是乘法而非加法，工具越多，执行链越长，出错概率越高，排查难度越大。本文给出判断工具该不该配的四个维度，引用Hermes官方最小工具集原则，并拆解一个容易被忽视的问题：工具能做什么和工具在哪里跑，是两个必须分开想清楚的独立维度。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-22 12:37
 ---
 # 工具越多，Agent越强？你可能配反了
 <!-- infographic-start -->
