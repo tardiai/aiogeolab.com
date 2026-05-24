@@ -1,7 +1,7 @@
 ---
 title: 多个Agent同时跑，你的注意力应该放在哪里
 date: 2026-05-24
-draft: true
+draft: false
 coverKeyword: 判断节点守门人
 description: 多Agent系统有了编排层，协调工作大部分解决了。但很多人跑起来之后反而更忙——不停切换、不停确认、注意力被拉成细线。问题不是Agent不够好，是人没有把自己的角色从"执行监控者"切换到"判断节点守门人"。本文拆解编排层能管什么、管不了什么，给出人在并发Agent场景里真正需要出现的四个位置，以及放手的三个条件。
 tldr: |-
@@ -67,6 +67,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-23 13:01
 ---
 # 多个Agent同时跑，你的注意力应该放在哪里
 <!-- infographic-start -->
