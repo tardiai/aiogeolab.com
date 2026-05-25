@@ -1,7 +1,7 @@
 ---
 title: 工作流和Agent的边界在哪里——不是复杂度，是确定性丨AIAgent基础系列
 date: 2026-05-25
-draft: true
+draft: false
 coverKeyword: 脚本和Agent选择逻辑
 description: 很多人的工具选择逻辑是：任务复杂就上Agent，任务简单就用脚本。但复杂度不是分界线，确定性才是。工作流处理确定性逻辑，Agent处理不确定性情境——这两件事性质不同，不是能力高低之分。本文给出判断任务确定性的四个维度，拆解四种常见误判，并给出混合架构的设计思路：脚本做骨架，Agent做关节。
 tldr: |-
@@ -67,6 +67,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-24 13:44
 ---
 # 工作流和Agent的边界在哪里——不是复杂度，是确定性丨AIAgent基础系列
 <!-- infographic-start -->
