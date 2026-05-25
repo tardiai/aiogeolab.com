@@ -1,7 +1,7 @@
 ---
 title: Agent不是产品，交付才是——怎么让客户用得住
 date: 2026-05-26
-draft: true
+draft: false
 coverKeyword: Agent交付
 description: 把Agent搭好只是开始，让客户用得住才是真正要解决的问题。自己用顺了的Agent，交给客户之后第一周就翻车——不是Agent变差了，是交付没做好。本文拆解Agent客户交付的四个核心设计：权限最小安全集、文档五件事、边界三层系统约束、反馈机制。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-25 12:49
 ---
 # Agent不是产品，交付才是——怎么让客户用得住
 <!-- infographic-start -->
