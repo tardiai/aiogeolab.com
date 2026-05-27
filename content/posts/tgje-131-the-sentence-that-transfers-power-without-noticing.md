@@ -1,7 +1,7 @@
 ---
 title: 为什么「让AI自己看着办」是一个危险的句式
 date: 2026-05-27
-draft: true
+draft: false
 coverKeyword: 让Agent自己看着办
 description: '"让AI自己看着办"是这个时代用得越来越频繁、但几乎没有人认真想过的句式。它把三件性质完全不同的事情压缩进了同一句话：决定的范围是什么、出错了怎么办、结果由谁负责。本文从语言切入，拆解这个句式掩盖的三个未完成的设计问题，给出把模糊授权翻译成可设计结构的方法。'
 tldr: |-
@@ -60,14 +60,15 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao3zVe5GG8Jb4s1AWiHb-o8SE9IkgAQ4tWFEve9XXe3t9E
     video_vid: wxv_4532510643593101312
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNVPwWMKyuqmSm1edJt4Bzl1HqR2gUibDiasTZtwqCYkrALanHALbvwqVCgMRuiclNEwSXTglUehJGGXtAMtbVeS6DcG4Pb1R86waQ/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWtlQhAEeumz7bbibP98Iwq2YcYsQROtC890xP9cyppeFnEf9dMOsNNHLeweBuYwfORWG51rPqpiaQWqVwOC5CpuHSfNfR7ZCD14/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3-vzlxymhspUHCvwC0rHmlvGVejZu-OByWmuZ-NYmi7_
-    draft_created_at: 2026-05-26 07:16
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNXyibr6sysiaA7sWiaRRFgptAtgn0rcKh25eCD5C9jbUaUNHbktkkibxv88eTJKVpm1fyDWHA4ZicQSAZJiazbSA21pSryKibHmG4beAw/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao32VrY-HYQiWq2xi8Avc7AYMPIEbNxYh9qcatgMBpNZze
+    draft_created_at: 2026-05-26 13:39
     video_media_id: lEmH66TSP501Rw-1R2Ao3yZGfeEnrJUGHjoO362gICWUutCes0w09EmP-o-S9DQR
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-26 07:17
 ---
 # 为什么「让AI自己看着办」是一个危险的句式
 <!-- infographic-start -->
