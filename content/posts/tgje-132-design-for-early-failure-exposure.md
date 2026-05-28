@@ -1,7 +1,7 @@
 ---
 title: 如何及早发现Agent的错误丨Agent可观测性设计
 date: 2026-05-28
-draft: true
+draft: false
 coverKeyword: Agent可观测性设计
 description: Agent出了错，最可怕的不是错误本身，而是错误被发现的时机太晚。聊天里AI说错了你马上看到；Agent执行链里，错误可能在第三步发生，第七步才被感受到。本文拆解可观测性的三个层次，给出让错误更早暴露的四种设计，以及最小可行的可观测性起点。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-27 12:11
 ---
 
 # 如何及早发现Agent的错误丨Agent可观测性设计
