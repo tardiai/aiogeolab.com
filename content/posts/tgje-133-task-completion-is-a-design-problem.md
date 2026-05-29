@@ -1,7 +1,7 @@
 ---
 title: 你是不是以为Agent越聪明，任务完成率就越高丨Agent误解系列
 date: 2026-05-29
-draft: true
+draft: false
 coverKeyword: 任务失败，先问这三个问题
 description: 任务完成率不是模型能力的函数，是任务设计的函数。本文拆解完成率背后的三个结构性缺口——终点未定义、验收标准缺失、中间状态无托底——以及为什么换更好的模型有时候只是让错误跑得更远。适合用过Agent、觉得效果不稳定、但说不清问题在哪里的读者。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-28 10:38
 ---
 # 你是不是以为Agent越聪明，任务完成率就越高丨Agent误解系列
 <!-- infographic-start -->
