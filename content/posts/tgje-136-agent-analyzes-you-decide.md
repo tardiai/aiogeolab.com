@@ -48,26 +48,30 @@ publish:
   status: wx_draft_created
   paths:
     cover_img: null
-    video: null
-    infographic: null
+    video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-136-agent-analyzes-you-decide-AI决策的幻觉.mp4
+    infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-136-agent-analyzes-you-decide-AI分析与人类决策对比.png
     audiocover: null
+    audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-136-agent-analyzes-you-decide-AI分析不是你的决定.mp3
   cdn:
-    infographic_url: null
-    infographic_1280: null
+    infographic_url: https://p.vibcx.com/x/2026/05/1780183113-tgje-136-agent-analyzes-you-decide-AI%E5%88%86%E6%9E%90%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%86%B3%E7%AD%96%E5%AF%B9%E6%AF%94_1280_714.jpg
+    infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-136-agent-analyzes-you-decide-AI分析与人类决策对比_1280_714.jpg
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao36KLaJrsC15E7q60zxBht7Wi3RdQW-djoK1vGbFInPXV
-    video_vid: null
-    video_cover_url: null
-    infographic_wx_url: null
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3xLHJPy1rq_x1eW2tIXTXB8618IRNg0ALnu58ZAPFaT8
-    draft_created_at: 2026-05-31 06:54
+    video_vid: wxv_4539762003745406978
+    video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNUgnnuSyayzOnxXQP3d154uaibFZSiaM9dhKmuoyILt4MN0ytHy4iaN1V4FsGzhgkYJGTBjAAxyUpUewlKtYYQLutL9Pe6BHibzOk4/0?wx_fmt=jpeg
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNW5V4CZCSKW0ZNnDhy4diam3tCW6XAtaNrtbNxOBHVFicy8xYKQ9zPNne3nQicSn6hpLwoBeHkmRelVjtbXWC8Bv3cmCDK5RgPFNE/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3xIhqxc-UOR-QJ93e3mGuRSzI1RK_XsvuUNABOyceFDM
+    draft_created_at: 2026-05-31 07:23
+    video_media_id: lEmH66TSP501Rw-1R2Ao3wPrrZ7x0x8uokrd32_6bcuvcuh1JrkJD13xFHJJTiPI
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-31 06:54
 ---
-# Agent能帮你分析，但那个决定它替不了你做丨Agent误解系列
+# 你是不是也认为，让Agent帮你做决定会更可靠丨Agent误解系列
 <!-- infographic-start -->
+![信息图](https://p.vibcx.com/x/2026/05/1780183113-tgje-136-agent-analyzes-you-decide-AI%E5%88%86%E6%9E%90%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%86%B3%E7%AD%96%E5%AF%B9%E6%AF%94_1280_714.jpg)
 <!-- infographic-end -->
 
 
@@ -78,6 +82,13 @@ Agent给出的分析质量确实很高——它能快速整合大量信息、列
 但这里有一个概念偷换，而且偷换得很隐蔽。
 
 Agent在做的，是高质量的信息处理。它给你的，是"**通常情况下大多数人会认为合理的选择**"。这和"**你这个人在你这个处境下的正确决定**"，是两件不同的事。
+
+
+<!-- audiovideo-start -->  
+> <small>NotebookLM的音视频概览，解读的比较通俗易懂，对于时间比较紧张的读者朋友，可以听听，会有启发。
+</small>
+<iframe title="AioGeoLab" src="https://open.firstory.me/embed/story/cmpsys6qi0bov01zp0eyg9m0q" height="180" width="500" frameborder="0" scrolling="no"></iframe>
+<!-- audiovideo-end -->
 
 * * *
 
