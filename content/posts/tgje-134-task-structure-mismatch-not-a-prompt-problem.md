@@ -1,7 +1,7 @@
 ---
 title: 不是你没说清楚，是这类任务天然不适合Agent丨Agent误解系列
 date: 2026-05-30
-draft: true
+draft: false
 coverKeyword: 提示词不是万能的
 description: " Agent跑不好，不一定是提示词的问题。本文梳理三类结构性不匹配任务：实时信息依赖型、强主观判断型、高不可逆低可验证型，每类配具体案例说明为什么优化描述解决不了结构性问题，以及每类任务里Agent能承担什么角色。适合用过Agent、总在反复改提示词却收效甚微的读者。"
 tldr: |-
@@ -67,6 +67,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-29 12:22
 ---
 # 不是你没说清楚，是这类任务天然不适合Agent丨Agent误解系列
 <!-- infographic-start -->
