@@ -58,14 +58,15 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao3w8Tz17gwzHR8mLvRy-lRElnozN21vp67yk9ZHF87_4u
     video_vid: wxv_4538446528192987139
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXz7alTGCVegFwQJqVPh4tUY6FY9NZ2AfJ1g9wrlI7IfX8jBjQzppWMon2Lz4SAZAiaVctKZzKbJz2mSMMicT4tEVNqIdT9UL9pg/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXlTMLUBUVv65FGg0Ptib7w00x7v9vFwvre62bia4toWmdCMMRJwhTmtBvguKwbVM9YKibVuhN5ytdnmlibCLgSp2ECId2acibib1cZs/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao32jee1NL78ldHBqt-C18OuAiUpyhLFgpDFq9wu8bzksC
-    draft_created_at: 2026-05-30 10:11
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVy5MmzDwC9H5nJclSlLvGeDZWbT4xusXGzhoHrGzCFqziaC2TGtp8ZhJ3qWFWCvtVNGp0BLGaUdf5uibPiciat7e4YGml5drHuMEs/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao37FL0feULzOiviUkM41bfu8NzdM9iC73daps5wt12EMm
+    draft_created_at: 2026-05-30 11:18
     video_media_id: lEmH66TSP501Rw-1R2Ao30HxaAyr8sdeXnmI6m-joO-zzcApq-qoXabbopvZ5jli
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-05-30 10:11
 ---
 # Agent没有情绪，但它有偏见——只是很难看见丨Agent误解系列
 <!-- infographic-start -->

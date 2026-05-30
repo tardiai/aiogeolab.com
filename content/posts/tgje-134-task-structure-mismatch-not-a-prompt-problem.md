@@ -59,9 +59,9 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao36_E6FqpemUGrDN4wLv9cAkcb-qUfu5HFptjeBykmomC
     video_vid: wxv_4537162633703374855
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNUQBqVEaGib2A9xNZdLumA5qzsKXPX9ItF7J7cHXUP0HjlBZIZkj6wClDia14ardejbbYI626ugpR0DZV8b4IqlicEk1rtf0aX2lw/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWztq8dUnbjPRkjoyliaNcicC53hmXOicUDbWksIKnGvwqBmzjKdqXkBQTWBO0vYiaLwzKfibt9bQEhoUiayCRuY8myj39TrpeMcM7I8/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao317FsJ_N_Ud97_NWFpKJco1_NFiQYU_z0IVCmBnUvbhE
-    draft_created_at: 2026-05-29 12:22
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXfGxcuuN5jIdKMKKXiariawGGh7cIUwh5NRia6tiayZlibZtibib6sf1kE5mJOjcZuvHDMiaqm0434OwECzEE77TV1eVsrPmScteeDtCY/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3yx51mTnRkHPze-_ZcJweAU1R5dhc5mAMQ-85vVIqek9
+    draft_created_at: 2026-05-30 11:07
     video_media_id: lEmH66TSP501Rw-1R2Ao36FhzyTqgo3Q09BZ1PL4_HlcWftpcrXbEweNe2bBL72B
   wx_article:
     digest: null
