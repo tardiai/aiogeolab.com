@@ -1,7 +1,7 @@
 ---
-title: "# Agent没有情绪，但它有偏见——只是很难看见丨Agent误解系列"
+title: Agent没有情绪，但它有偏见——只是很难看见丨Agent误解系列
 date: 2026-05-31
-draft: true
+draft: false
 coverKeyword: " Agent结构性偏见"
 description: " Agent没有情绪，但这不等于没有偏见。本文拆解偏见的两个来源：执行者的主观偏见（Agent消除了）和训练数据的结构性偏见（Agent完整继承了）。通过亚马逊招聘AI和内容生成两个案例，说明数据偏见为什么比人的偏见更难被发现和质疑，以及在哪类任务里人的复核不能省。"
 tldr: |-
@@ -46,10 +46,10 @@ publish:
   slug: tgje-135-agent-bias-hidden-in-training-data
   status: wx_draft_created
   paths:
-    cover_img: null
+    cover_img:
     video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-135-agent-bias-hidden-in-training-data-AI客观性的错觉：隐藏在Agent中的偏见.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-135-agent-bias-hidden-in-training-data-AI智能体偏见分析图.png
-    audiocover: null
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-135-agent-bias-hidden-in-training-data-算法洗白了偏见.mp3
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/05/1780104693-tgje-135-agent-bias-hidden-in-training-data-AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%81%8F%E8%A7%81%E5%88%86%E6%9E%90%E5%9B%BE_1280_714.jpg
@@ -63,10 +63,10 @@ publish:
     draft_created_at: 2026-05-30 11:18
     video_media_id: lEmH66TSP501Rw-1R2Ao30HxaAyr8sdeXnmI6m-joO-zzcApq-qoXabbopvZ5jli
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
-  blog_published_at: 2026-05-30 10:11
+  blog_published_at: 2026-05-30 11:18
 ---
 # Agent没有情绪，但它有偏见——只是很难看见丨Agent误解系列
 <!-- infographic-start -->
