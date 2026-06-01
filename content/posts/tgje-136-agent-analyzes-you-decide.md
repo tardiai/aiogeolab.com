@@ -1,7 +1,7 @@
 ---
 title: 你是不是也认为，让Agent帮你做决定会更可靠丨Agent误解系列
 date: 2026-06-01
-draft: true
+draft: false
 coverKeyword: Agent做决定更可靠？
 description: '"让Agent帮我做决定更可靠"是一个常见但隐蔽的误解——Agent给的是高质量分析，不是决定。本文拆解决定需要的两样东西：立场（你在乎什么、愿意承担什么代价）和私有上下文（只有你知道的那些信息），通过职业决策和商业合作两个具体场景说明Agent结构性地无法替代这两样东西，以及Agent在决策流程里真正能承担的位置。'
 tldr: |-
@@ -67,7 +67,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-05-31 06:54
+  blog_published_at: 2026-05-31 07:23
 ---
 # 你是不是也认为，让Agent帮你做决定会更可靠丨Agent误解系列
 <!-- infographic-start -->
