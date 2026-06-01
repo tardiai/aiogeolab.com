@@ -1,7 +1,7 @@
 ---
 title: Agent用久了会越来越懂我？这件事不会自动发生丨Agent误解系列
 date: 2026-06-02
-draft: true
+draft: false
 coverKeyword: Agent会越来越懂我？
 description: '"Agent用久了会越来越懂我"是一个常见但代价不低的误解。本文拆解Agent记忆的三层结构：Context窗口（对话结束清零）、外部存储（需主动设计）、参数记忆（对所有人相同），说明为什么"越用越懂"不会自动发生，以及持久化记忆、用户画像文件、工作流文档三种主动设计路径。'
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-01 10:34
 ---
 # Agent用久了会越来越懂我？这件事不会自动发生丨Agent误解系列
 <!-- infographic-start -->
