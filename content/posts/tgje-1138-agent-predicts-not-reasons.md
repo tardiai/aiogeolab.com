@@ -41,13 +41,13 @@ schema:
 ShowToc: true
 TocOpen: true
 image:
-commands: /Users/wyh/baidusync/OneAILtd/VibCX/tarditools/apublish/pub.sh tgje-138-agent-predicts-not-reasons c n i f 微信视频素材上传 w b
+commands: /Users/wyh/baidusync/OneAILtd/VibCX/tarditools/apublish/pub.sh tgje-1138-agent-predicts-not-reasons c n i f 微信视频素材上传 w b
 publish:
   slug: tgje-138-agent-predicts-not-reasons
   status: wx_draft_created
   paths:
     cover_img: null
-    video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-138-agent-predicts-not-reasons-AI思考的幻觉：预测与推理的较量.mp4
+    video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-1138-agent-predicts-not-reasons-AI思考的幻觉：预测与推理的较量的副本.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-138-agent-predicts-not-reasons-揭秘Agent链式Token预测真相.png
     audiocover: null
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-138-agent-predicts-not-reasons-AI其实是在玩概率接龙.mp3
@@ -56,12 +56,12 @@ publish:
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-138-agent-predicts-not-reasons-揭秘Agent链式Token预测真相_1280_714.jpg
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao36oUJ_uhDz6dOjgkG94M_dJwlm_vtMFmJw1H1GDSqKmU
-    video_vid: wxv_4542641453403144200
-    video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNXxLr4sgMEuqaOgz0KjXtJicwBr3Hh25ExoGk3g0otOY63f3icOyIXAUKI1a576gSJOd4XcSUX3Hbj8HcVia0ib9lABiavlWP7sD1Ro/0?wx_fmt=jpeg
+    video_vid: wxv_4544456583656914948
+    video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWA8Qb0xdEz2kzvB0W2fesNCx1hLzOWk3sqby3kd2mKUSuCl1wS5s54XKgyFBqvMiczibrW6icj6749yB36LOMF0icTZvj4o4ue4aU/0?wx_fmt=jpeg
     infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVAFTbGgkJXHy8nJqEjPzgQNM601bjaZDvnibNDFM3ziaicXeccX8MpkS7QquXPjOTmibvfickIDMR7yWqbckvHrTUmdoibx3icuy1pc4/0?from=appmsg
     draft_media_id: lEmH66TSP501Rw-1R2Ao3_njtRWswjtGPT3I3y2OQVAtzUOx1CYM0N_MUbsZ810j
     draft_created_at: 2026-06-02 07:03
-    video_media_id: lEmH66TSP501Rw-1R2Ao34cPJgKdZ5moVIWQqPSwmUVn4unwNMMlDEP1ocDNwZmW
+    video_media_id: lEmH66TSP501Rw-1R2Ao37RbCYsyrlYG_MMuDgrp6mWUo1yzwLrR2iGvzhtyJV5K
   wx_article:
     digest: null
     original: false
