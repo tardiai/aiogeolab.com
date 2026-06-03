@@ -1,7 +1,7 @@
 ---
 title: Agent看起来在思考，但它其实在做另一件事丨Agent误解系列
-date: 2026-06-03
-draft: false
+date: 2026-12-30
+draft: true
 coverKeyword: Agent看起来在思考
 description: Agent看起来在思考，但它实际在做的是链式token预测——根据上下文预测概率最高的下一个词，而不是逻辑推导。本文拆解token预测的真实机制、Chain of Thought有效但不是"推理"的原因，以及两个案例说明为什么预测和推理在边界条件下以完全不同的方式失败——尤其是Agent不会因为不确定而停下来，这是它的错误比人的错误更难被发现的根本原因。
 tldr: |-
@@ -46,10 +46,10 @@ publish:
   slug: tgje-138-agent-predicts-not-reasons
   status: wx_draft_created
   paths:
-    cover_img: null
+    cover_img:
     video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-1138-agent-predicts-not-reasons-AI思考的幻觉：预测与推理的较量的副本.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-138-agent-predicts-not-reasons-揭秘Agent链式Token预测真相.png
-    audiocover: null
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-138-agent-predicts-not-reasons-AI其实是在玩概率接龙.mp3
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/06/1780354417-tgje-138-agent-predicts-not-reasons-%E6%8F%AD%E7%A7%98Agent%E9%93%BE%E5%BC%8FToken%E9%A2%84%E6%B5%8B%E7%9C%9F%E7%9B%B8_1280_714.jpg
@@ -63,7 +63,7 @@ publish:
     draft_created_at: 2026-06-02 07:03
     video_media_id: lEmH66TSP501Rw-1R2Ao37RbCYsyrlYG_MMuDgrp6mWUo1yzwLrR2iGvzhtyJV5K
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
   blog_published_at: 2026-06-02 07:03

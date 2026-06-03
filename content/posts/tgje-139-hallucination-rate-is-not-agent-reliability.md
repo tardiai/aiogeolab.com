@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-03 13:07
 ---
 # 模型幻觉率降了，Agent不一定更可靠丨Agent误解系列
 <!-- infographic-start -->
