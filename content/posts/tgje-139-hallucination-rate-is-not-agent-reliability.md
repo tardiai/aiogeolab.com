@@ -1,7 +1,7 @@
 ---
 title: 模型幻觉率降了，Agent不一定更可靠丨Agent误解系列
 date: 2026-06-04
-draft: true
+draft: false
 coverKeyword: 幻觉出现了能不能早发现
 description: 模型幻觉率下降是真实进展，但这个数字几乎都来自聊天场景的测量——输出是终点，人可以纠正。Agent执行场景里，幻觉是起点：继承式传播、工具调用放大、多Agent传染三种模式让同一个幻觉的代价完全不同。本文说明为什么幻觉出现在哪里比幻觉出现多少更重要，以及降低执行场景幻觉危害的三种结构设计。
 tldr: |-
@@ -66,7 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-06-03 13:07
+  blog_published_at: 2026-06-03 13:34
 ---
 # 模型幻觉率降了，Agent不一定更可靠丨Agent误解系列
 <!-- infographic-start -->
