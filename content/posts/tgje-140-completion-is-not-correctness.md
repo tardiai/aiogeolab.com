@@ -1,7 +1,7 @@
 ---
 title: Agent口中的完成，未必是你期望的完成丨Agent误解系列
 date: 2026-06-05
-draft: true
+draft: false
 coverKeyword: 沉默失败比显性失败代价高
 description: Agent说完成了，不等于任务做对了——这道缝叫沉默失败。本文通过内容生成、数据处理、邮件发送三个具体场景，说明沉默失败是怎么发生的、为什么比显性失败代价更高，以及如何在任务启动前把验收标准写进指令——三件事：什么叫做对了、什么时候该停下来问、什么是红线条件。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-04 09:55
 ---
 # Agent口中的完成，未必是你期望的完成丨Agent误解系列
 <!-- infographic-start -->
