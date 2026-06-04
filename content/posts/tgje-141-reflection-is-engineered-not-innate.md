@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-05 07:00
 ---
 # Agent的「反思」不是自省，是你设计出来的一套机制丨Agent误解系列
 <!-- infographic-start -->
