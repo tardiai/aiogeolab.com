@@ -1,7 +1,7 @@
 ---
 title: Agent的「反思」不是自省，是你设计出来的一套机制丨Agent误解系列
 date: 2026-06-06
-draft: true
+draft: false
 coverKeyword: 反思是一个工程机制
 description: Reflection（反思）听起来像Agent的内省能力，实际上是需要显式设计的结构化自检机制。本文拆解Agent的默认执行行为、Reflection的三种形态（自检型、双Agent型、迭代循环型）及各自的局限、两种产品设计哲学（OpenClaw跨任务经验沉淀 vs Hermes会话内实时触发），以及什么时候值得设计Reflection、什么时候不值得。
 tldr: |-
