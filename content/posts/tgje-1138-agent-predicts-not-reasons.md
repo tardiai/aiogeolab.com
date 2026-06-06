@@ -46,24 +46,24 @@ publish:
   slug: tgje-138-agent-predicts-not-reasons
   status: wx_draft_created
   paths:
-    cover_img:
+    cover_img: null
     video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-1138-agent-predicts-not-reasons-AI思考的幻觉：预测与推理的较量的副本.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-138-agent-predicts-not-reasons-揭秘Agent链式Token预测真相.png
-    audiocover:
+    audiocover: null
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-138-agent-predicts-not-reasons-AI其实是在玩概率接龙.mp3
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/06/1780354417-tgje-138-agent-predicts-not-reasons-%E6%8F%AD%E7%A7%98Agent%E9%93%BE%E5%BC%8FToken%E9%A2%84%E6%B5%8B%E7%9C%9F%E7%9B%B8_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-138-agent-predicts-not-reasons-揭秘Agent链式Token预测真相_1280_714.jpg
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao36oUJ_uhDz6dOjgkG94M_dJwlm_vtMFmJw1H1GDSqKmU
-    video_vid: wxv_4544456583656914948
-    video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWA8Qb0xdEz2kzvB0W2fesNCx1hLzOWk3sqby3kd2mKUSuCl1wS5s54XKgyFBqvMiczibrW6icj6749yB36LOMF0icTZvj4o4ue4aU/0?wx_fmt=jpeg
+    video_vid: 
+    video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVmIZSeu1RtjJpYHVaicibvhibOiaxeFTTObRdpXAmOWbbkHasqphjxcjfe5KFMjIkNfr9uXGDmg28IPP2ic5ldA69q6U3xr1zQVSYk/0?wx_fmt=jpeg
     infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVAFTbGgkJXHy8nJqEjPzgQNM601bjaZDvnibNDFM3ziaicXeccX8MpkS7QquXPjOTmibvfickIDMR7yWqbckvHrTUmdoibx3icuy1pc4/0?from=appmsg
     draft_media_id: lEmH66TSP501Rw-1R2Ao3_njtRWswjtGPT3I3y2OQVAtzUOx1CYM0N_MUbsZ810j
     draft_created_at: 2026-06-02 07:03
-    video_media_id: lEmH66TSP501Rw-1R2Ao37RbCYsyrlYG_MMuDgrp6mWUo1yzwLrR2iGvzhtyJV5K
+    video_media_id: lEmH66TSP501Rw-1R2Ao325-yqfrb35TgdISH4x-3m4MQ-Wc_IQunPd7rUNESTYW
   wx_article:
-    digest:
+    digest: null
     original: false
     comment: true
   blog_published_at: 2026-06-02 07:03

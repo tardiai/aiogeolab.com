@@ -1,7 +1,7 @@
 ---
 title: Agent调用工具，跟你用工具是一回事？丨Agent误解系列
 date: 2026-06-07
-draft: true
+draft: false
 coverKeyword: Agent调用工具不一样
 description: Agent调用工具，看起来和人用工具一样，实际上底层机制完全不同。本文是Agent误解校正系列第10篇，拆解工具调用的真实运作方式：为什么每一次调用都是概率推理而非确定执行，为什么翻车是沉默的，以及怎么设计才能让出错代价降下来。
 tldr: |-
@@ -67,6 +67,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-06 07:27
 ---
 # Agent调用工具，跟你用工具是一回事？丨Agent误解系列
 <!-- infographic-start -->
