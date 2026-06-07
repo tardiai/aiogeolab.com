@@ -1,7 +1,7 @@
 ---
 title: 提示词越详细，Agent跑得越好？丨Agent误解系列
 date: 2026-06-08
-draft: true
+draft: false
 coverKeyword: 提示词堆字数三个反效果
 description: 提示词越详细，Agent跑得越好？这是误解校正系列第11篇。本文拆解"越详细越好"这个直觉的形成原因，以及它在Agent场景里为什么会失效——从Lost in the Middle效应出发，说清楚决定提示词质量的不是字数，是关键信息放没放对位置、约束条件写没写成可验证的形式。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-07 06:56
 ---
 # 提示词越详细，Agent跑得越好？丨Agent误解系列
 <!-- infographic-start -->
