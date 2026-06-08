@@ -1,7 +1,7 @@
 ---
 title: N个Agent同时跑，效率是单任务的N倍？丨Agent误解系列
 date: 2026-06-09
-draft: true
+draft: false
 coverKeyword: 多Agent非效率倍增器
 description: N个Agent同时跑，效率是单任务的N倍？这是误解校正系列第14篇。多Agent并行的速度收益是真实的，但并行同时引入了三个串行没有的变量：外部资源写入冲突、协调开销、出错定位的复杂度。并行不是免费的效率倍增器，是一种有代价的架构选择，值不值得上，取决于任务结构不取决于Agent数量。
 tldr: |-
@@ -65,6 +65,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-08 07:05
 ---
 # N个Agent同时跑，效率是单任务的N倍？丨Agent误解系列
 <!-- infographic-start -->
