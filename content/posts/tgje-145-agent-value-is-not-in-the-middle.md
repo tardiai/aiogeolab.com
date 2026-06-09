@@ -1,7 +1,7 @@
 ---
 title: 用Agent，就只是把任务丢给它跑？丨Agent误解系列
 date: 2026-06-10
-draft: true
+draft: false
 coverKeyword: Agent发挥价值的抓手
 description: 用Agent就是把任务丢给它跑？这是误解校正系列第15篇。Agent执行的中间段是最不需要你的阶段，真正需要你投入的是启动前的任务设计和结束后的结果验收。把这两头省掉，Agent跑得再顺也可能方向错误，跑完了好不好也没有标准判断。本文拆解启动前要想清楚哪三件事、验收为什么不是"看一眼"，以及时间分配应该怎么重新调整。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-09 07:19
 ---
 # 用Agent，就只是把任务丢给它跑？丨Agent误解系列
 <!-- infographic-start -->
