@@ -1,7 +1,7 @@
 ---
 title: Agent出错了，改提示词就能修复？丨Agent误解系列
 date: 2026-06-11
-draft: true
+draft: false
 coverKeyword: Agent出错分两种类型
 description: Agent出错了，第一反应是改提示词？这是误解校正系列第16篇。提示词只影响Agent的行为倾向，改不了工具缺失、权限不足、验收标准缺失这类结构性问题。本文拆解出错的两种类型，给出一个在改提示词之前先做诊断的简单方法，帮你把修复时间花在真正有效的地方。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-10 07:07
 ---
 # Agent出错了，改提示词就能修复？丨Agent误解系列
 <!-- infographic-start -->
