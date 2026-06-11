@@ -1,7 +1,7 @@
 ---
 title: 自动化程度越高，人越省力？丨Agent误解系列
 date: 2026-06-12
-draft: true
+draft: false
 coverKeyword: 执行成本和监督成本
 description: 自动化程度越高，人越省力？这是误解校正系列第17篇。Agent把执行成本压下去了，但监督成本、出错代价和认知负荷并不随之消失。本文拆解执行成本和监督成本的区别，说清楚出错代价是自动化程度的乘数，以及什么条件下自动化才真正省力，什么条件下只是换了一种累法。
 tldr: |-
@@ -64,6 +64,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-11 06:53
 ---
 # 自动化程度越高，人越省力？丨Agent误解系列
 <!-- infographic-start -->
