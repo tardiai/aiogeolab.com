@@ -1,7 +1,7 @@
 ---
 title: 权限给得越多，Agent就越能干？丨Agent误解系列
 date: 2026-06-13
-draft: true
+draft: false
 coverKeyword: 权限不是能力放大器
 description: 权限给得越多，Agent越能干活？这是误解校正系列第19篇。权限不是能力放大器，是出错代价的乘数。本文从两个真实难点出发——不知道配多少合适、嫌确认麻烦——说清楚全授权为什么成为默认选择，以及它在出问题时出的是什么量级的问题。给出任务级权限判断方法和确认节点设计思路。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-12 07:14
 ---
 # 权限给得越多，Agent就越能干？丨Agent误解系列
 <!-- infographic-start -->
