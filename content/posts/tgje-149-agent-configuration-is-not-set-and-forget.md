@@ -1,7 +1,7 @@
 ---
 title: Agent需要定期校准，不能配置好就不管了丨Agent误解系列
 date: 2026-06-14
-draft: true
+draft: false
 coverKeyword: Agent需要定期校准
 description: Agent配置好了就不用管了？这是误解校正系列第20篇。Agent依赖的每一层都在动：模型在迭代、工具在更新、需求在漂移、外部环境在变化。任何一个变量移动，原来跑好的Agent都可能开始悄悄跑偏——而且跑偏是沉默的、积累性的。本文拆解四类让Agent跑偏的变化，以及三件最简单的持续维护动作。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-13 06:46
 ---
 # Agent配置好了，就不用管了？丨Agent误解系列
 <!-- infographic-start -->
