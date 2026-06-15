@@ -1,7 +1,7 @@
 ---
 title: FDE落地工程：AI时代的落地交付丨当OpenAI花40亿造了一支「落地工程师」队伍，它在解决什么问题？
 date: 2026-06-15
-draft: true
+draft: false
 coverKeyword: FDE落地工程师
 description: FDE落地工程系列第00篇。从OpenAI成立40亿美元Deployment Company切入，追溯FDE角色的起源与本质，揭示AI落地失败的真正原因——不是模型问题，是交付问题。以建设者视角分析Agent如何改变FDE模式的成本结构，让这套方法论对每一个认真做AI落地的人真正可用。适合企业内部AI推动者、AI产品建设者、一人公司创业者阅读。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-14 08:11
 ---
 # FDE落地工程：AI时代的落地交付丨当OpenAI花40亿造了一支「落地工程师」队伍，它在解决什么问题？
 <!-- infographic-start -->
