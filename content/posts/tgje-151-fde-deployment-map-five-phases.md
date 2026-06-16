@@ -1,7 +1,7 @@
 ---
 title: FDE落地地图：AI交付的五个阶段丨从第一次见客户到系统移交，每个阶段做什么
 date: 2026-06-16
-draft: true
+draft: false
 coverKeyword: FDE落地地图
 description: FDE落地工程系列第01篇。以业界经过验证的五阶段框架为核心，完整呈现AI落地从发现到交接的全旅程地图。每个阶段说明核心任务、最常见失败和结束标志，并揭示产品化闭环如何区分FDE模式与定制开发。适合任何需要把AI从Demo推进到真实业务的建设者收藏对照。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-15 10:14
 ---
 # FDE落地地图：AI交付的五个阶段丨从第一次见客户到系统移交，每个阶段做什么
 <!-- infographic-start -->
