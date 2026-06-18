@@ -1,7 +1,7 @@
 ---
 title: FDE原型阶段：验证方向而非Demo展示丨用真实数据验证方向，比用干净数据做出漂亮Demo更重要
 date: 2026-06-18
-draft: true
+draft: false
 coverKeyword: 原型不是Demo
 description: FDE落地工程系列第03篇。聚焦原型阶段的核心逻辑：原型不是Demo，目的是在真实数据上验证方向而非展示效果。拆解真实数据的三类暴露机制、三层评测标准的建立方法，以及以天为单位迭代的操作节奏。用金融公司预部署卡七个月的真实案例，说明跳过真实数据验证的代价。
 tldr: |-
@@ -66,6 +66,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-17 10:03
 ---
 # FDE原型阶段：验证方向而非Demo展示丨用真实数据验证方向，比用干净数据做出漂亮Demo更重要
 <!-- infographic-start -->
