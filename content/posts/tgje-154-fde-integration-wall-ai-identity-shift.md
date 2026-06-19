@@ -1,7 +1,7 @@
 ---
 title: AI时代的FDE集成墙，和过去不一样丨身份认证、权限治理首当其冲
 date: 2026-06-19
-draft: true
+draft: false
 coverKeyword: FDE落地工程集成墙
 description: FDE落地工程系列第04篇。拆解部署阶段的"集成墙"五个构成部分，指出技术接口、合规审计、组织流程、信任缺口四道墙是企业落地几十年的老问题，方法论现成；而身份与权限墙因AI Agent的行为模式与传统IAM假设结构性不兼容，是真正全新的难题。结合2026年最新行业调研数据，揭示这道墙的真实规模和应对方向。
 tldr: |-
@@ -68,6 +68,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-18 08:22
 ---
 # AI时代的FDE集成墙，和过去不一样丨身份认证、权限治理首当其冲
 <!-- infographic-start -->
