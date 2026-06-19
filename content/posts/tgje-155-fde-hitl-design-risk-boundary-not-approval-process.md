@@ -1,7 +1,7 @@
 ---
 title: FDE裁定接口设计：不是审批流程，是风险边界丨部署阶段交给判断工程的那份图纸
 date: 2026-06-20
-draft: true
+draft: false
 coverKeyword: FDE裁定接口设计
 description: FDE落地工程系列第05篇。拆解裁定接口设计的核心逻辑：它不是审批流程，而是风险边界的系统表达。区分HITL与HOTL的适用场景，揭示审批疲劳这一常见失效模式，提出四个触发裁定的标准和裁定接口的四个设计要素。同时显式连接判断工程系列，说明认知框架如何在FDE部署阶段转化为系统级控制点。
 tldr: |-
@@ -58,15 +58,20 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao31qmADt3ybPmOCVY49XJwdjsPoM_55Od9VlxbhMlhSBw
     video_vid: wxv_4567623354605731841
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNVJerhPfbaIgcfI0SHicpZMWZLkxia72MB22KZZRftib7bTRJWOSngpHUDAKf4iach2Zc4KkuAbpKZgf9bmpMylgDmdiaCeAw7ET6ZE/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNUfORxtD1lgfsibP0MxX0ADLPmRISNpxPntw4zprVJZmM7fBOYibsjDIjia9hT4wBasjeh0ulXoIe4AFESl3MSCJRu91P0iafG2gLk/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao36TZJNeGY2wwrAyw8wTSXSfl2BZDKw5elQTd3yAqNEs8
-    draft_created_at: 2026-06-19 12:56
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNX9FgletnAH6xj1Bv7SYE5OBUq8KwKPGP1pcR7XCSvgeMHiafUdjmyLO746y36ElRzF26B8fhc1HmEEmyj12fdThYkJJicqu1s2M/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3-_zHLub7J-2jrb1nbdsXbzAD99pJrpoFJ0_3G80_WQq
+    draft_created_at: 2026-06-19 13:33
     video_media_id: lEmH66TSP501Rw-1R2Ao36tWViNix9jjsKg7yWA5LZmQbrCJ8ywxInIvbok1Hhcu
+    body_image_cache:
+      https://p.vibcx.com/x/2026/06/1781844632-%E7%AC%AC%205%20%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWZJcUkoZcr7oYPJpvkTfh21TgTQ9unIueJW4gOLKbHYrJ608j2qNpbmtfjp1A3jtY48sgLKkGS4iaOxRnFicsHuiarNok1rcbnZM/0?from=appmsg
+      https://p.vibcx.com/x/2026/06/1781844698-%E7%AC%AC%203%20%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXnZicGgOl5Jm1AgibgNoUWrOp9qib4z3QdROXBbC4Cgm6Pgh510l8ekiaD2Fic3ugR4tdR2I396l1TZpoUuc8Nyw61JIiciaibhtfTd70/0?from=appmsg
+      https://p.vibcx.com/x/2026/06/1781844768-%E7%AC%AC%207%20%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNVabJbW4NpibtYoDzIw6f7sdlBA37waBTib3rNGyNQySNOZ7r5zoBCXJgiaiaHOKDxXT1Ae8jKhR4nWCqwRqhS1taB78YKY2eALzc0/0?from=appmsg
+      https://p.vibcx.com/x/2026/06/1781844825-%E7%AC%AC%209%20%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUj8G4CSF86zdZJWznvUfBOsIxC2C4q2alx8LfZVzkVEjsyjCInONkmER5bx5p5JCRmzpZ2IiapXWN5QicOn8m6nPHwXdbzISMsM/0?from=appmsg
   wx_article:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-06-19 12:38
+  blog_published_at: 2026-06-19 12:56
 ---
 # FDE裁定接口设计：不是审批流程，是风险边界丨部署阶段交给判断工程的那份图纸
 <!-- infographic-start -->
@@ -102,6 +107,7 @@ HITL（Human-in-the-Loop）要求人类在AI系统执行之前批准或授权一
 这就是为什么"搭一套审批系统"不够用——审批系统解决的是流程问题，但在哪些节点触发审批、触发什么级别的审批，这是设计问题，比审批系统本身更重要。
 
 ![第 5 页.png](https://p.vibcx.com/x/2026/06/1781844632-%E7%AC%AC%205%20%E9%A1%B5.png)
+
 
 * * *
 
