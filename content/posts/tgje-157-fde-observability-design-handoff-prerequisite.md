@@ -1,7 +1,7 @@
 ---
 title: FDE可观测性设计：不是运维任务，是能否顺利移交的前提丨AI沉默失败，客户如何第一时间知道？
 date: 2026-06-22
-draft: true
+draft: false
 coverKeyword: FDE可观测性设计
 description: FDE落地工程系列第07篇。以AI系统沉默失败为切入点，区分监控与可观测性的本质差异，拆解AI生产环境中的四类沉默失败（质量漂移/幻觉积累/成本失控/行为漂移），建立可观测性三层次框架。重点阐明FDE在可观测性设计、建设、移交三个阶段的具体角色，以及为什么可观测性是交接阶段能否成功的前提条件。
 tldr: |-
@@ -96,6 +96,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-21 09:31
 ---
 # FDE可观测性设计：不是运维任务，是能否顺利移交的前提丨AI沉默失败，客户如何第一时间知道？
 
