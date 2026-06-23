@@ -1,7 +1,7 @@
 ---
 title: FDE沉默失败防线：让AI系统自己报警，比你想的难丨三道防线，覆盖传统监控的盲区
 date: 2026-06-23
-draft: true
+draft: false
 coverKeyword: FDE沉默失败防线
 description: FDE落地工程系列第08篇。以"仪表盘全绿但系统正在出错"切入，说明传统报警对AI沉默失败无效的根本原因，建立三道防线框架（上线前评测门控、生产流量持续质量评测、用户反馈信号），拆解Agent系统步骤级可见性的四类必追踪指标，以及交接阶段需要移交的三件事。显式连接Agent误解系列的沉默失败概念。
 tldr: |-
@@ -86,9 +86,9 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao30usTMiRbylnR1_3Wk_IKle1po6bxgdJox3t0OwxdBqc
     video_vid: wxv_4571706652826976257
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWeibfRaZBNGxe3ySjNBicvNeicRkTfuTw5bqgB1uY5cRPSDU1EmKhfeZZr2H9XAoTQ0rTYvL7x8OamrYxfwgXVqqgrWzb8fj3vS4/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVasvTXH0cvyAl8AzlNPib1NyQePw8PFeUooEUfIL9PW5FXdXb7qdibuMZGNjqnS8B5mta9JsGSsQpuicG7TGemjPQabUvyjSY6E4/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao389zfT50vLVgWMx8MZAfCvUJ3K6y26BcVw8_0cP_OO97
-    draft_created_at: 2026-06-22 11:16
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWGQb3Y6UjeVTVcLtAejcy6mOZsJWw7ATUWgkgoPHicDIrj0whicnUUlM6a1ZBY7Ll3iawZnOYkqSich2MCSLlvf3vE8aqbYwN8icc4/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao33UDbyplBOFPZvPtV6BARcYdPZr4ItoBfr582_PvgqkZ
+    draft_created_at: 2026-06-22 11:17
     video_media_id: lEmH66TSP501Rw-1R2Ao31B66l3Cky7CYz5KjANV_bGrKWY3HJmZ2c1v6hHjKkra
     body_image_cache:
       https://p.vibcx.com/x/2026/06/1782097726-03%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWaibpW7AZcIW30aYr9jRvHVEqfj4Via9kNNH7ib7QUtrcUIvBdVlazchdzwZH0bibSkGcjlfIhRN004ZwXvDMTSmuUDGNAh9oJ49A/0?from=appmsg
@@ -96,10 +96,13 @@ publish:
       https://p.vibcx.com/x/2026/06/1782097797-06%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUFxZVzZW1ic8eNp40iaia3ByW9AX3De2esLBctIgzIiaNff87icIS6YXh8E04wKJfUuJYpGDNRWvHIYsxAURUT3d7COUS1rywCRDnI/0?from=appmsg
       https://p.vibcx.com/x/2026/06/1782097846-08%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUuqC0M3F10G7PicHHeKBfROjFsP6HDgKSgxZh6SQ4LibRoXOd4lMR4bIFicjIs21icTlOC0iaMaCwicjOxicOvicqo5riatFVFwCbnvxEQ/0?from=appmsg
       https://p.vibcx.com/x/2026/06/1782097992-12%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNVoOO1XS5QErhPVfPHALo8CTfqFzzPp0Ihyzc1wjIUNOwFB7sFCMz0Rgelob7vXYgiahcDyrOIZOe1WAkaRtuRgFOzt4ePyC45E/0?from=appmsg
+      https://p.vibcx.com/x/2026/06/1782097804-07%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNVoQLFic3pIP6bcUEZRVAsN7e58o7twicmKtaubygicyWqOZicY1zJKhutjnMNuqXKxWteoYzaGFqSgm01ApXrmO44LgvMlNxKTTDw/0?from=appmsg
+      https://p.vibcx.com/x/2026/06/1782097927-11%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNVrGCx01aCsic70fx0Rygz54lBGuHebesfeo7PdZlxqYMibXzQLfdet9lLLIGiczPoO2Ckib1Tw5ic43IjPpEaoKicjOyWGxYXibvw2lc/0?from=appmsg
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-22 11:16
 ---
 # FDE沉默失败防线：让AI系统自己报警，比你想的难丨三道防线，覆盖传统监控的盲区
 
