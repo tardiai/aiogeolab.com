@@ -1,7 +1,7 @@
 ---
 title: FDE产品化：FDE和外包最本质的分水岭丨每次交付，都应该让下一次的成本更低
 date: 2026-06-24
-draft: true
+draft: false
 coverKeyword: FDE和外包最本质的区别
 description: FDE落地工程系列第09篇。以两支交付能力相近但两年后状态迥异的团队对比切入，揭示产品化是FDE模式和外包模式的本质分水岭。拆解三类值得产品化的经验资产（连接器/评测框架/部署模式），建立90天产品化门槛和每周产品化评审机制，并从发现更快、工程化更轻、交付质量更高三个维度说明边际成本下降的具体体现。
 tldr: |-
@@ -97,6 +97,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-23 09:18
 ---
 # FDE产品化：FDE和外包最本质的分水岭丨每次交付，都应该让下一次的成本更低
 
