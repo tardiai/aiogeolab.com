@@ -1,7 +1,7 @@
 ---
 title: FDE价值量化：不是项目结束后的总结，是第一天就要设计的机制丨甲方问「这值多少钱」，你能回答吗
 date: 2026-06-26
-draft: true
+draft: false
 coverKeyword: ROI难以证明的三个原因
 description: FDE落地工程系列第11篇。以"预算审查时说不清楚价值"为切入点，揭示ROI难以证明的三个根本原因，建立价值三层次框架（效率/决策质量/新能力），强调基线测量要在发现阶段就同步建立，并提供针对CFO、业务负责人、技术决策者三种角色的不同汇报语言框架。
 tldr: |-
@@ -121,6 +121,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-25 10:10
 ---
 # FDE价值量化：不是项目结束后的总结，是第一天就要设计的机制丨甲方问「这值多少钱」，你能回答吗
 
