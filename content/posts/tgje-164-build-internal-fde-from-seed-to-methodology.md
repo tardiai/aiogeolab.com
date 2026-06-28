@@ -1,7 +1,7 @@
 ---
-title: 甲方自建FDE能力：从找种子人到方法论落地
+title: 甲方自建FDE能力：从找种子人到方法论落地丨三条路径和三大陷阱
 date: 2026-06-29
-draft: true
+draft: false
 coverKeyword: 内部FDE的本质不是岗位
 description: FDE落地工程系列第14篇。甲方自建AI能力常见三条路——买工具推广、成立AI部门、业务线自探索——都绕开了最核心的问题：谁在现场，谁对价值结果负责。本文给出内部FDE能力的三步组建路径：找种子人、用真实项目建立工作方式、把方法论从人身上剥离出来，并拆解甲方自建的独特优势与三个典型陷阱。
 tldr: |-
@@ -46,42 +46,27 @@ publish:
   slug: tgje-164-build-internal-fde-from-seed-to-methodology
   status: wx_draft_created
   paths:
-    cover_img: null
+    cover_img:
     video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-164-build-internal-fde-from-seed-to-methodology-企业FDE实战：从种子人到方法论.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-164-build-internal-fde-from-seed-to-methodology-企业自建AI能力路径.png
-    audiocover: null
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-164-build-internal-fde-from-seed-to-methodology-谁在为AI业务价值负责.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint.pdf
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint.pdf
     slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/11页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/12页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/13页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal
-      FDE Blueprint/14页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/01页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/02页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/03页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/04页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/05页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/06页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/07页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/08页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/09页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/10页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/11页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/12页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/13页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-164-build-internal-fde-from-seed-to-methodology-Internal FDE Blueprint/14页.png
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/06/1782603191-tgje-164-build-internal-fde-from-seed-to-methodology-%E4%BC%81%E4%B8%9A%E8%87%AA%E5%BB%BAAI%E8%83%BD%E5%8A%9B%E8%B7%AF%E5%BE%84_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-164-build-internal-fde-from-seed-to-methodology-企业自建AI能力路径_1280_714.jpg
@@ -105,11 +90,12 @@ publish:
       https://p.vibcx.com/x/2026/06/1782606382-13%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWC4eK191zXWub3fkRXYmvibPGX58t3ECzFoh59IOOia7CpGvn5H9WDDO5F2Jico2GAvpZb8xte5LqQGdc175IKHMnGcNqlGscKEc/0?from=appmsg
       https://p.vibcx.com/x/2026/06/1782606334-11%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNXeSL348u143OQgibHYEkmY4N4pylE4S0G4tgGdMeKjdOiaInxviaGBSBeKibTD58l2xtiboj2tWaoNM3TZpia7bsShZIloe9nx55Q5o/0?from=appmsg
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
+  blog_published_at: 2026-06-28 08:30
 ---
-# 甲方自建FDE能力：从找种子人到方法论落地
+# 甲方自建FDE能力：从找种子人到方法论落地丨三条路径和三大陷阱
 
 上一篇说：国内AI落地不缺人，缺的是有人对价值结果负责。FDE做的那些事分散在售前、实施、运维、产品经理身上，没有一个人的成败和"AI在客户现场真正产生了价值"绑定。
 
