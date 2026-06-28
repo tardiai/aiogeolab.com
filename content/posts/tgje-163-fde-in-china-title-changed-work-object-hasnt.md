@@ -1,7 +1,7 @@
 ---
 title: FDE在中国：title换了，工作对象没变丨判断一个岗位是不是FDE的四个问题
 date: 2026-06-28
-draft: true
+draft: false
 coverKeyword: FDE最核心的特点是现场
 description: FDE落地工程系列第13篇。国内不是没有做FDE事情的人，是没有人的成败和"AI在客户现场真正产生了价值"绑定。本文拆解FDE五阶段在国内落到哪些角色身上、各自的缺口在哪里，并给出判断一个岗位是否真正在做FDE工作的四个问题。
 tldr: |-
@@ -103,6 +103,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-27 10:20
 ---
 # FDE在中国：title换了，工作对象没变丨判断一个岗位是不是FDE的四个问题
 
