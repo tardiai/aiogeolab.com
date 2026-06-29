@@ -1,7 +1,7 @@
 ---
 title: 为什么AI Demo越来越容易，真正上线却越来越难？丨FDE重新理解AI交付
 date: 2026-06-30
-draft: true
+draft: false
 coverKeyword: FDE重新理解AI交付
 description: AI Demo的成本正在快速下降，但企业AI项目进入生产的比例并没有同步提升——78%有试点，只有14%到生产。本文用FDE视角拆解Demo和生产系统的本质差异，揭示为什么让Demo变容易的那些进步，对真正的交付障碍几乎没有影响。
 tldr: |-
@@ -111,6 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-29 07:29
 ---
 # 为什么AI Demo越来越容易，真正上线却越来越难？丨FDE重新理解AI交付
 <!-- infographic-start -->
