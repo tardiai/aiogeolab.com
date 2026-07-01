@@ -1,7 +1,7 @@
 ---
 title: 为什么企业真正缺的不是模型，而是现场？丨FDE重新理解Context
 date: 2026-07-02
-draft: true
+draft: false
 coverKeyword: 现场决定价值的上限
 description: FDE落地工程系列。同样的模型，同样的架构，为什么在不同企业里效果差异巨大？不是模型的问题，是现场Context的问题。本文用FDE视角重新定义Context：不是提示词，不是知识库，而是企业现场正在运行的全部判断逻辑。模型决定能力的上限，Context决定价值的上限。
 tldr: |-
@@ -105,6 +105,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-01 09:01
 ---
 # 为什么企业真正缺的不是模型，而是现场？丨FDE重新理解Context
 
