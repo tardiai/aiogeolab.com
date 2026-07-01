@@ -1,7 +1,7 @@
 ---
 title: 为什么Agent越来越聪明，却越来越难进入企业？丨FDE重新理解Agent工程
 date: 2026-07-01
-draft: true
+draft: false
 coverKeyword: 三位一体的责任机制
 description: FDE落地工程系列。79%的企业声称采用了AI Agent，只有11%真正在生产环境运行。Agent进不了企业，不是因为不够聪明，而是因为企业无法回答"出错了谁负责"。本文用FDE视角拆解Agent工程的本质：不是让Agent更聪明，是为Agent建立权限、裁定、审计三位一体的责任机制。
 tldr: |-
@@ -105,6 +105,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-06-30 07:31
 ---
 # 为什么Agent越来越聪明，却越来越难进入企业？丨FDE重新理解Agent工程
 <!-- infographic-start -->
