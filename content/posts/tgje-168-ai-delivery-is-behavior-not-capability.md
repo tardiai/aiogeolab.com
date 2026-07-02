@@ -1,7 +1,7 @@
 ---
 title: 为什么AI项目越来越像组织工程？丨FDE重新理解AI建设
 date: 2026-07-03
-draft: true
+draft: false
 coverKeyword: IT交付能力AI交付行为
 description: FDE落地工程系列。2024年全球AI投入2523亿美元，只有6%的企业报告显著盈利影响。技术做好了，为什么组织没有跟上？本文用FDE视角揭示AI和传统IT的本质区别：IT交付能力，AI交付行为。一旦软件开始参与工作，建设对象就不再只是系统，而是整个组织的运行机制。
 tldr: |-
@@ -105,6 +105,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-02 06:25
 ---
 # 为什么AI项目越来越像组织工程？丨FDE重新理解AI建设
 
