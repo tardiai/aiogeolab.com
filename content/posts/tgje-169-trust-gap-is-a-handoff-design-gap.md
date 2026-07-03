@@ -1,7 +1,7 @@
 ---
 title: 为什么老板觉得AI很好，员工却越来越不愿意用？丨FDE重新理解组织信任
 date: 2026-07-04
-draft: true
+draft: false
 coverKeyword: 组织信任本质上是交接设计
 description: FDE落地工程系列。员工使用AI的频率在上升，但对AI的信心在下降——这不是技能问题，是责任位置发生了变化后留下的交接空白。本文用FDE视角重新定义组织信任：信任不是靠员工相信AI足够聪明建立的，是靠交接机制设计清楚建立的。
 tldr: |-
@@ -109,6 +109,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-03 07:04
 ---
 # 为什么老板觉得AI很好，员工却越来越不愿意用？丨FDE重新理解组织信任
 
