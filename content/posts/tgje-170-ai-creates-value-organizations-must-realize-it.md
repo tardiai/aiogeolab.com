@@ -1,7 +1,7 @@
 ---
 title: 为什么AI创造了价值，企业却看不见？丨FDE重新理解价值兑现
 date: 2026-07-05
-draft: true
+draft: false
 coverKeyword: AI创造价值组织兑现价值
 description: FDE落地工程系列。79%的企业看到了AI带来的生产力提升，但只有25%的项目实现了预期ROI，95%的生成式AI试点对损益表零影响。价值创造了，为什么企业却看不见？本文用FDE视角拆解价值创造与价值兑现的本质区别：前者是AI完成的，后者只能靠组织设计完成。
 tldr: |-
@@ -107,6 +107,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-04 07:27
 ---
 # 为什么AI创造了价值，企业却看不见？丨FDE重新理解价值兑现
 
