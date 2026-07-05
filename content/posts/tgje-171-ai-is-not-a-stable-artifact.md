@@ -1,5 +1,5 @@
 ---
-title: 为什么AI上线以后，真正的工作才开始？丨FDE重新理解AI运营
+title: 为什么AI上线以后，真正的工作才开始？丨FDE重新理解AI上线
 date: 2026-07-06
 draft: true
 coverKeyword: AI系统不是一个稳定实体
@@ -52,39 +52,27 @@ publish:
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-171-ai-is-not-a-stable-artifact-FDE重新理解AI运营.png
     audiocover: null
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-171-ai-is-not-a-stable-artifact-AI上线为何悄悄变笨.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined.pdf
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch.pdf
     slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/11页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/12页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/13页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/14页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-AI
-      Operations Redefined/15页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/01页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/02页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/03页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/04页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/05页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/06页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/07页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/08页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-171-ai-is-not-a-stable-artifact-Beyond
+      AI Launch/09页.png
   cdn:
     infographic_url: null
     infographic_1280: null
@@ -93,8 +81,8 @@ publish:
     video_vid: wxv_4590454950618382337
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVtBCMzqYyFw7RD0D6pqjeaPLU5cY0aYiaSSPRpzC6g5gDShRcBGQ2uNuaic3ciaicVNQEMMqS5icc0gayJUafAcAeHVuGrWgKfEtlw/0?wx_fmt=jpeg
     infographic_wx_url: null
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3yqV5tnVhKtHry2WrhFTXeAz-pR772MwAs10olDjsMyb
-    draft_created_at: 2026-07-05 06:58
+    draft_media_id: lEmH66TSP501Rw-1R2Ao39LHvlk3Dd2hAsd6c86nWdC3fepWlwkRs9EG3OTzreL3
+    draft_created_at: 2026-07-05 09:55
     video_media_id: lEmH66TSP501Rw-1R2Ao38j5xXDITMxuLuPEMZydFb2Pq208slVtZdbjB_cVDCcq
     body_image_cache:
       https://p.vibcx.com/x/2026/07/1783204802-02%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNX53dQXZxUdJ3NB3fwZOjBMXIdbdvxsganAM4UYUicAHTAXf3qI0jIFdicJUVW9Yibo5icyev2DcYjvDbA273dDzdG4jORtRZ3aZfc/0?from=appmsg
@@ -105,12 +93,19 @@ publish:
       https://p.vibcx.com/x/2026/07/1783205268-09%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWIQicxM8sib3J3ZX93ID2AujuVRa7ia9pg7218tdicOpmgLeM5vicsw1ibjmVt3uTwKiaNNkq0nXb1s8ek6Xvqj73FA1KnrybGsude5I/0?from=appmsg
       https://p.vibcx.com/x/2026/07/1783205318-11%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWRlEtt3vdgw2FPNnHQMAtHpgnHnoiaM5StMu9ZQ8dXUZvoDjuGdfY1M7WrgYicb7mULV3vChia50ZL8LOCibJSKcaLJn6qgOsaIEs/0?from=appmsg
       https://p.vibcx.com/x/2026/07/1783205335-10%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNVLSibJOtQibZKad01WjPEruibde1JtLpAc1eU5oqSrSnoRVyZJ4tSH6lyTdCvtlficRozZxJN0xtSaunk7NwHqBapXJwFwyuWYXPY/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783216292-03%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWTBaxKDsaa5IVuFoeTMFuOiaaGLgkG7nn6T7yNFzoY4S1pibHibxkooJu6bq5eLEGgibYoY2v5x2gVkbrCXibnrQCWrXKHM1m0cETo/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783216319-04%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXKcUcjdqj1TbuUOXgr6kTicJ7bibgNVrv6nhkhbiaqwGIh3iadu2ayaUC0VxrgkrI5V6wmOmpIPuJPl4bUKlQibUNDEPia3zEeNIHWQ/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783216343-05%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNW5gIQBxrbsQcxDdlbQzp0wAnZmTyK7W0micZv5wJtBS0M9JWfCXDQIRcerJsAZFahHia6RNngCQaFPDwDmZzotWicwibicJ31MFD1s/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783216361-06%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWe9HmEhz7XSJgUq7k6jC9QVqKlUUZrVZGzq6F7IqZV5dRETHMy5ktBXG0TCkaoyIqKMCWojc6nhQMThEsfsRgn02U6PYaDQ8k/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783216378-07%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUjpDFZ0xPHRibVzSW31rxddvibr08qqOnxiaJ6FNoX6hEialaXRARVlQHCmI84GbAUZPHpvvg6Fj0vTJ4w4kuHFFsEhB6LRlrbicPI/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783216389-08%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNVyy9uzzE39Lb2UqiaibLpCSOucEFeX5micU4rJQq8enaht0v4ibHeg02lCAyibuJic8gXObwmnzs4iczSCYMggLHjcfibdyVTrhaTraCw/0?from=appmsg
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-05 06:58
 ---
-# 为什么AI上线以后，真正的工作才开始？丨FDE重新理解AI运营
+# 为什么AI上线以后，真正的工作才开始？丨FDE重新理解AI上线
 
 基于大语言模型或自适应机器学习架构的AI系统，不会表现得像一个稳定的实体。它们和不断变化需求与行为的用户交互，被整合进并非为它们设计的机构工作流里，还会接收更新、微调和配置变更——这些变化未必会立刻被部署它们的组织看见。
 
@@ -118,7 +113,8 @@ publish:
 
 传统软件是稳定实体。一段代码写好、测试通过、上线，只要没有人再去改它，它的行为就是稳定的。今天调用它，明天调用它，输入一样，输出一样。上线那一刻，交付完成，剩下的工作是常规维护——出了问题，找到那行代码，修好，结束。
 
-![02页.png](https://p.vibcx.com/x/2026/07/1783204802-02%E9%A1%B5.png)
+![03页.png](https://p.vibcx.com/x/2026/07/1783216292-03%E9%A1%B5.png)
+
 
 AI系统不是这样运作的。代码没有变，模型也没有变，它的行为却可能变。
 
@@ -139,16 +135,15 @@ AI系统不是这样运作的。代码没有变，模型也没有变，它的行
 
 不稳定，具体表现为一种传统软件不存在的现象：**漂移**（Drift，模型表现随时间、输入分布或底层更新逐渐偏离原有水平，且通常不会主动报错）。
 
-![07页.png](https://p.vibcx.com/x/2026/07/1783205126-07%E9%A1%B5.png)
-
-
 **漂移不是异常，是AI系统的默认状态。AI不是偶尔发生漂移，而是一直在漂移。**
 
 漂移和bug不是同一类问题。bug是静态的、一次性的——某处代码写错了，修好，问题就消失了，不会自己复发。漂移是动态的、持续的——没有人做错任何事，系统的表现依然会自己变化，除非有人主动介入。
 
-![06页.png](https://p.vibcx.com/x/2026/07/1783205154-06%E9%A1%B5.png)
+![04页.png](https://p.vibcx.com/x/2026/07/1783216319-04%E9%A1%B5.png)
 
 漂移有三个来源。第一，模型的非确定性——同样的输入，在不同时间调用，可能得到不同的输出，这是大语言模型工作方式本身带来的，不是故障。第二，模型提供方的静默更新——底层模型可能在使用方毫不知情的情况下被微调、被替换成新版本，行为随之改变，但界面上什么都没提示。第三，真实世界输入分布的自然漂移——业务场景本身在变，用户的问法在变，训练时见过的模式和生产环境里实际出现的模式，会随着时间逐渐脱节。
+
+![05页.png](https://p.vibcx.com/x/2026/07/1783216343-05%E9%A1%B5.png)
 
 这三种来源都不会主动报错。系统看起来照常运行，用户照常提问，照常得到答案，只是这些答案悄悄地、一点一点地，变得不那么准了。
 
@@ -158,38 +153,34 @@ AI系统不是这样运作的。代码没有变，模型也没有变，它的行
 
 ## 为什么传统软件能"交付即完成"，AI不能
 
-![04页.png](https://p.vibcx.com/x/2026/07/1783204768-04%E9%A1%B5.png)
+![06页.png](https://p.vibcx.com/x/2026/07/1783216361-06%E9%A1%B5.png)
+
+
 这里的核心问题是：为什么传统软件可以把上线当成终点，AI不行？
 
 答案在一个最基础的对应关系上。传统软件里，代码不变，行为就不变——这是一个稳定的映射，写好的逻辑执行多少次，结果都一样。AI系统里，这个映射断裂了：代码没变，模型文件没变，行为却可能变。因为AI真正在"运行"的不只是代码，还有它每一次推理时依赖的模型状态、它接收到的实时输入，而这些东西本身就在持续变化。
 
 之前的文章「为什么AI项目越来越像组织工程？」里提到过一个判断：IT交付能力，AI交付行为。这句话在这里有了技术层面的解释——能力是静态的，一旦交付就固定在那里，像一把造好的锤子，今天和明天没有区别。行为是动态的，会随着它所处的环境持续变化，像一个人的判断力，会被最近遇到的事情影响。
 
-![08页.png](https://p.vibcx.com/x/2026/07/1783205208-08%E9%A1%B5.png)
-
 这个差异，决定了"维护"和"运营"是两件不同的事。传统软件需要的是**运维**——系统出问题了，去修；系统要扩容了，去加资源；本质上是响应式的，等一个明确的信号出现，再去处理。AI系统需要的是**运营**——系统即使没有报错、看起来一切正常，它的表现也可能正在偏离，需要主动地、持续地去确认它是不是还在正常工作。运维等信号，运营找信号。
 
 * * *
 
-## FDE重新理解AI运营
+## FDE重新理解上线：不是终点，是责任机制生效的时刻
 
-![09页.png](https://p.vibcx.com/x/2026/07/1783205268-09%E9%A1%B5.png)
+![07页.png](https://p.vibcx.com/x/2026/07/1783216378-07%E9%A1%B5.png)
 
-
-**AI运营不是上线后的工作，而是上线前设计好的责任机制开始运行。**
+**上线不是运营的开始信号，是提前设计好的责任机制正式生效的那一刻。**
 
 这句话把"运营"从一个时间段（上线之后）重新定义成了一个机制（上线之前就设计好，上线那一刻启动）。这个机制包含哪些具体内容，之前的文章已经给出了完整的操作框架：
 
 「FDE可观测性设计：不是运维任务，是能否顺利移交的前提」里给出了可观测性的三层次——运营指标、质量评测、行为理解，这套体系是发现漂移的眼睛。「FDE沉默失败防线：让AI系统自己报警，比你想的难」里给出了三道防线——上线前评测门控、生产流量持续质量评测、用户反馈信号，这套体系是应对漂移的手。这两篇讲的都是具体怎么做。
 
-![11页.png](https://p.vibcx.com/x/2026/07/1783205318-11%E9%A1%B5.png)
-
 这一篇要补的是这套体系之前还差的一步：**治理先行**。在系统第一次真正上线之前，就要明确写清楚三件事——谁负责监控这套系统的表现，什么程度的性能下降会触发一次正式复查，出了问题能不能回滚到上一个可用版本。这三个问题不难回答，难的是大多数团队根本没想过要在上线前问——因为默认假设还是"上线即完成"，运维思维的惯性太强，运营该有的责任机制，从来没有被真正设计过。
 
 这也是为什么这个判断能把系列里前几篇串起来：责任机制不清楚，之前的文章「为什么Agent越来越聪明，却越来越难进入企业？」里讲过，责任模糊会让Agent卡在审批环节进不了生产；同样的责任模糊，放到运营阶段，会让漂移悄悄发生却没有人第一时间知道。信任建立不起来，之前的文章「为什么老板觉得AI很好，员工却越来越不用？」里讲的交接设计问题，在运营阶段会以另一种方式重演——系统表现在下降，但没有人被清楚地授权说"我发现了，我来处理"。
 
-![10页.png](https://p.vibcx.com/x/2026/07/1783205335-10%E9%A1%B5.png)
-
+![08页.png](https://p.vibcx.com/x/2026/07/1783216389-08%E9%A1%B5.png)
 运营，从来不是上线之后才开始想的事。它是上线之前就该设计好的责任机制，在上线那一刻，正式开始运行。
 
 * * *
