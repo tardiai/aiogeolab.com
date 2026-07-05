@@ -1,7 +1,7 @@
 ---
 title: 为什么AI上线以后，真正的工作才开始？丨FDE重新理解AI上线
 date: 2026-07-06
-draft: true
+draft: false
 coverKeyword: AI系统不是一个稳定实体
 description: FDE落地工程系列。AI系统不会表现得像一个稳定的实体——同样的输入可能在不同时间给出不同的输出，模型会被静默更新，业务场景本身也在变。本文用FDE视角揭示为什么AI项目上线之后才是真正工作的开始：漂移是AI系统的默认状态，运营是上线前就该设计好、上线那一刻开始运行的责任机制。
 tldr: |-
@@ -103,7 +103,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-07-05 06:58
+  blog_published_at: 2026-07-05 09:55
 ---
 # 为什么AI上线以后，真正的工作才开始？丨FDE重新理解AI上线
 
