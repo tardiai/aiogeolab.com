@@ -1,7 +1,7 @@
 ---
 title: 为什么最好的AI方案，往往不是技术最先进？丨FDE重新理解工程判断
 date: 2026-07-09
-draft: true
+draft: false
 coverKeyword: 约束是工程真正的输入
 description: 最好的AI方案，往往不是技术最先进的那个。这篇用Zillow Offers真实案例——技术成熟却烧掉5亿美元、裁员四分之一——拆开一个容易被忽视的区别：预测不是决策，模型给出的是预测，需要为预测的不确定性设计缓冲的是工程判断。FDE落地工程系列内容：约束不是限制，是工程真正的输入。
 tldr: |-
@@ -53,37 +53,8 @@ publish:
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-174-constraints-are-the-input-AI落地工程化核心逻辑.png
     audiocover: null
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-174-constraints-are-the-input-Zillow顶级AI为什么亏了5亿.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint.pdf
-    slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/11页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/12页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/13页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-174-constraints-are-the-input-The
-      Precision Engineering Blueprint/14页.png
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/AI_Engineering_Judgment.pdf
+    slides_images: null
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/07/1783476115-tgje-174-constraints-are-the-input-AI%E8%90%BD%E5%9C%B0%E5%B7%A5%E7%A8%8B%E5%8C%96%E6%A0%B8%E5%BF%83%E9%80%BB%E8%BE%91_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-174-constraints-are-the-input-AI落地工程化核心逻辑_1280_714.jpg
@@ -91,15 +62,25 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao33hfWj_y92ZhX8SDQYETWWjmJjVdt8a1gLEYIBKNhh8y
     video_vid: wxv_4595007792851402763
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNUWf67CmUVAA8vzkCIkiaGKaPia7GSck4lUpFhM9Mv5B2c3yvibSPicc4TsX13XcibkV3zicaOjMk1jYUyGA14rZKI5Jf2EWeMfBzBlY/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXDVug5OdWzribKXnrDtFvgJqksslCxoHqIkJ2RNEMCkEk2Om74RUE4Zb2qGq0XAWrOozcE27DoPX1ibR4WibWrE5we1vt9suwVh4/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao39gdLOX9mKZBDmBwVlPbvmvTZC6Dlq-ZoDJYcUCm6Oki
-    draft_created_at: 2026-07-08 11:01
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWv9vywVTbskCbj4iahds4iboeadZ1ia6RUu5T0cS4HRuMaNyI6WTqTGaAMl1oB7oTxmQY0LMUaazN8zRgDRaKXfEqJoyhIC52UmE/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3yHSSRMGY_jMlaAdlB29AgSdiUdJvnh5wA_ZD9EAKF75
+    draft_created_at: 2026-07-08 11:17
     video_media_id: lEmH66TSP501Rw-1R2Ao34Ka1k3xiPnZD7g62hItOnlmE7Mzs6ULk0CPgvfHLPQO
-    body_image_cache: {}
+    body_image_cache:
+      https://p.vibcx.com/x/2026/07/1783477789-%E7%AC%AC%202%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWUEPziatvgFKDjJg2WqTCCyMlQLT5VO3qx8ztibPhLuB3reKuAPZFRYp2wCGH4ibChw8lBvkRkVJNYMhTHPXqK0NZSlDpxH4HyX4/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783477843-%E7%AC%AC%203%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWUkC6F33LoLDqFGGqyxf48gwl1XJtlriaq0L5lH7YE11weHR4kCI0DbpibV6MLassLQyC7rS2j63Z81KKN5mNofMF7rqUA3xD10/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783477865-%E7%AC%AC%204%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNX6DpE5MGCoe89a38YFBVZpfv6ibTLGYtTs1rb6YviaJElpBz9WKDtkGF2FdlibDN3fU5vabPDvXIUnPibqwefGFIlC3r66xBWJ52k/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783477881-%E7%AC%AC%205%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWTFMc5sQk0ia7sUTIujp6ksgxF2FHrW2PP0aiaJHBiaxoibQXmLmZTLEdVFmxsf3hq10DuhkJgEqC020Sn5nqPwd7swUy5Oic37iaiaE/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783477898-%E7%AC%AC%206%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNUyiaIms8JSYFB1qic8ib6UQ2hic8acyqHGkS96lN4JuXt7icEic4Vqr01SK4dUjBuIeWP1Q93ENNqd3bIGJRXxJhicYIWUm4VTqiaIV5M/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783477954-%E7%AC%AC%207%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNVCu8BDqzpHxegiarQgInohhrUsTZXSyRUo5Wj71ydFhcdHiblbCKkia45XSEvbKIQvDG6rw4yFMAwvaIHELrj0JGBUibo5jOqFP9A/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783478158-%E7%AC%AC%208%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNW8RKh6bSI0BJWMFyrqXmYazicqIpQyyOQvgHEbHySsStIuqDDOW9kttlBUuwyhIHic2bZ1BA1YsdfP1KWrBoHz13X9H1MEFyNVg/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783478170-%E7%AC%AC%209%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWbNd4T8eqrletIzicM1qTTFSia4ZnE8ugOcEMlaxhdSN32NLT6qpS5XOPUl8JpxiaQk7SgH0wop9E7IeedKQ2n08l4cj8gLicVA3s/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783478200-%E7%AC%AC%2010%20%E9%A1%B5_1280_714.jpg: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWQjcvOoO1RBRNbTKeKicDmic94tibibzApz9N5qbyAeZw8g58fO9luDlscuT7GnpOybOibiaIGbaTSxNyvvhvmmeFtXTsFAmqiboeC5g/0?from=appmsg
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-08 11:02
 ---
 # 为什么最好的AI方案，往往不是技术最先进？丨FDE重新理解工程判断
 
