@@ -1,7 +1,7 @@
 ---
 title: 为什么真正有价值的AI，最后都会退到幕后？丨FDE重新理解生产系统
 date: 2026-07-10
-draft: true
+draft: false
 coverKeyword: 生产级AI靠遗忘感生存
 description: 优秀的AI系统，为什么会变得越来越安静？这篇用Cognition Labs的Devin两年跨度——从"世界第一个AI工程师"的病毒式demo，到2026年月费降到20美元、只做有界任务的务实产品——拆开一个容易被误解的因果关系：安静不是原因，是责任边界清晰之后自然出现的结果。FDE落地工程系列内容：消费级AI靠惊艳感增长，生产级AI靠遗忘感生存。
 tldr: |-
@@ -103,6 +103,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-09 07:17
 ---
 # 为什么真正有价值的AI，最后都会退到幕后？丨FDE重新理解生产系统
 
