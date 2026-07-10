@@ -111,6 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-10 06:50
 ---
 # 为什么真正的AI能力，都长在项目之外？丨FDE重新理解产品反哺
 
