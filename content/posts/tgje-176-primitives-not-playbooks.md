@@ -1,7 +1,7 @@
 ---
 title: 为什么真正的AI能力，都长在项目之外？丨FDE重新理解产品反哺
 date: 2026-07-11
-draft: true
+draft: false
 coverKeyword: 项目不会天然产生资产
 description: FDE落地工程第二季第十二篇。企业做了越来越多AI项目，为什么下一个项目的起点，并没有比上一个更高？这篇文章拆解一个被长期忽视的判断：项目结束后自然留下的是记录，不是能力，真正的能力需要经过模式识别和原语编码两层主动加工才会出现。以Palantir从定制项目到Foundry、再到2026年AI FDE的完整演化路径为案例，讲清楚产品反哺到底反哺的是什么。
 tldr: |-
@@ -111,7 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-07-10 06:50
+  blog_published_at: 2026-07-10 08:32
 ---
 # 为什么真正的AI能力，都长在项目之外？丨FDE重新理解产品反哺
 

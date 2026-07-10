@@ -5,7 +5,7 @@ timeZone = "Asia/Shanghai"
 
 title = "AioGeoLab | AI 实验室"  # 改为品牌名
 theme = "PaperMod"
-copyright = "© 2025 TardiAI"
+copyright = "© 2026 TardiAI"
 
 # 启用中文字数统计（添加这行）
 hasCJKLanguage = true
