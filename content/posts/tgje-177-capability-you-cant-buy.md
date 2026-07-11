@@ -1,7 +1,7 @@
 ---
 title: 为什么AI产品可以买到，AI能力却买不到？丨FDE重新理解AI基础设施
 date: 2026-07-12
-draft: true
+draft: false
 coverKeyword: '"模型无关"的工程能力'
 description: 企业AI战略正在经历一次重要的认知升级：选对模型、签好合同，为什么依然换不来持续的竞争力？这篇用摩根大通LLM Suite和Capital One收购Brex两个真实案例，拆解一个容易被忽略的区分——AI产品可以买到，但把AI产品安全接入、随时替换、持续治理的工程系统，买不到，只能自己建。
 tldr: |-
@@ -99,6 +99,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-11 06:56
 ---
 # 为什么AI产品可以买到，AI能力却买不到？丨FDE重新理解AI基础设施
 
