@@ -1,7 +1,7 @@
 ---
 title: 为什么同样的模型，结果差距却越来越大？丨FDE重新理解AI竞争力
 date: 2026-07-13
-draft: true
+draft: false
 coverKeyword: 工程系统决定结果下限
 description: 2026年AI编程工具市场出现一个反常现象：Cursor和GitHub Copilot背后调用的是同一批前沿模型，市场结果却天差地别——一个份额下滑，一个成为史上增速最快的SaaS公司之一。这篇用这个几乎教科书级的案例，拆解一个正在发生的迁移：AI竞争的战场，已经从模型层挪到了工程层。
 tldr: |-
@@ -102,6 +102,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-12 07:37
 ---
 # 为什么同样的模型，结果差距却越来越大？丨FDE重新理解AI竞争力
 
