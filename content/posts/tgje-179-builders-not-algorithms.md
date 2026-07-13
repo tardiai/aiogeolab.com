@@ -1,7 +1,7 @@
 ---
 title: 为什么AI岗位一天收到500份简历，核心人才却依然难求？丨FDE重新理解AI建设者
 date: 2026-07-14
-draft: true
+draft: false
 coverKeyword: AI技术能力和建设能力
 description: 招聘市场正在同时上演两个看似矛盾的现象：一个真实AI工程岗位一天能收到300-500份简历，但真正稀缺的核心人才依然一将难求。这篇拆解这个矛盾背后的真相——技术能力正在被AI工具持续拉低门槛，建设能力（把技术接进真实现场的能力）却几乎没有被拉低过，这正是Forward Deployed Engineer这个岗位头衔一年内招聘量暴涨800%的原因。
 tldr: |-
@@ -93,6 +93,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-13 08:40
 ---
 # 为什么AI岗位一天收到500份简历，核心人才却依然难求？丨FDE重新理解AI建设者
 
