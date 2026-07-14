@@ -1,7 +1,7 @@
 ---
-title: 为什么OpenAI愿意花几十亿美元，只为买下一支150人的团队？丨从Forward Deployed Engineer到Forward Deployed Engineering
+title: 为什么OpenAI愿意花几十亿美元，只为买下一支150人的团队？丨从FDEngineer到FDEngineering
 date: 2026-07-15
-draft: true
+draft: false
 coverKeyword: 重新理解FDE
 description: 2026年5月，OpenAI、Anthropic、Google相继做出几十亿美元级别的资本动作，把Forward Deployed Engineer这个岗位规模化——其中最反常的一笔，是OpenAI花十几亿美元收购一家只有150人的咨询公司Tomoro。这篇拆解这个动作背后真正的逻辑：买到的不是150份简历，是一套可以脱离具体人、被持续复制的方法，这正是FDE从一个岗位演变成一种组织能力的转折点。
 tldr: |-
@@ -81,24 +81,25 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao3w4fnDKqhE1zcP3H5RKhU-yLkXLlmQg2L_LarX5lcpAX
     video_vid: wxv_4603517000093646849
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXITCq3eV5gk0X0KtJiasUPETK8hQicIH7cl1Ue4l1F7hf5u0R83Xbzdyyc1PaBw3pQiaPa1V5miaDLiaYzvialggT8D2bjkYRvlicHOg/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNW0eJyIYtpuocUB7JoIzOBdjHiaEq7QIprnohkWPSic2xqibzA9ZM1RMEo8s0j8B4Tv9GibfN3UdxJ3e4BuEPff89ohaXdE42AErGo/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3w2BOB-JnbdxWwZNkigooMWnFkg26N2qxJSz1ejBj_y2
-    draft_created_at: 2026-07-14 07:17
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWXr0hKicl2wEe9YlnHbMyMaK00xrrtb40h2svKZDNjErRlvrDoCHiaFNOmHESRvZAtx14iaR7170qRCFzJqQ5mYh18gPIqHCBGts/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao31C0dsUbBRE6dNTxevk3CF4sNq7xco2nNzegDXrQM7zb
+    draft_created_at: 2026-07-14 09:55
     video_media_id: lEmH66TSP501Rw-1R2Ao3xQdLpSfFdPcAve7ReDeNypNgnLtmn9TW5obwHF94ReW
     body_image_cache:
-      https://p.vibcx.com/x/2026/07/1783984161-02%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWRLfjl8wiacAbsc2ia9ZKfEvSPVDqnSz7MZhhOUMPkwYr8iaBjlicY84PO5OmGgr9awTIic09t3eKyJzjYXeibzUeib2ribMTW1yaKoUk/0?from=appmsg
-      https://p.vibcx.com/x/2026/07/1783984190-03%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXDI8N2CF0BichZGrFmn4r0Gfx9eiac47t9dPrvNuy6htibpRbgj8NZhHFFRVHFw6BnzJA9hyMeVKvY8pouaf330JJFJZicKCKOX3E/0?from=appmsg
-      https://p.vibcx.com/x/2026/07/1783984216-04%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNXZOJfhDJ0mFp96qFSibTgYIvJiaTficVmf4bjeP4I59V34eAMXdLtk1vWg1SzMvTfvZMa9zGhQ6qrDDO26Uf5arKKZfSG7iaM5a84/0?from=appmsg
-      https://p.vibcx.com/x/2026/07/1783984294-05%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNVVpHK4eABRtWvJdooXPicm4wq8gEK9KOwPOaoGdEjOT02xZicicJbwx1TvvQ5SJA8Dz1zf2afzPl8a7TD4OptbgDMPf1V7N45IX8/0?from=appmsg
-      https://p.vibcx.com/x/2026/07/1783984320-06%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUz0cqnL7ibIEBFJYjF03WkaHT0eVFRxvFwpzMDPOqlrxkDtORt55WY6Aibal3wLa0hbDDiaQUXymIqvd0Nf97Fhs9V4y7z1nEsAc/0?from=appmsg
-      https://p.vibcx.com/x/2026/07/1783984345-07%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWa1Jfk5FN0CRESjkodyib31MS6icCbIMxgHwmnIA6NqadtGI7u8VibNC0ZzRLRflFJI890q0dmcicI7ytJ3iblNLA4UXHf4AovPk0o/0?from=appmsg
-      https://p.vibcx.com/x/2026/07/1783984364-08%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUYlIdNic70DGlAN1bSJOSSk9UlUvGXQs2y58AgD2o7F3QBCGUzgfaS6VzzafXFThusUNyic3hoFpmm7WaZDTj6Ko6HgML4sJu54/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984161-02%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUfbqRcrdiaFJRyibTdcDWj8NtvuLqkTBrJy5icdsAR8RuEurhVABr4VapLC1Rpd4Sz1JnhcMf1jE08O2JOSfSf4BicHOMM4giaK9kQ/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984190-03%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUpoFyk3HRWoPdGywUAhWsWjwpTZRPqaMPov0UTZl4KzPbpdjOzAwTeiciahXBWXOTnSyPDSU3pkYey0ZEgRdl6JCsicDKwmoLdRQ/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984216-04%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNVhIrwIQh6ZaicEHw8gKcb62CVELib0bYSgP8fk9UBb7KsCUA4CwsdszZTBj7WWiadnFOKicYlpm5cjVvVn7AjiaWzkL2Sv9twCzuls/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984294-05%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNXoiaWGq2cz08hOtJfGFmY5fUI4jnhcXicuKdPjCicLSFFJSBBqfia1uyFtMiaLetM1NibP7XQNwTaR58v2zMovstRNIiaudJfoYVs9TI/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984320-06%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNX3jqmln2nwgPfTLvIiauAQicYfB9iaSMhIZXic818cAmmibuIWIAibLRtN8kibFicKC1hMXmyiaHd5FUut3nUtxK8jUOYvEiaoLUzpdCFTc/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984345-07%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXuTkB8wOicicQfmMrIx0pnxG2zyByzQ4g90arWJL6eZH0MsIYkzBN9tndM3jicu2tZjkpSIdreHJbUke65iaibRibbj4W6a8AAZwuIE/0?from=appmsg
+      https://p.vibcx.com/x/2026/07/1783984364-08%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWrWQS0kgBEt45WoWibuwbVxib2HPR3orXGY5vSOSsCWvKTyaZcnZR3yg26axRicNInRVuyL3maiavoX2Qib68ticxfWxpmWDuEkAGog/0?from=appmsg
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-14 07:17
 ---
-# 为什么OpenAI愿意花几十亿美元，只为买下一支150人的团队？丨从Forward Deployed Engineer到Forward Deployed Engineering
+# 为什么OpenAI愿意花几十亿美元，只为买下一支150人的团队？丨从FDEngineer到FDEngineering
 
 2026年5月，7天之内，发生了三件表面上互不相关的事。
 
