@@ -1,7 +1,7 @@
 ---
-title: 为什么越容易做的AI项目，越不值得做？丨FDE重新理解机会成本
+title: 为什么越容易做的AI项目，往往越不值得做？丨FDE重新理解机会成本
 date: 2026-07-16
-draft: true
+draft: false
 coverKeyword: 单位建设资源的价值密度
 description: MIT关于生成式AI的最新调研显示，95%的企业AI试点项目对财务结果没有产生可衡量的影响——但多数项目其实都顺利上线了，问题不出在技术。本文从机会成本的角度重新理解AI项目选择：容易做的项目消耗的建设资源，不比失败项目更少，真正该被追问的，是这份资源本可以投向哪里。
 tldr: |-
@@ -48,36 +48,24 @@ publish:
   slug: tgje-181-value-density-over-success-rate
   status: wx_draft_created
   paths:
-    cover_img: null
+    cover_img:
     video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-181-value-density-over-success-rate-优于成功率的价值密度：FDE企业AI指南.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-181-value-density-over-success-rate-AI项目价值密度深度解析.png
-    audiocover: null
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-181-value-density-over-success-rate-越容易审批的AI越没用.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap.pdf
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap.pdf
     slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The
-      Easy AI Trap/11页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/01页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/02页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/03页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/04页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/05页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/06页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/07页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/08页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/09页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/10页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-181-value-density-over-success-rate-The Easy AI Trap/11页.png
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/07/1784067562-tgje-181-value-density-over-success-rate-AI%E9%A1%B9%E7%9B%AE%E4%BB%B7%E5%80%BC%E5%AF%86%E5%BA%A6%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-181-value-density-over-success-rate-AI项目价值密度深度解析_1280_714.jpg
@@ -100,12 +88,12 @@ publish:
       https://p.vibcx.com/x/2026/07/1784068088-09%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXIr0oZ9usUtQ5TErEOEtAAFYIneUicOBHAYYCsbzbfCAnInJeNLtvI7YicgyxFUBc5sIl73CS9D73co9ZGvmOjQfQVextjc2bvE/0?from=appmsg
       https://p.vibcx.com/x/2026/07/1784068102-10%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUOtpWyqkqicMqBTQ0aKg5OC3qIBhpEFI0z0gKXzZ7EYYm4tkStuYxqcNyKfiaJSdwSFDibyThuu7ryrVVxgf7tdRkUAJWmDxXR8M/0?from=appmsg
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
-  blog_published_at: 2026-07-15 06:30
+  blog_published_at: 2026-07-15 12:11
 ---
-# 为什么越容易做的AI项目，越不值得做？丨FDE重新理解机会成本
+# 为什么越容易做的AI项目，往往越不值得做？丨FDE重新理解机会成本
 
 2025年，MIT媒体实验室旗下的NANDA项目做了一次覆盖150多位高管访谈、350份员工问卷、300个公开AI部署案例的调研。结论只有一句话：95%的GenAI（生成式AI）试点项目，对P&L（损益表）没有产生任何可以衡量的影响。真正带来收益的，只有5%。
 
