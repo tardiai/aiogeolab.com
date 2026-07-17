@@ -1,7 +1,7 @@
 ---
 title: 为什么很多AI项目，从立项那天就已经失败了？丨FDE重新理解工程可行域
 date: 2026-07-18
-draft: true
+draft: false
 coverKeyword: 技术边界和现实边界
 description: IBM Watson for Oncology曾经问题成立、预算成立、技术成立、市场成立——最后还是失败了，而失败原因几乎没有一条跟模型能力有关。这篇文章重新理解AI项目里的可行域：一个问题值不值得解决，和它在现实里存不存在解，是两个独立的问题。
 tldr: |-
@@ -111,6 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-17 07:32
 ---
 # 为什么很多AI项目，从立项那天就已经失败了？丨FDE重新理解工程可行域
 
