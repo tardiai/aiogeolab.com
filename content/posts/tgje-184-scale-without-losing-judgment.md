@@ -90,9 +90,9 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao36oYpoUEU6wCNo5XGQAFu-LKv5OQnN0viI5JEBK945w8
     video_vid: wxv_4609293544091123712
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWcibxqF4ct6dRFic8RhsNPswzJ1QvTialOSgLsrftKrdticaE1k9O8nXZz5dpzLN34XeKzUL2Rpj6pShakBuER90Q7Uv6zUjzbolo/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNUia8NEaAX5VOOW06j19A1l6alPeWqncPibnx1gNccbwGIq9xq5mPRIKxT70lOCYJ28agWia3iaibek9Szmvrr9JsgvZ7YrBsYhrg9Y/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao34SaZDLfoc6h4-iy4cyW-a5kR7wAoovrtdlDUFNfPa6P
-    draft_created_at: 2026-07-18 07:10
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNVhxB9c21wMDLXT970kqstZsUmIiavKcMIGACHRwFQXaMeMnR9NvuJRtsxNBaJfAzAAhWcMQT4K2DibMcJ2icAfHWibPbda0joO5zY/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao34extztPIWOsImhiFVPk9j7jEMC-h27qvFTqAgrVDszz
+    draft_created_at: 2026-07-18 07:12
     video_media_id: lEmH66TSP501Rw-1R2Ao3-6qTVX-GakP68rR2PIJCoYEgx0RMWx9z40eDnIyHBBt
     body_image_cache:
       https://p.vibcx.com/x/2026/07/1784329396-02%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUZNzTfAOBKtt1m7b4d6T79d9OfST0TYmsyX6zOrUvwhlD6Dvm4daVIxCFaMZn4JEkRK6eyhk1ZR3YuGPg4QicRg1palvVOFbIs/0?from=appmsg
@@ -108,6 +108,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-18 07:10
 ---
 # 为什么真正优秀的团队，总是在拒绝项目？丨FDE重新理解战略放弃
 
@@ -134,10 +135,9 @@ publish:
 ![03页.png](https://p.vibcx.com/x/2026/07/1784329414-03%E9%A1%B5.png)
 
 
-很少有组织会承认自己资源不够，但几乎每个组织都会承认自己越来越忙。真正的问题是，忙，并不意味着做对了事情。**一个组织成熟的重要标志，不是终于有能力做更多事情，而是终于有能力拒绝更多事情。**
+很少有组织会承认自己资源不够，但几乎每个组织都会承认自己越来越忙。真正的问题是，忙，并不意味着做对了事情。
 
-![04页.png](https://p.vibcx.com/x/2026/07/1784329430-04%E9%A1%B5.png)
-
+**一个组织成熟的重要标志，不是终于有能力做更多事情，而是终于有能力拒绝更多事情。**
 
 组织越忙，"要不要做"这道判断，越容易悄悄从建设者手里，滑到最先接触客户的人手里——通常是销售。销售背着增长指标，天然倾向于能签的都签；等项目真正签下来，建设团队才发现，能腾出来的资源早就被排到了别处。
 
