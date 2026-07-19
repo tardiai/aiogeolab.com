@@ -1,7 +1,7 @@
 ---
 title: 为什么优秀团队，总是在最后一刻才锁定方案？丨FDE重新理解信息价值
 date: 2026-07-20
-draft: true
+draft: false
 coverKeyword: FDE重新理解信息价值
 description: 2025年，Karpathy一句话带火了"上下文工程"，取代"提示工程"——因为真正卡住项目的，从来不是Prompt，是信息。这篇文章重新理解信息价值：一条信息值不值钱，不取决于它能不能证明你是对的，而取决于它能不能让资源投向另一个方向。
 tldr: |-
@@ -93,6 +93,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-19 08:56
 ---
 # 为什么优秀团队，总是在最后一刻才锁定方案？丨FDE重新理解信息价值
 
