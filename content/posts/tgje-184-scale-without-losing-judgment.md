@@ -1,7 +1,7 @@
 ---
 title: 为什么真正优秀的团队，总是在拒绝项目？丨FDE重新理解战略放弃
 date: 2026-07-19
-draft: true
+draft: false
 coverKeyword: 能做，从来不是做的理由
 description: 2020年，Palantir成立17年，客户只有125个；2023年之后，客户数量涨了8倍不止。这篇文章重新理解战略放弃：真正变化的是交付能力，没变的是筛选客户的能力——放弃从来不是减少选择，而是永远保留选择的权力。
 tldr: |-
@@ -108,7 +108,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-07-18 07:10
+  blog_published_at: 2026-07-18 07:12
 ---
 # 为什么真正优秀的团队，总是在拒绝项目？丨FDE重新理解战略放弃
 
