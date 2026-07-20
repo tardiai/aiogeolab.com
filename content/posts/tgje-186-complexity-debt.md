@@ -1,7 +1,7 @@
 ---
 title: 为什么最先进的架构，经常输给最普通的方案？丨FDE重新理解复杂度
 date: 2026-07-21
-draft: true
+draft: false
 coverKeyword: FDE重新理解复杂度
 description: 2023年，AutoGPT凭"全自主"爆红；两年后，团队自己拆掉了当初最引以为傲的向量数据库记忆系统。这篇文章重新理解复杂度：复杂度真正侵蚀的，不是维护成本，而是未来还能不能改变主意的自由。
 tldr: |-
@@ -98,6 +98,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-20 04:55
 ---
 # 为什么最先进的架构，经常输给最普通的方案？丨FDE重新理解复杂度
 
