@@ -1,7 +1,7 @@
 ---
 title: 为什么好的架构师，总是在为未来的错误设计系统？丨FDE重新理解可逆决策
 date: 2026-07-22
-draft: true
+draft: false
 coverKeyword: FDE重新理解可逆决策
 description: 2024年，摩根大通上线内部AI平台LLM Suite，核心设计不是选对了哪个模型，是模型无关架构——随时能换掉任何一个供应商。这篇文章重新理解可逆决策：真正优秀的系统，设计的不是如何避免错误，而是错误发生之后，改起来有多容易。
 tldr: |-
@@ -99,11 +99,9 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-21 07:08
 ---
 # 为什么好的架构师，总是在为未来的错误设计系统？丨FDE重新理解可逆决策
-<!-- infographic-start -->
-![信息图](https://p.vibcx.com/x/2026/07/1784587821-tgje-187-reversible-decisions-AI%E6%97%B6%E4%BB%A3%E6%9E%B6%E6%9E%84%E5%B8%88%E8%BF%9B%E5%8C%96%E6%8C%87%E5%8D%97_1280_714.jpg)
-<!-- infographic-end -->
 
 2024年夏天，摩根大通上线了内部生成式AI平台LLM Suite——这是一家年科技预算高达180亿美元的银行，完全有能力、也有资源直接押注市面上当时最强的那个模型。但它没有这么做。它选择自己在内部搭建一套系统，让OpenAI、Anthropic的模型可以同时接入，随时可能替换掉其中任何一个。八个月内，用户涨到20万，2025年拿下American Banker年度创新大奖。
 
