@@ -1,7 +1,7 @@
 ---
 title: 为什么很多系统不是死于错误，而是死于正确？丨FDE重新理解局部最优
 date: 2026-07-23
-draft: true
+draft: false
 coverKeyword: FDE重新理解局部最优
 description: 销售、客服、法务各自选了最适合自己的AI工具，每个决定都做对了，企业却拼不出一个统一的客户视图。这篇文章重新理解局部最优：组织真正失败的时候，往往不是有人做错了，而是所有人都做对了自己的那一部分。
 tldr: |-
@@ -111,6 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-22 07:45
 ---
 # 为什么很多系统不是死于错误，而是死于正确？丨FDE重新理解局部最优
 
