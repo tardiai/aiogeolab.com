@@ -101,12 +101,12 @@ publish:
     infographic_url: https://p.vibcx.com/x/2026/07/1784760302-tgje-189-priority-is-what-you-stop-AI%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%BA%90%E6%89%BF%E8%AF%BA%E7%9C%9F%E7%9B%B8_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-189-priority-is-what-you-stop-AI项目资源承诺真相_1280_714.jpg
   wechat:
-    cover_media_id: null
+    cover_media_id: lEmH66TSP501Rw-1R2Ao33SIHsF9Nv5picdX_87tbursVQgNZYeqXEqIR7pY-Sqn
     video_vid: wxv_4616552909592477698
     video_cover_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWNUKqNfHKMf3fDzNOnvX26r9UViaD5iaBC6funv9QWsx38YT8bGYCHORPJXyaGice1btujib9sMOy1JpCusnfCbYzZUwia6Bezz4J4/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNUibx2ol05Ua5cvHrPmKW1pDy4T3ePKckiaRZme7g5OQlcqrkdJaSiawKia2KnpYJuGqMROSEqd3TkiaibuiaWhS1XAqZ2FaiazSmnv5P0/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao3wGQ0CRDyevw3q9LE7015njkgE6W0ztHrJ3Rp3PH5Cs9
-    draft_created_at: 2026-07-23 07:06
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWhjCCAvV44aNztesNdGlAicF9FjLsfwSNy0UxtkR3NEW3HM7YPE7qdjWXtICIT53jIYAPalWiasDazNPDr8ceTtnmoUPqsMiaogk/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao34KQwB3S23Fjtw9AXPqdiDykrK8Iae7MFDJH6T2Ix5b6
+    draft_created_at: 2026-07-23 07:11
     video_media_id: lEmH66TSP501Rw-1R2Ao3zLxX2J9Cs_YvZnZw660Vr0wTUdebarN2g8WqtrHWPG_
     body_image_cache:
       https://p.vibcx.com/x/2026/07/1784760503-02%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNXqiaRSTDZlCibr7hKJMPEmbw7Lt8RLXFsFY2OXic71ZFf5OWoyicV7vLr672UPYqN2wmdoHGZicoCYnH7fS1SMdSXQ8kQj6pzPImB0/0?from=appmsg
@@ -126,6 +126,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-23 07:06
 ---
 # 为什么AI项目一进入跨部门协作，就会变成所有人的兼职？丨FDE重新理解资源承诺
 
