@@ -1,7 +1,7 @@
 ---
 title: 为什么AI项目一进入跨部门协作，就会变成所有人的兼职？丨FDE重新理解资源承诺
 date: 2026-07-24
-draft: true
+draft: false
 coverKeyword: FDE重新理解资源承诺
 description: 跨部门AI项目最常见的失败，不是协作能力不足，而是组织从未为"优先级"支付真实的资源成本——宣布了重视，却没停下任何旧工作。本文用亚马逊单线程团队机制和微软2025容量缺口数据，拆解资源争抢为何注定让新项目落败，并给出一个可落地的工程对象：资源承诺单。核心判断——一个组织说什么最重要不算，它愿意停下什么才算。
 tldr: |-
@@ -126,7 +126,7 @@ publish:
     digest: null
     original: false
     comment: true
-  blog_published_at: 2026-07-23 07:06
+  blog_published_at: 2026-07-23 07:11
 ---
 # 为什么AI项目一进入跨部门协作，就会变成所有人的兼职？丨FDE重新理解资源承诺
 
