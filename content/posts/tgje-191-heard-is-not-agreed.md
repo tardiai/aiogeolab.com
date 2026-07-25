@@ -1,7 +1,7 @@
 ---
 title: 为什么一个简单的AI功能，开十场会还是无法上线？丨FDE重新理解决策权
 date: 2026-07-26
-draft: true
+draft: false
 coverKeyword: FDE重新理解决策权
 description: 一个AI功能开十场会仍上不了线，根因通常不是参与者太多，而是组织没区分建议权、否决权、风险接受权和最终决定权——每个人都能拦，没有人必须决。本文借Anthropic负责任扩展政策v3.0公开复盘承认的"阈值模糊地带"说明：写清条件也消不掉不确定性，并给出可落地的工程对象——一张带超时预设状态和留痕位置的决策接口表。核心判断：所有人都被听见，不等于所有人都要同意。
 tldr: |-
@@ -108,6 +108,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-25 07:28
 ---
 # 为什么一个简单的AI功能，开十场会还是无法上线？丨FDE重新理解决策权
 
