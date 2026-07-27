@@ -1,7 +1,7 @@
 ---
 title: 为什么AI项目上线越久，反而越难证明它有效？丨FDE重新理解价值复验
 date: 2026-07-28
-draft: true
+draft: false
 coverKeyword: FDE重新理解价值复验
 description: 一套客服AI上线两年，仪表盘一切正常，但续约时没有人能回答：与今天可选的方案相比，续约究竟买回了什么。本文解释为什么系统运行越久，能够证明它仍在创造增量价值的证据反而越少——FDE称之为比较基线失效。文章提供一张价值复验卡，帮助组织在续约或扩张时重建足以支持下一次选择的证据。
 tldr: |-
@@ -108,6 +108,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-27 07:15
 ---
 # 为什么AI项目上线越久，反而越难证明它有效？丨FDE重新理解价值复验
 
