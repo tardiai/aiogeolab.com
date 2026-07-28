@@ -1,7 +1,7 @@
 ---
 title: 为什么AI上线以后，一线员工反而要把同一件事做两遍？丨FDE重新理解影子工作流
 date: 2026-07-29
-draft: true
+draft: false
 coverKeyword: FDE重新理解影子工作流
 description: 一套客服AI使用率达标，管理层看到效率提升。但跟踪一条工单发现，员工在AI生成回复后还要核对CRM、复查Excel、修改内容，再回到系统点击发送——系统记录了一次成功调用，员工实际完成了两套流程。本文解释为什么AI上线后旧流程没有退出，并沿三个方向诊断原因：习惯没有退出、能力没有补齐、责任没有转移。FDE用影子工作流地图还原系统的真实覆盖范围。
 tldr: |-
@@ -112,6 +112,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-28 07:34
 ---
 # 为什么AI上线以后，一线员工反而要把同一件事做两遍？丨FDE重新理解影子工作流
 
