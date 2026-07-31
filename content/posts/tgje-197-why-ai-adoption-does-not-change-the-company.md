@@ -1,7 +1,7 @@
 ---
 title: 为什么AI越用越多，公司却没有真正改变？丨ANC重新理解AI转型
 date: 2026-08-01
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI转型
 description: 麦肯锡2025年全球调查显示，88%的企业已在至少一个业务职能常态使用AI，但只有39%报告公司级利润受到任何影响，其中大部分不到5%。局部收益是真实的，却很少穿透成为企业级结果。本文提出一个解释：企业不是主动选错了方向，而是现有的预算归属、岗位职责、指标体系和审批机制，会把新能力翻译成对既有任务的增强。文章交付一个可以在预算会上直接使用的分法——把AI投入区分为优化既有价值创造与探索新价值创造方式，并检查投入组合里是否长期只有第一类。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -132,6 +132,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-07-31 07:29
 ---
 # 为什么AI越用越多，公司却没有真正改变？丨ANC重新理解AI转型
 
@@ -330,12 +331,12 @@ AI能力正在从"完成被交付的任务"，向"参与目标实现过程中的
 
 **参考资料和术语：**
 
-> 1.  McKinsey & Company, *The State of AI in 2025: Agents, Innovation, and Transformation*, November 2025. 调查时间为2025年6月25日至7月29日，样本为来自105个国家的1,993名受访者；结果为自报数据。
-> 2. ANC : AI  Native Company AI原生公司
+ 1.  McKinsey & Company, *The State of AI in 2025: Agents, Innovation, and Transformation*, November 2025. 调查时间为2025年6月25日至7月29日，样本为来自105个国家的1,993名受访者；结果为自报数据。
+ 2. ANC : AI  Native Company AI原生公司
 
 * * *
 *<small>感谢你看到最后，如果你觉得有启发，随手点个赞、在看、转发吧，如果想第一时间收到推送，也可以给我加个星标⭐我们下期见。</small>*
 
 > 我是「**AioGeoLab**」主理人塔迪Tardi，AioGeoLab是深度洞察AI第一性原理和应用实践的前瞻性研究实验室，目前有两个主要研究方向： <br>
-> 「**塔迪GEO判断工程**」在AI从“说”到“做”进化阶段，试图回答，如何让AI敢于行动、不因为责任问题而畏手畏脚，而做的一个前沿研究项目。<br>
+> 「**塔迪AI工程系列**」FDE落地工程、ANC：AI Native Company未来公司系列、GEO、AI判断工程。<br>
 > 「**塔迪硅基禅心**」是传统东方智慧、未来AI前沿、当下应用实践，深层共鸣的探索。不是用AI解读经典，也不是用经典指导AI。 这是一场跨越2500年的对话，在算法与古老智慧之间，照见意识、智能与存在的本质。<br>  塔迪的微信 - **tardyai2025**。
