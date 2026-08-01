@@ -1,7 +1,7 @@
 ---
 title: 当AI开始决定下一步，它还是工具吗？丨AI Tool与AI Agency的分界
 date: 2026-08-02
-draft: true
+draft: false
 coverKeyword: ANC重新理解Agent
 description: 一家企业的管理层同时收到三份AI项目申请，都写着Agent，都列着推理、记忆、工具调用和多步骤执行。管理层要判断这三个项目是不是同一类系统——而通行的功能清单分不开它们，因为区别不在于系统有没有这些能力，而在于这些能力被组织成了什么。本文把分界划在过程的控制位置上：谁根据这一步的结果决定下一步。文章给出AI Tool与AI Agency的定义、人工审批为什么不否定Agency，以及管理层从外部可以观察的三件事。AioGeoLab · AI Native Company系列02。
 tldr: |-
@@ -122,6 +122,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-01 07:15
 ---
 # 当AI开始决定下一步，它还是工具吗？丨AI Tool与AI Agency的分界
 
