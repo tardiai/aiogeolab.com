@@ -81,6 +81,10 @@ publish:
       AI Agency Shift/11页.png
     - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-199-why-your-company-cannot-hold-an-ai-that-decides-The
       AI Agency Shift/12页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-199-why-your-company-cannot-hold-an-ai-that-decides-The
+      AI Agency Shift/13页.png
+    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-199-why-your-company-cannot-hold-an-ai-that-decides-The
+      AI Agency Shift/14页.png
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/08/1785623980-tgje-199-why-your-company-cannot-hold-an-ai-that-decides-%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E4%BC%81%E4%B8%9A%E7%BB%84%E7%BB%87%E6%89%BF%E8%BD%BD_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-199-why-your-company-cannot-hold-an-ai-that-decides-重新理解企业组织承载_1280_714.jpg
@@ -88,9 +92,9 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao32XudNXDSME7EDW1t214tSEyro41S6FasOo1iw7Bzz2S
     video_vid: wxv_4631042879044550656
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNXiah9JlKJ3MKkqlQCahYI6rLJ3j7CeQ17pW0HRRVOVsecYibd4nX8KWuNlYZWn4txLOicvpFddnt92YbAFVC6wwCiaICqT9TWDs1A/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNVKCkdnUw9V2ByicbkD8ZNvGD56N4eCT6vCZGAP6fzhvsSfR6NdJv8OAeLuApmJaiccO30V2xFCy2cbh07dGAd1WgpBo27EurO0M/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao37tauGEG9BCDIulzWhcT-3STEoxSNIBvhAYm8PdwjmoU
-    draft_created_at: 2026-08-02 06:56
+    infographic_wx_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNWJ1d2cGJvCsN9BwXVYhMOicZzmpMTicdvNkpDBkMEO5K9zFiaAANjwzFCNsKDle6ScTcw2Rq6IGib9ZSonvpfClnFXu4g4CSBAzmU/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3-DukF8EfeH9FnoaGcaS9DUA8lxGZnDdinR2G_TWQ0Rj
+    draft_created_at: 2026-08-02 10:42
     video_media_id: lEmH66TSP501Rw-1R2Ao3zNOdf83YpsS-Ghqj02wZk-C4T3RXDsly3W29d2C2ZFh
     body_image_cache:
       https://p.vibcx.com/x/2026/08/1785624193-02%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUFiadNSGCzny9v10LAyRCASx4ZZr0NPaGxnsXpwvQQyrdsMuEwyFO10Gcs2L5cwsR0TcBGPkLZg8E7IupuAII5OTos3POT4wvE/0?from=appmsg
@@ -102,10 +106,23 @@ publish:
       https://p.vibcx.com/x/2026/08/1785624676-08%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUUEeXeWcyQIuWjckkibFJL0N2ou96grMe6nHXWWMnuhdhqCEzvQA1CpgXbo5BK0nxY76gbnWwwhCwJKRFMib6ib8pWoNwGsFboAI/0?from=appmsg
       https://p.vibcx.com/x/2026/08/1785624715-09%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNW0venDHrpmaicyHDQgdsF28JlxrgPbvGwicCJ7pPzULf7kNu7SORUQrricFQxppE6AqBxW2xUVLNHZiaFF3qlmwHgoqvRqAibf8mmw/0?from=appmsg
       https://p.vibcx.com/x/2026/08/1785624742-11%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWODpOLfyH2wFbmvzznCCU8a1jHPk5B4Sx5icHAxtLNxjxJCqVRHau3CBibgmBlUOHFibLNtC3FxpHYCxN1NI8Shric9TibkNbrRZuc/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637585-02%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXyE7Jjic3k1vn10PpI97v3PiaShJb4R5UNJeKR10F5j6jz0DbchTBKsQuVDmBLjqtl3OmUD33OuiaHDacG21hC4qtszotibtIibfOI/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637641-03%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWAVajUqQ6HezdCeW9Fbicphb4WGw37D89KM1ZaIMwZq0JO0vutaqy4Lz4A9oic4VjLLyRs5SfcOo2j4hDiaNe8aZKwuaiaSLw2Oto/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637683-04%E9%A1%B5_f.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNXIFa7a5vr8QFo3PyafvTaEaXTppB1yjzgJxEiaMR7baBQJfx9eXqZicxFlD961kcJyH0zUjCVYgjcfw27cORaiaYLYr6c7ew5sqY/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637809-05%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUgvcia692WcUkb7uB8MfdWXourFibCeiaC2ib67cc8YKVe9ibaBiapsUDT5QVjzOPbhUbj7bEgNGhNRaeichcsJMrQ8RaLQh3McspND8/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637823-06%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNVn1GPJicJBd5HlsJafjIfLPYibtZHsToicu5D60QwVUVG4eNCutdOpKcJKXFodQYLUhVJzjztbZZofvtpZ3hrH8BInJHeYSibHlfA/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637937-08%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUftGer5pCicL80pHPd0Ct5WjV0vgp0j3ScT0KxhgjvltE8W8eX3RIQSF06kILV2RcZo2EQRMvd3s8GiaUbhkK0q4xouQoCoYaCI/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785638004-09%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUP1KchLQBls3ibRFImicnnDHIEjJfQ0tLtuQKiazZLicmVoJzeNQGs7WM911hfURZGtd6stQEgjsibKKWF24EODsicibdS734MKeiaCIQ/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785637893-07%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNV8VcqQ9iaibs2w6vmG5r2OF568bvmdzu5gAlYEH0Vr5UTNDeosQFGdPksI34f4Ws0W7VUdYFdTV2ZcJgARpfvPUN64KbzicLLeFY/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785638290-09%E9%A1%B5_f.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNU6ycQHq1jYrl9I3YzhPu4ricnSR8HiaGajaeuqztic7eqctAlCjj9N5IKo9fcRibmpjBMKQOictKicsmpmLj5l6rvNV5tZuu6QDcBGE/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785638150-12%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNUarmrNe4LCllS6HMtx9GUsNgQ3cpbf8qC1QWqkP3qnJA92uz2sFd3Bolc2iaPiaMKt58OqbocnphTJgIiaP0sDIeSHaeHBE3HTs0/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785638049-11%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNW6DTjhTdic77QlnTlrnuAe7KRGYP1bibMwDQ8J0cru1QrQOGW9m72y7DuprGGqMovVibhImjaIj1U1kSRhJ8BOnn85RDgbjz9L38/0?from=appmsg
+      https://p.vibcx.com/x/2026/08/1785638194-13%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUOfB8gec8HxC3k8SVLQe5vMtITgicKrJQNr3wJ0kCFLJfPC1cE8qqJbPx5z8NCu0sypLJHkkyoPXoX6Aba8uribSwzGHtrbo5Cw/0?from=appmsg
   wx_article:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-02 06:57
 ---
 # 当AI Agency开始决定下一步，企业还能照原来的方式运行吗？丨ANC重新理解组织承载
 
@@ -115,7 +132,7 @@ publish:
 
 第二份来自财务。一个对账系统每天夜里运行，自己发现异常、跨三个系统调取凭证、判断是先补单还是先冻结账期，第二天早上把处理结果和一份例外摘要交给财务主管。
 
-![02页.png](https://p.vibcx.com/x/2026/08/1785624193-02%E9%A1%B5.png)
+![02页.png](https://p.vibcx.com/x/2026/08/1785637585-02%E9%A1%B5.png)
 
 按照上一期建立的分界，第一个项目属于AI Tool（AI工具）：它执行人或预设程序已经作出的决定；第二个项目已经表现出AI Agency（AI自主判断与行动能力）：它在目标约束下判断下一步、采取行动，并根据反馈继续调整。
 
@@ -123,7 +140,7 @@ publish:
 
 真正的错位往往在上线一段时间后才暴露，而且未必以"AI出错"的形式出现。当某笔账的处理方式被追问时，流程图上的负责人并没有参与当时的判断，他第一次看到这件事，是在系统已经处理完成之后。
 
-![03页.png](https://p.vibcx.com/x/2026/08/1785624252-03%E9%A1%B5.png)
+![03页.png](https://p.vibcx.com/x/2026/08/1785637641-03%E9%A1%B5.png)
 
 当AI Agency进入企业，原有的岗位和流程还能照原来的方式运行吗？
 
@@ -146,7 +163,7 @@ ERP上线重画过整条业务流程，自动化替掉过整批岗位动作，�
 
 ANC由此追问：如果多数领导者仍把AI默认定位为辅助人的工具，那么当AI Agency真正进入业务时，企业是否仍在用管理工具项目的方式管理它？
 
-![04页.png](https://p.vibcx.com/x/2026/08/1785624410-04%E9%A1%B5.png)
+![04页_f.png](https://p.vibcx.com/x/2026/08/1785637683-04%E9%A1%B5_f.png)
 
 现有的说法分不开这两个项目，行业里已经有几种描述方式，各自都有道理。
 
@@ -158,6 +175,8 @@ ANC由此追问：如果多数领导者仍把AI默认定位为辅助人的工具
 
 客服助手上线之后，不必改变一个基本安排：超出范围的情况仍然回到人工坐席，下一步仍由岗位中的人决定。对账系统上线之后，流程图上标注的岗位，已经不再对应异常发生当时实际作出的判断。
 
+![05页.png](https://p.vibcx.com/x/2026/08/1785637809-05%E9%A1%B5.png)
+
 这两个项目的差别不在AI用得多深，而在工作下一步的那个决定落在哪里。这一层，上面三者都没有直接给出判断方法。
 
 * * *
@@ -168,7 +187,7 @@ ANC由此追问：如果多数领导者仍把AI默认定位为辅助人的工具
 
 组织设计里，岗位常常被当成一份任务清单：这个人负责做ABC，那个人负责做DEF。可是任何一个带过团队的人都知道，任务清单只是岗位的一小部分。
 
-![05页.png](https://p.vibcx.com/x/2026/08/1785624461-05%E9%A1%B5.png)
+![06页.png](https://p.vibcx.com/x/2026/08/1785637823-06%E9%A1%B5.png)
 
 一个正常运转的岗位同时在做几件不写进JD的事：  
 把上级给出的目标，翻译成当前工作的具体目标；  
@@ -188,7 +207,7 @@ ANC由此追问：如果多数领导者仍把AI默认定位为辅助人的工具
 
 问题是：自动化早就有了，流水线上的机械臂、ERP里的自动过账，它们也在没有人盯着的时候干活，为什么过去没有以同样的方式暴露出组织错位？
 
-![06页.png](https://p.vibcx.com/x/2026/08/1785624517-06%E9%A1%B5.png)
+![08页.png](https://p.vibcx.com/x/2026/08/1785637937-08%E9%A1%B5.png)
 
 固定自动化的可行动作、异常处理方式和升级路径，在设计时就已经被预先限定；运行时，它不能面对未被逐项预设的具体情境，依据目标重新选择推进路径。AI Agency则能够在既定边界内解释当前状态，并决定下一步。
 
@@ -199,6 +218,8 @@ ANC由此追问：如果多数领导者仍把AI默认定位为辅助人的工具
 AI Agency出现之后，例外不再必然触发人工接管。夜里那笔异常的账，系统解释了状态、选了一条路、继续推进了。工作照常往前走，也可能走得比人处理更妥当。但原来承担这段工作的那个岗位，没有在关键情境出现的那一刻重新作出判断——企业仍然设定了目标、权限、规则和运行边界，缺席的是运行中的那一次解释与决定。
 
 现在很多技术厂商的参考架构已经开始把任务的owner明确写成"人或者Agent"，也已经描述了"人被通知，但不在运行回路中"这样的运行模式。一个系统设计文档需要作出这种区分，说明设计者在实现层面已经遇到了这个问题。只是在企业管理层面尚未形成一套稳定的语言来描述这种变化。
+
+![09页.png](https://p.vibcx.com/x/2026/08/1785638004-09%E9%A1%B5.png)
 
 在企业尚未形成新的承载方式时，这种张力往往表现为两个极端。
 
@@ -212,11 +233,9 @@ AI Agency出现之后，例外不再必然触发人工接管。夜里那笔异�
 
 ANC把这种将自主判断与行动默认绑定在人类岗位上的组织逻辑，称为Human Agency Organization：软件和自动化可以执行、分析和建议，但当工作需要解释情境、处理未被预设的情况并决定下一步时，组织默认由某个人类岗位接管。
 
-![07页.png](https://p.vibcx.com/x/2026/08/1785624620-07%E9%A1%B5.png)
+![07页.png](https://p.vibcx.com/x/2026/08/1785637893-07%E9%A1%B5.png)
 
 这里的Human Agency，指人类进行自主判断并采取行动的能力。它描述的是一种组织逻辑，不是一顶给公司戴的帽子——同一家公司的不同业务闭环可以处在完全不同的状态里，所以它的使用单位是一段目标闭环。
-
-![08页.png](https://p.vibcx.com/x/2026/08/1785624676-08%E9%A1%B5.png)
 
 判断只需要一个问题，而且必须拿一段真实发生过的工作来问：这段工作里，出现没有被预先规定的情况时，是谁解释了当时的状态，又是谁定的下一步？
 
@@ -226,7 +245,7 @@ ANC把这种将自主判断与行动默认绑定在人类岗位上的组织逻�
 
 公司做出了能力很强的系统：能规划多步任务、能在演示里应对各种没见过的情况、能根据结果调整策略。看上去这完全就是AI在自主判断和行动。但这套系统只在沙盒里运行，它给出的是分析和几个备选方案，必须由人重新解释当时的情境、判断采用哪一个、并在真实系统里发起行动；行动发生之后，系统也读不到结果，无法据此继续调整。
 
-![09页.png](https://p.vibcx.com/x/2026/08/1785624715-09%E9%A1%B5.png)
+![09页_f.png](https://p.vibcx.com/x/2026/08/1785638290-09%E9%A1%B5_f.png)
 
 按上面的定义，这段业务仍然按Human Agency Organization的逻辑运行。系统的能力是真实的，但解释情境和决定下一步这两件事仍然完整地留在岗位手上。AI Agency的能力已经存在，与AI Agency已经进入企业的行动结构，是两回事。把这两件事混起来，企业会在什么都没变的时候以为自己变了，也会在已经变了的时候以为自己还没有。
 
@@ -253,11 +272,13 @@ ANC把这种将自主判断与行动默认绑定在人类岗位上的组织逻�
 落在左边的项目，按原来的方式管就是对的，追加预算的依据仍然是效果和回报。  
 落在右边的项目，功能和回报仍然要问，但它们不再是第一个问题——承载能力成了项目的前提，而不是上线之后再补的运维事项。
 
+![12页.png](https://p.vibcx.com/x/2026/08/1785638150-12%E9%A1%B5.png)
+
 这张表不是成熟度排行榜。在动作不可逆、强监管、价值判断密集，或错误后果难以通过边界和监控有效控制的场景，企业往往需要把关键判断继续留给Human Agency。即使使用AI Agency，也更适合先进入可逆、可监控的子闭环。
 
 **工具可以被接入流程，Agency必须被组织承载。**
 
-![11页.png](https://p.vibcx.com/x/2026/08/1785624742-11%E9%A1%B5.png)
+![11页.png](https://p.vibcx.com/x/2026/08/1785638049-11%E9%A1%B5.png)
 
 **当AI开始自己处理例外并决定下一步，问题就不再只是把它接进流程。**
 
@@ -269,6 +290,8 @@ ANC把这种将自主判断与行动默认绑定在人类岗位上的组织逻�
 
 即使使用相近的模型和Agent系统，不同企业最终形成的，可能完全不是同一种企业能力。
 
+![13页.png](https://p.vibcx.com/x/2026/08/1785638194-13%E9%A1%B5.png)
+
 在一家企业里，所有关键判断仍被要求由人重新作出，AI Agency被压回了工具角色。在另一家企业里，它开始稳定地进入真实业务，持续判断、行动并推进结果。模型提供了相近的可能性，企业真正获得的却并不相同。
 
 那么，真正决定这种差距的，究竟是AI本身，还是企业把AI的可能性转化为持续价值的能力？
@@ -277,11 +300,11 @@ ANC把这种将自主判断与行动默认绑定在人类岗位上的组织逻�
 
 **来源与限制**
 
-*麦肯锡《The State of Organizations 2026》：调查窗口为2025年6月至9月，样本一万余名高级管理者，覆盖15个国家、16个行业；正文引用的两项数据为受访者自我报告的预期与自评。麦肯锡自身提供AI转型咨询服务。*
+*1. 麦肯锡《The State of Organizations 2026》：调查窗口为2025年6月至9月，样本一万余名高级管理者，覆盖15个国家、16个行业；正文引用的两项数据为受访者自我报告的预期与自评。麦肯锡自身提供AI转型咨询服务。*
 
-*Salesforce Agentforce架构指南（architect.salesforce.com）：厂商推广与实践文档，Salesforce销售相关产品。本文仅将其作为"运行角色的划分已进入系统设计"的实践证据，不作为ANC组织机制的证明。*
+*2. Salesforce Agentforce架构指南（architect.salesforce.com）：厂商推广与实践文档，Salesforce销售相关产品。本文仅将其作为"运行角色的划分已进入系统设计"的实践证据，不作为ANC组织机制的证明。*
 
-*Feldman & Pentland, Administrative Science Quarterly 48(1): 94–118, 2003：组织例程的ostensive与performative区分，本文仅作背景参照，未将其结论推广到AI系统。*
+*3. Feldman & Pentland, Administrative Science Quarterly 48(1): 94–118, 2003：组织例程的ostensive与performative区分，本文仅作背景参照，未将其结论推广到AI系统。*
 
 * * *
 *<small>感谢你看到最后，如果你觉得有启发，随手点个赞、在看、转发吧，如果想第一时间收到推送，也可以给我加个星标⭐我们下期见。</small>*
