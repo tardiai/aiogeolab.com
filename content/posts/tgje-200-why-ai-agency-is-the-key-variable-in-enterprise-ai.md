@@ -1,7 +1,7 @@
 ---
 title: 为什么AI Agency是企业AI革命的关键变量？丨ANC重新理解企业AI
 date: 2026-08-04
-draft: true
+draft: false
 coverKeyword: ANC重新理解企业AI
 description: 一家公司这一年模型换了几代，工具铺到十几个部门，效率数据每月都在涨。但如果今天所有员工都不来上班，这些AI没有一个会自己做任何事情。模型让AI能做的事变多了，工具让每个人能完成的事变多了，但公司里的事情仍然主要靠人一段一段往前推。AI Agency带来的变化是：AI不再只完成被交给它的那一步，它开始自己接着往下走。本篇从一个简单的问题出发——公司里真正缺的是什么？不是把报告写快十分钟，而是太多事情根本没有人一直盯着。通过一家工业空压机公司的三个变化——名单、工程师的界面、合同上那一行——看Agency到底改了什么，并从一个行业推到更多场景：当持续照看一件事不再必须占着一个人，企业能做的事本身就变了。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -121,6 +121,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-03 07:03
 ---
 # 为什么AI Agency是企业AI革命的关键变量？丨ANC重新理解企业AI
 
