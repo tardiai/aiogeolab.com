@@ -1,7 +1,7 @@
 ---
 title: 同一个AI在不同公司，做出判断的依据应该一样吗？丨ANC重新理解企业判断
 date: 2026-08-05
-draft: true
+draft: false
 coverKeyword: ANC重新理解企业判断
 description: 一位客户超过退换期限，产品确实故障，提出例外请求。模型读得到政策、客户历史和相似案例，也给得出五个都说得通的做法。真正的问题不是它能不能生成方案，而是在这家公司凭什么选中其中一个。两家经营重点不同的公司最后可能恰好都选了换货，但理由、证据门槛和愿意承担的代价并不相同——问题不在输出是否一样，而在AI形成这一步时依据的是谁的经营逻辑。本篇拆解被长期合并在一起的两件事：模型决定AI能不能判断，企业判断决定它按什么排序。文章说明企业判断过去为何大量存在于人身上、现有工程实践已经提供了载体却不代表企业已有可装进去的取舍，并正式建立"企业判断系统"，给出成立条件、排除条件，以及与知识系统、授权系统的两条分界。企业可以带走一个很短的检验：AI给出不合适的下一步时，缺的是事实，还是从未表达过的取舍。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -88,9 +88,9 @@ publish:
     cover_media_id: lEmH66TSP501Rw-1R2Ao32J4ywYfibuOcLqWyX4DdRR0gJtAEpdx2P5uFVkOmEM_
     video_vid: wxv_4633945414386237441
     video_cover_url: http://mmbiz.qpic.cn/mmbiz_jpg/nzSUaViczUNUsmFCcRxQ3Jtz2BP2ehSBrD54yw4icC7VTf6qgiaib7OPDEUNVDI5WXXnwWosFJCrYrlcNUV9VAjibHvfEcNrQJz4fuBicdRXbbRKs/0?wx_fmt=jpeg
-    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNXxx9K5YNQicmnjGTaibV8tHebtDBsibceYwicUKD1I9miaRjnJN5umUc8bibfCJoibP4jG4mqiakFnhWEmP7E8wDupWQRMng8bf7WibmNs/0?from=appmsg
-    draft_media_id: lEmH66TSP501Rw-1R2Ao312XlDgaA83c8yQtUzesCudnRPAGINnUqoLtQfU3rsix
-    draft_created_at: 2026-08-04 06:59
+    infographic_wx_url: http://mmbiz.qpic.cn/sz_mmbiz_jpg/nzSUaViczUNWQaMK4BecCGric7c6KEk105iajecqtau1nNhGNcFicIdus0Dt88lynqyO2lCfiaRAfLNCWT5aruK59oTDicMf2PCLd9iaJwu1I0aamA/0?from=appmsg
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3-Y4dyGoja7plyq33vUyYfeU7EGZZ-hXnJWaSw9v2jae
+    draft_created_at: 2026-08-04 07:13
     video_media_id: lEmH66TSP501Rw-1R2Ao36YlxjlVkUmdMaAVP55uibNWrlboqLS1eZyIK6f0wfTA
     body_image_cache:
       https://p.vibcx.com/x/2026/08/1785797317-02%E9%A1%B5.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNWUmGZmaO0AA0tTRDOglM5zq88E0icV6ibXbBicyuaXlNc7mftliaQuU60oZiberh8fgibPlubr4PzHdLFeY0831icdEu4IAvfKDDs6Ds/0?from=appmsg
@@ -107,6 +107,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-04 06:59
 ---
 # 同一个AI在不同公司，做出判断的依据应该一样吗？丨ANC重新理解企业判断
 
