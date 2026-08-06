@@ -1,7 +1,7 @@
 ---
 title: AI给出的判断，如何成为公司的决定？丨ANC重新理解AI Agency裁定权
 date: 2026-08-06
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI裁定权
 description: 客户经理每天打开系统，里面是 AI 生成的续约方案，用的是公司自己的客户记录和价格政策。他要做的只有一件事：确认。改动很少，但公司说不清那道确认到底确认的是什么。本篇拆开了公司里三件长期混在一起的事：搞清楚应该怎么办、认定这个说法能否代表公司、把生效的决定落地执行。过去这三件事由岗位一并承载，裁定权隐藏在岗位体系中。AI Agency 出现后，判断发生在运行阶段，企业第一次需要明确：哪些判断类型可以由 AI 代表公司裁定。本篇正式定义 AI Agency 裁定权，给出四条成立条件、三条排除条件与一张三格判断表。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -111,6 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-05 17:49
 ---
 # AI给出的判断，如何成为公司的决定？丨ANC重新理解AI Agency裁定权
 
