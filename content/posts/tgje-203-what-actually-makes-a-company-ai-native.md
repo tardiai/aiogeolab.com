@@ -1,7 +1,7 @@
 ---
 title: AI Native Company，到底「原生」在哪里？丨ANC重新理解AI原生公司
 date: 2026-08-07
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI原生公司
 description: AI Native Company 不是 ANC 发明的词，市场上早就在用。问题是同一个词，不同的人说的不是同一件事：有人说的是这家公司什么时候成立，有人说的是产品建立在什么之上，有人说的是这家公司怎么运转。三种用法都有现实依据，只是回答的是三个不同的问题。本篇从公司做的那件事出发——决定客户为什么选它、主要靠什么获得收入、能向市场承诺什么结果——说明为什么这件事需要有个角色持续接住下一步，为什么传统公司只能把它交给人，以及为什么 AI Agency 进入这条链之后，公司形态才真正改变。本篇正式定义 AI Native Company，说清时间原生与结构原生的关系，并给出三种公司形态与一个可以自己去试的撤除检验。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -128,6 +128,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-06 10:00
 ---
 # AI Native Company，到底「原生」在哪里？丨ANC重新理解AI原生公司
 
