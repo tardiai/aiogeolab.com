@@ -1,7 +1,7 @@
 ---
 title: 企业走向AI Native，真正要改变的是什么？丨ANC重新理解AI原生转型
 date: 2026-08-08
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI原生转型
 description: 一家公司决定认真做 AI，通常会先画一张路线图：分阶段的项目、里程碑、覆盖率、Agent 数量、自动化比例。这张图不是错的，只是它回答的是"AI 铺到哪儿了"，而决定一家公司是不是 AI 原生的，是"创造核心价值时谁在持续接住下一步"。本篇说明从今天到 AI Native 之间要发生的三次角色变化：AI 从完成任务到持续推进目标，从局部推进到进入主导价值创造，从一套核心系统到公司形态。本篇正式建立 Agency Core 这一系统状态，并说明为什么公司形态需要业务、运行与制度三个层次同时成立。作为ANC首季的收束篇，它把变化的对象定清楚，为后续的建设问题留出接口。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -123,6 +123,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-07 07:19
 ---
 # 企业走向AI Native，真正要改变的是什么？丨ANC重新理解AI原生转型
 
