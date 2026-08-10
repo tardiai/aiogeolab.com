@@ -1,7 +1,7 @@
 ---
 title: 企业走向AI原生，真正应该建设的是什么？丨ANC重新理解AI原生建设
 date: 2026-08-10
-draft: true
+draft: false
 coverKeyword: AI原生应该建设什么？
 description: 企业决定加大AI投入以后，很快会问：今年到底建什么Agent、自动化什么任务、替代哪个岗位、改造哪条流程？这些对象都可以产生真实价值，却不自动说明公司建立了什么价值创造能力。本篇延续工业设备公司的客户流失场景，拆开Agent、任务、岗位和流程背后的共同限制：它们描述的是技术载体或既有工作结构，却不能单独定义AI Agency持续承担的经营职责。由此正式建立AI Agency建设对象——一套围绕经营目标运行的价值推进系统。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -109,6 +109,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-09 06:57
 ---
 # 企业走向AI原生，真正应该建设的是什么？丨ANC重新理解AI原生建设
 
