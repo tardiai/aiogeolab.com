@@ -1,7 +1,7 @@
 ---
 title: 什么样的业务，才真的需要AI Agency？丨ANC重新理解AI原生建设
 date: 2026-08-11
-draft: true
+draft: false
 coverKeyword: ANC适合AI原生的业务
 description: 经营目标重要，不代表它就应该交给AI Agency。一套系统可以跨越多个平台、自动运行20步、调用大模型并且几乎没有Human介入，却仍然主要依靠预定义控制逻辑推进；另一项业务即使步骤不多，只要每次行动以后都必须根据新的情境和结果重新决定下一步，就开始出现Agency的结构价值。本篇承接ANC第二期，建立AI Agency适用性的唯一判断轴：不要先看工作有多复杂，要看下一步怎样产生。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -124,6 +124,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-10 09:46
 ---
 # 什么样的业务，才真的需要AI Agency？丨ANC重新理解AI原生建设
 
