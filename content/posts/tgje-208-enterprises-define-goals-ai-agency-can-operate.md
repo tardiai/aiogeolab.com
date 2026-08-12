@@ -1,7 +1,7 @@
 ---
 title: 企业走向AI原生，应该怎样定义AI可以运行的目标？丨ANC重新理解AI原生建设
 date: 2026-08-12
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI原生目标
 description: 企业已经说清经营目标和KPI，为什么AI仍然不知道下一步？因为Human听见一句目标时，会自动补全客户优先级、成本边界和经营取舍；AI Agency如果只得到“降低缺货率20%”，可能通过补货、调拨、加急运输甚至暂停促销等完全不同的方式完成指标。本篇以零售缺货场景说明：KPI可以观察结果，却不能独自决定行动。企业目标只有能够在多个合理行动之间支持排除、优先或停止，才真正进入AI Agency的运行。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -107,6 +107,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-11 07:09
 ---
 # 企业走向AI原生，应该怎样定义AI可以运行的目标？丨ANC重新理解AI原生建设
 
