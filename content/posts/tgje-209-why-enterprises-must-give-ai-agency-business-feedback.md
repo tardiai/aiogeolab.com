@@ -1,7 +1,7 @@
 ---
-title: 企业给AI设定目标以后，为什么还必须让它得到业务反馈？丨ANC重新理解AI原生建设
+title: 企业给AI设定目标以后，为什么还必须让它得到业务反馈？丨ANC重建AI原生反馈系统
 date: 2026-08-13
-draft: true
+draft: false
 coverKeyword: ANC重建AI原生反馈系统
 description: 企业已经为AI设定经营目标，也开放了行动工具，继续、调整还是停止，不应该由AI自己判断吗？应该。但AI只能根据企业让它获得的业务状态判断。如果系统只返回任务完成、局部指标改善和容易取得的数据，却没有让行动对其他客户、区域、成本和风险造成的变化进入AI判断，Agency仍会自主行动，只是可能在不完整的业务现实上持续放大错误路径。本篇说明企业为什么必须主动为AI连接与目标和行动后果相关的业务反馈。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -50,36 +50,24 @@ publish:
   slug: tgje-209-why-enterprises-must-give-ai-agency-business-feedback
   status: wx_draft_created
   paths:
-    cover_img: null
+    cover_img:
     video: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-成功的错觉：AI为何需要业务反馈.mp4
     infographic: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-业务反馈是AI护城河.png
-    audiocover: null
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-用业务反馈防止AI盲飞.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop.pdf
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop.pdf
     slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The
-      AI Feedback Loop/11页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/01页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/02页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/03页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/04页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/05页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/06页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/07页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/08页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/09页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/10页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-The AI Feedback Loop/11页.png
   cdn:
     infographic_url: https://p.vibcx.com/x/2026/08/1786489828-tgje-209-why-enterprises-must-give-ai-agency-business-feedback-%E4%B8%9A%E5%8A%A1%E5%8F%8D%E9%A6%88%E6%98%AFAI%E6%8A%A4%E5%9F%8E%E6%B2%B3_1280_714.jpg
     infographic_1280: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/infographic/tgje-209-why-enterprises-must-give-ai-agency-business-feedback-业务反馈是AI护城河_1280_714.jpg
@@ -102,9 +90,10 @@ publish:
       https://p.vibcx.com/x/2026/08/1786496252-08%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNW8e9TiaK6nCSYC22CRlenETpqpNjZEicmANkXCibhoVPrxM1cfrJU0enoEbViaYI7HiaKn9kmiawFJicjKqUDhqfXjRmvgicO0icahtoFw/0?from=appmsg
       https://p.vibcx.com/x/2026/08/1786496292-09%E9%A1%B5.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNXShFcR4GkTkhCuaISXzpFloMiac8dGexUJoarBRbDZOicYXF03BTxtZQJNibT5icQ3ibkACneicq7Ro4OBSFvlofrDn3tO30KsnLHibY/0?from=appmsg
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
+  blog_published_at: 2026-08-12 09:09
 ---
 # 企业给AI设定目标以后，为什么还必须让它得到业务反馈？丨ANC重建AI原生反馈系统
 
