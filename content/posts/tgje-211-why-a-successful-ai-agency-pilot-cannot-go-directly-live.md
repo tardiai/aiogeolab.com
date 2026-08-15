@@ -1,7 +1,7 @@
 ---
 title: AI Agency试点已经证明价值，为什么还不能直接进入正式运行？丨ANC重新理解AI原生试运行
 date: 2026-08-15
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI原生试运行
 description: AI Agency已经在真实业务试点中改善了客户和经营结果，为什么企业还不能让它直接进入正式运行？试点证明的是Agent在经过选择和集中支持的条件下能够创造价值；当完整业务关系重新接回以后，Human流程、共享资源、跨区域影响和行动反馈可能改变原来的结果。本篇区分试点、受控业务试运行与常态化运行，说明企业为什么必须在“业务条件完整、Agent接管受控”的情况下，验证原有价值能否进入企业常态。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -110,6 +110,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-14 10:33
 ---
 # AI Agency试点已经证明价值，为什么还不能直接进入正式运行？丨ANC重新理解AI原生试运行
 
