@@ -1,7 +1,7 @@
 ---
 title: AI预测得越准，企业判断为什么越重要？｜《Prediction Machines》的启示
 date: 2026-08-17
-draft: true
+draft: false
 coverKeyword: 《AI经济的策略思維》
 description: AI最重要的经济意义，也许不是机器越来越像人，而是预测正在变得像计算一样便宜。当预测进入更多决定，企业会获得更多可以采取的行动，却也必须更清楚地比较不同结果和错误的代价。《Prediction Machines》为什么能从一个简单问题出发，一路改变我们对AI、经营方式和企业判断的理解？
 tldr: |-
@@ -115,6 +115,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-16 10:27
 ---
 # AI预测得越准，企业判断为什么越重要？｜《Prediction Machines》的启示
 
