@@ -1,7 +1,7 @@
 ---
 title: 企业走向AI原生，是否意味着要把业务尽可能AI化？丨ANC重新理解AI原生建设
 date: 2026-08-16
-draft: true
+draft: false
 coverKeyword: ANC重新理解AI原生建设
 description: 一个已经进入常态化运行的库存Agent，是否应该覆盖全部商品，并继续进入促销与供应商订货？技术能够复用，新增范围也可能产生正向结果，但业务更加AI化，不等于企业因此更加AI原生。本篇区分AI能力、项目价值和公司经营选择，说明一项Agency当前有价值，不能替下一段业务证明扩张价值；Human、规则系统、传统软件和其他AI机会也必须进入比较。AI原生企业真正需要最大化的，不是AI覆盖程度，而是AI能够创造的企业价值。AioGeoLab · AI Native Company系列。
 tldr: |-
@@ -103,6 +103,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-15 12:09
 ---
 # 企业走向AI原生，是否意味着要把业务尽可能AI化？丨ANC重新理解AI原生建设
 
