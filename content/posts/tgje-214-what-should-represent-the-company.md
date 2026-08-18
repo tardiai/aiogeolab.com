@@ -1,7 +1,7 @@
 ---
 title: AI懂业务还不够，企业还要把自己的判断交给它｜ANC重新建立企业判断
 date: 2026-08-18
-draft: true
+draft: false
 coverKeyword: ANC重新建立企业判断
 description: 一家企业已经为续约Agent设定目标、接入完整资料，AI给出的方案也足够合理，业务负责人却仍然说“我们不会这样做”。问题未必是AI还不够懂业务，而可能是公司尚未把自己在多个合理选择之间怎样取舍，作为独立对象加以建设。本文从真实经营冲突出发，区分模型能力、业务知识、运行目标与企业判断，重新理解AI Agency能否按照这家公司的方式持续推进目标。
 tldr: |-
@@ -100,6 +100,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-17 07:18
 ---
 # AI懂业务还不够，企业还要把自己的判断交给它｜ANC重新建立企业判断
 
