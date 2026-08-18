@@ -1,7 +1,7 @@
 ---
 title: 把优秀员工的经验交给AI，为什么还不够？｜ANC确认什么判断代表公司
 date: 2026-08-19
-draft: true
+draft: false
 coverKeyword: ANC确认什么判断代表公司
 description: 企业找到表现最好的员工，收集他的案例和决定，让AI学会同样的选择。这条路很有价值，却还少了一个Company动作：个人经验、历史结果和现行制度可以提供判断线索、证据与边界，公司仍要确认什么选择依据值得在未来继续使用。本文从紧急备件采购Agent出发，说明为什么AI复制了最好的个人，仍不等于企业已经拥有自己的判断。
 tldr: |-
@@ -106,6 +106,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-18 11:24
 ---
 # 把优秀员工的经验交给AI，为什么还不够？｜ANC确认什么判断代表公司
 
