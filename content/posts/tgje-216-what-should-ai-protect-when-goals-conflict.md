@@ -1,7 +1,7 @@
 ---
 title: 所有目标都重要，AI到底该先保什么？｜ANC说清公司如何取舍
 date: 2026-08-20
-draft: true
+draft: false
 coverKeyword: ANC说清公司如何取舍
 description: 收入、客户、利润、产品方向和交付质量都重要，但一次行动经常无法让所有目标同时达到最好。相关目标已经补齐以后，继续增加目标和KPI，仍然不能替公司解决冲突。本文从B2B软件大客户定制需求出发，说明企业判断怎样落在真实冲突、优先保护的价值和公司愿意承担的代价中，以及Agent持续运行为什么会让这种取舍成为Company必须拥有的经营逻辑。
 tldr: |-
@@ -103,6 +103,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-19 07:17
 ---
 # 所有目标都重要，AI到底该先保什么？｜ANC说清公司如何取舍
 
