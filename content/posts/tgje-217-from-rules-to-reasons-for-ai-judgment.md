@@ -1,7 +1,7 @@
 ---
 title: 别把公司的判断写成一条条规则，AI需要的是选择依据｜ANC让判断进入运行
 date: 2026-08-21
-draft: true
+draft: false
 coverKeyword: ANC让判断进入运行
 description: 企业把业务负责人的每次纠正都写成“遇到什么情况就做什么”的规则，为什么条件和例外仍会越来越多？规则适合禁令、硬约束与确定流程；当事实组合持续变化、多个行动仍然合理时，AI需要的则是影响选择的事实、公司的取舍理由，以及根据当前情况提出行动的空间。本文说明规则与判断怎样共同支持AI Agency运行。
 tldr: |-
@@ -115,6 +115,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-20 11:02
 ---
 # 别把公司的判断写成一条条规则，AI需要的是选择依据｜ANC让判断进入运行
 
