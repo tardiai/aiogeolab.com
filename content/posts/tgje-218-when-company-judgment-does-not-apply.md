@@ -1,7 +1,7 @@
 ---
 title: 企业判断不能只告诉AI怎样选，还要说清什么时候不适用｜ANC建立判断边界
 date: 2026-08-22
-draft: true
+draft: false
 coverKeyword: ANC建立判断边界
 description: Agent理解公司的取舍，也能给出完整理由，为什么仍可能作出错误建议？问题可能不在判断内容，而在AI把“过去可靠”当成“这次能够按时交付”，把一套正确判断套进了不适用的现场。企业不仅要告诉AI怎样选，还要同时说明适用情境、关键前提、所需证据和什么时候不能继续使用。
 tldr: |-
@@ -121,6 +121,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-21 07:03
 ---
 # 企业判断不能只告诉AI怎样选，还要说清什么时候不适用｜ANC建立判断边界
 
