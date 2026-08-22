@@ -1,7 +1,7 @@
 ---
 title: 把一项企业判断交给AI后，怎样确认它真的会用？｜ANC检验AI是否会用企业判断
 date: 2026-08-23
-draft: true
+draft: false
 coverKeyword: ANC检验AI是否会用企业判断
 description: Agent与业务负责人选得一样，供应商也如期送达，为什么还不能说AI已经会用公司的判断？因为同一个正确答案，可能来自公司的取舍，也可能只是复制历史动作或跟随表面捷径。企业需要改变有关或无关的业务事实，看Agent是否在该变时改变、不该变时保持，并在超出边界时不再套用。
 tldr: |-
@@ -111,6 +111,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-22 07:08
 ---
 # 把一项企业判断交给AI后，怎样确认它真的会用？｜ANC检验AI是否会用企业判断
 
