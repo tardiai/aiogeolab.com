@@ -1,7 +1,7 @@
 ---
 title: 公司变了，交给AI的判断也要重新确认｜ANC持续维护企业判断丨AI原生公司
 date: 2026-08-24
-draft: true
+draft: false
 coverKeyword: ANC持续维护企业判断
 description: Agent没有读错资料，也没有偏离公司过去确认的判断，为什么仍然会越来越不符合业务期待？因为公司的战略、资源和愿意承担的代价已经改变，旧判断却仍在稳定运行。企业不仅要监测AI有没有偏离判断，也要持续重新确认这项判断是否还代表当前的公司。
 tldr: |-
@@ -105,6 +105,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-23 07:15
 ---
 # 公司变了，交给AI的判断也要重新确认｜ANC持续维护企业判断丨AI原生公司
 
