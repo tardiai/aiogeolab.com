@@ -1,7 +1,7 @@
 ---
 title: 选定业务以后，AI怎么走向正式商用？丨ANC转型的FDE落地工程
 date: 2026-09-01
-draft: true
+draft: false
 coverKeyword: ANC转型的FDE落地工程
 description: 业务已经选定，AI演示也能运行，仍不等于公司已经能够长期向客户提供这项服务。本文通过售后换货服务的综合设想说明：真实订单、库存、物流和人工决定会不断改变AI下一步面对的情况，业务人员与工程团队需要通过FDE落地工程共同解决这些问题。公司要在明确范围内处理真实换货，再观察同类请求能否持续完成、品牌是否认可，以及服务收入或成本改善能否支持长期运行。
 tldr: |-
@@ -108,6 +108,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-08-31 08:54
 ---
 # 选定业务以后，AI怎么走向正式商用？丨ANC转型的FDE落地工程
 
