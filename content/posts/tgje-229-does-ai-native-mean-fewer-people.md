@@ -1,7 +1,7 @@
 ---
 title: AI原生企业，是要尽量少用人吗？丨ANC再认识人的角色
 date: 2026-09-02
-draft: true
+draft: false
 coverKeyword: ANC再认识人的角色
 description: 大多数情况下，当业务规模和结果要求相近，AI成为核心业务的主力后，逐单查看、协调和跟进所需的人工会减少，部分岗位也可能缩减或调整。但AI原生不是把总人数压到最低。本文通过设备运行与维修业务说明：人仍在专业行动、公司决定和客户关系中创造价值，公司还要决定把省下来的人力用于降低成本、扩大业务还是改善客户结果。
 tldr: |-
@@ -102,6 +102,7 @@ publish:
     digest: null
     original: false
     comment: true
+  blog_published_at: 2026-09-01 07:04
 ---
 # AI原生企业，是要尽量少用人吗？丨ANC再认识人的角色
 
