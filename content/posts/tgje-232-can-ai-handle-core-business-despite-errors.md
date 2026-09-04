@@ -1,7 +1,7 @@
 ---
 title: AI会犯错，真的能让它承担核心业务吗？丨ANC再认识AI风险
 date: 2026-09-05
-draft: true
+draft: false
 coverKeyword: ANC再认识AI风险
 description: AI会犯错，不等于它只能停留在辅助位置。公司要看AI是否比现有方式带来更好的客户与经营结果，也要看错误发生后能否恢复业务、改掉同类问题。两项都成立，AI才具备成为核心业务主力的经营条件。
 tldr: 判断AI能不能承担核心业务，不能只问它会不会犯错。企业要看AI是否改善客户与经营结果，也要确认错误发生后能否恢复业务、改掉同类问题；多数项目进展顺利，不能掩盖公司无法承担的后果。人工确认只有补充了新信息或完成真实核验才有价值。两项经营条件都成立，才值得让AI继续成为业务主力。
@@ -103,6 +103,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmtm4khn900fz01u4ebww2gda
     uploaded_at: 2026-09-04 06:58
+  blog_published_at: 2026-09-04 11:19
 ---
 # AI会犯错，真的能让它承担核心业务吗？丨ANC再认识AI风险
 
