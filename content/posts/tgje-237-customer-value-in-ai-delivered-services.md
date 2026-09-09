@@ -1,7 +1,7 @@
 ---
 title: 服务改由AI来推进，客户会认可服务价值吗？丨ANC再认识服务价值
 date: 2026-09-10
-draft: true
+draft: false
 coverKeyword: ANC再认识服务价值
 description: 售后运营服务原来由员工跟进，现在主要由AI推进，品牌客户还会认可服务和月度费用吗？本文从同一次续约出发，说明服务公司怎样兑现原有承诺，让品牌核实少等待、少催办的实际好处，再把服务与报价放进客户的选择中比较。服务有用、费用值得与公司成本降低，需要分别讲清。
 tldr: 服务改由AI推进以后，客户仍然可以认可它的价值。原来的联系和跟进继续由服务公司完成，是原有承诺得到履行；与过去相比少了等待和催办，才是新增好处。品牌可以对照改用AI前后的同类换货记录，核实处理是否更及时、自己是否更省心。费用相近但少了催办和等待，就是继续购买的理由；同类服务费用降低，也能让品牌直接受益。服务公司应把月费包含的后续工作、实际改善和报价讲清，让品牌与其他选择比较。公司成本降低，不等于客户必须接受原价，也不要求报价按同样比例下降。
@@ -75,8 +75,8 @@ publish:
     video_vid: null
     video_cover_url: null
     infographic_wx_url: null
-    draft_media_id: lEmH66TSP501Rw-1R2Ao38pLfzZBnNWOhdNOs0Y-cT2ZcOIReBgVMFjV4Mz8EVqu
-    draft_created_at: 2026-09-09 07:18
+    draft_media_id: lEmH66TSP501Rw-1R2Ao3-4_eAaoXsbwYLyKCUrUKjFuZEJtEWv7X_vTSy2L9LwK
+    draft_created_at: 2026-09-09 18:08
     body_image_cache:
       https://p.vibcx.com/x/2026/09/1788909015-02页.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNW1nEEGVTdzQCdDHeXtZY8TYj3AhXeyyiaPoLMPzcsdSKMiaRNiaUV5ZzGSUXN4JAb44w0Ey1kZmUkDaKFKTgygWZgBzqpUJ4hLyo/0?from=appmsg
       https://p.vibcx.com/x/2026/09/1788909061-03页.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNVxEgLY4QJhDBj4ej0ciciahjJYuDUda0tfcictYMT0X4F9nicvryfH2lKZ8heE6UZ6icF2WHBFoicbF3EqapUiavwiaia9jYmcXppyY2ibU/0?from=appmsg
@@ -92,6 +92,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmtt9sbcv0nz001w65u390kuv
     uploaded_at: 2026-09-09 06:58
+  blog_published_at: 2026-09-09 07:19
 ---
 # 服务改由AI来推进，客户会认可服务价值吗？丨ANC再认识服务价值
 
