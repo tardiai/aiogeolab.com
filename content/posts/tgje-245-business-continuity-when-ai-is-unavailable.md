@@ -1,7 +1,7 @@
 ---
 title: AI突然不能用了，公司业务怎么办？丨ANC再认识业务连续性
 date: 2026-09-18
-draft: true
+draft: false
 coverKeyword: ANC再认识业务连续性
 description: AI暂时不能工作，正在进行的业务不能只等技术修复。企业应先确定必须维持的服务，再用繁忙时段的业务演练，检查接手人员和备用安排能否及时完成。AI恢复后，还要从实际进度继续，避免重复和遗漏。
 tldr: |-
@@ -108,6 +108,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmu4qg2e71cql01x7cons3zrt
     uploaded_at: 2026-09-17 07:30
+  blog_published_at: 2026-09-17 10:19
 ---
 # AI突然不能用了，公司业务怎么办？丨ANC再认识业务连续性
 
