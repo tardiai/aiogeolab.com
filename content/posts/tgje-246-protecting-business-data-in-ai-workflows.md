@@ -1,7 +1,7 @@
 ---
 title: AI要用业务数据，怎样防止泄密？丨ANC再认识数据安全
 date: 2026-09-19
-draft: true
+draft: false
 coverKeyword: ANC再认识数据安全
 description: AI做方案和报价需要真实业务资料，保护机密不能只靠全部遮掉或提醒保密。企业应分别确定当前业务能查什么、内部判断需要什么、客户可以收到什么，并让查询和发送功能执行这些限制。脱敏减少不必要的暴露，业务系统也可以使用模型无须直接读取的信息。
 tldr: 
@@ -112,6 +112,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmu662y2p0dhc01z55mcvf0jc
     uploaded_at: 2026-09-18 07:35
+  blog_published_at: 2026-09-18 10:41
 ---
 # AI要用业务数据，怎样防止泄密？丨ANC再认识数据安全
 
