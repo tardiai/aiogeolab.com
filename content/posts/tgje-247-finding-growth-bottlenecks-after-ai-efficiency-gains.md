@@ -1,7 +1,7 @@
 ---
 title: AI提高了效率，为什么公司的业务还是做不大？丨ANC再认识增长瓶颈
 date: 2026-09-20
-draft: true
+draft: false
 coverKeyword: ANC再认识增长瓶颈
 description: AI出稿更快，公司却不一定能完成更多业务。下一笔增长投入应从实际需求、等待和返工记录中找方向：查清哪些问题阻碍业务增加，针对原因改进，再看按约定完成的付费业务是否增加、投入是否值得，而不是持续加速已经足够快的环节。
 tldr: |-
@@ -98,6 +98,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmu7k095q08rm01x9af2o1xwm
     uploaded_at: 2026-09-19 06:53
+  blog_published_at: 2026-09-19 07:10
 ---
 # AI提高了效率，为什么公司的业务还是做不大？丨ANC再认识增长瓶颈
 
