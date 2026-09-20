@@ -1,7 +1,7 @@
 ---
 title: AI升级后，怎样避免原有业务出问题？丨ANC再认识能力更新
 date: 2026-09-21
-draft: true
+draft: false
 coverKeyword: ANC再认识能力更新
 description: AI学会了处理新任务，原来的业务怎样继续做好？从一次用车安排升级出发，说明如何把正常业务与已解决的问题留成可重复的检查，分清回归测试与自动化测试，并用检查结果决定新版可以承担哪些业务。
 tldr: |-
@@ -106,6 +106,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmu8ydmll0w9201z57dky59af
     uploaded_at: 2026-09-20 06:23
+  blog_published_at: 2026-09-20 06:34
 ---
 # AI升级后，怎样避免原有业务出问题？丨ANC再认识能力更新
 
