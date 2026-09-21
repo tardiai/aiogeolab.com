@@ -1,7 +1,7 @@
 ---
 title: 客户让AI来询价、下单，企业服务该怎么应对？丨ANC再认识交易方式
 date: 2026-09-22
-draft: true
+draft: false
 coverKeyword: ANC再认识交易方式
 description: 客户把询价、下单和跟进交给AI后，企业不能只提供介绍页面。沿一笔设备租赁需求，说明怎样提供有效的业务信息、按可验证授权接受办理，并让客户的AI查询订单进度与实际结果。企业可以先选一项常用业务，与实际客户AI对接验证。
 tldr: 
@@ -101,6 +101,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmuae9xq102po01x7fenlazpl
     uploaded_at: 2026-09-21 06:36
+  blog_published_at: 2026-09-21 06:55
 ---
 # 客户让AI来询价、下单，企业服务该怎么应对？丨ANC再认识交易方式
 
