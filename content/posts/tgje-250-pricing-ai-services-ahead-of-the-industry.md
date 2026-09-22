@@ -1,7 +1,7 @@
 ---
 title: 同行还主要靠人工，先用AI的企业该怎样定价？丨ANC再认识定价策略
 date: 2026-09-23
-draft: true
+draft: false
 coverKeyword: ANC再认识定价策略
 description: 同行还主要靠人工，率先用AI降低了交付成本，企业该跟着降价，还是维持原来的报价？本文以一家维护多语言产品资料的服务公司为综合设想，说明客户可选择的同类服务、客户认可的价值与自身完整成本分别起什么作用，再讨论怎样根据经营目标，把成本优势用于利润、客户增长或服务改善。
 tldr: |-
@@ -102,6 +102,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmubu55xz0lii01x786841hdq
     uploaded_at: 2026-09-22 06:50
+  blog_published_at: 2026-09-22 07:00
 ---
 # 同行还主要靠人工，先用AI的企业该怎样定价？丨ANC再认识定价策略
 
