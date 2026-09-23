@@ -1,7 +1,7 @@
 ---
 title: 客户自己也能用AI了，为什么还要购买我们的服务？丨ANC再认识购买理由
 date: 2026-09-24
-draft: true
+draft: false
 coverKeyword: ANC再认识购买理由
 description: 客户已经用AI做出了可用成果，原来的服务还值得继续购买吗？本文从一次多语言产品资料维护的续约讨论出发，认真比较客户自己办理与购买服务的不同安排，说明公司怎样保留仍有需要的工作、缩小服务范围，或接受客户自行接手。
 tldr: |-
@@ -103,6 +103,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmud8glx10b4w01uvcmb9bvuq
     uploaded_at: 2026-09-23 06:16
+  blog_published_at: 2026-09-23 06:33
 ---
 # 客户自己也能用AI了，为什么还要购买我们的服务？丨ANC再认识购买理由
 
