@@ -1,7 +1,7 @@
 ---
 title: 企业用AI做业务，该自己建，还是买现成产品？丨ANC再认识建设选择
 date: 2026-09-26
-draft: true
+draft: false
 coverKeyword: ANC再认识建设选择
 description: AI辅助编程降低部分实现负担，还不足以单独决定自建。沿一项交付改动，比较产品能否方便地承接后续变化、公司能否组织开发，看清自主安排修改的价值，以及哪些部分继续采购更合适。
 tldr: 
@@ -109,6 +109,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmug5em0l0f5v01u6aj48g8d2
     uploaded_at: 2026-09-25 07:14
+  blog_published_at: 2026-09-25 10:34
 ---
 # 企业用AI做业务，该自己建，还是买现成产品？丨ANC再认识建设选择
 
