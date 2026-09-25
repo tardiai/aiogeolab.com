@@ -4,11 +4,11 @@ date: 2026-09-22
 draft: false
 coverKeyword: ANC再认识交易方式
 description: 客户把询价、下单和跟进交给AI后，企业不能只提供介绍页面。沿一笔设备租赁需求，说明怎样提供有效的业务信息、按可验证授权接受办理，并让客户的AI查询订单进度与实际结果。企业可以先选一项常用业务，与实际客户AI对接验证。
-tldr: 
-  -   客户的AI会根据查询结果补齐信息、判断方案并继续办理。企业需要支持这种使用方式，而不只是让设备介绍更容易被找到。
-  -   日期对应的可用数量、完整费用和租赁条件，要来自当前有效的业务记录。客户专属价格按身份权限提供。
-  -   公司通过可验证的客户身份和授权接受办理，提供订单信息及后续进度。客户的AI据实跟进，不把订单确认当成设备已经送达。
-  -   从一项条件清楚、重复发生的业务开始，先对接一个实际使用的客户AI，在测试环境验证完整办理，再根据真实使用情况决定是否扩大。
+tldr:
+  客户的AI会根据查询结果补齐信息、判断方案并继续办理。企业需要支持这种使用方式，而不只是让设备介绍更容易被找到。
+  日期对应的可用数量、完整费用和租赁条件，要来自当前有效的业务记录。客户专属价格按身份权限提供。
+  公司通过可验证的客户身份和授权接受办理，提供订单信息及后续进度。客户的AI据实跟进，不把订单确认当成设备已经送达。
+  从一项条件清楚、重复发生的业务开始，先对接一个实际使用的客户AI，在测试环境验证完整办理，再根据真实使用情况决定是否扩大。
 tags:
   - 交易方式
   - ANC
@@ -45,46 +45,33 @@ publish:
   slug: tgje-249-serving-customers-through-their-ai-agents
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
-    audiocover: null
+    cover_img:
+    video:
+    infographic:
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-249-serving-customers-through-their-ai-agents-别让公司在AI眼中隐形.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint.pdf
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint.pdf
     slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/11页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI
-      Agent Transaction Blueprint/12页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/01页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/02页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/03页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/04页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/05页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/06页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/07页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/08页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/09页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/10页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/11页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-249-serving-customers-through-their-ai-agents-AI Agent Transaction Blueprint/12页.png
   cdn:
-    infographic_url: null
-    infographic_1280: null
+    infographic_url:
+    infographic_1280:
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao336v1N2mJBA0a8Dz1C2U4HN7gl7lbCviHmVp3Cov3a9p
-    video_vid: null
-    video_cover_url: null
-    infographic_wx_url: null
+    video_vid:
+    video_cover_url:
+    infographic_wx_url:
     draft_media_id: lEmH66TSP501Rw-1R2Ao32EyOh8rB4sU2lbT9cPz65h6JqqK8CfhIlzVCkf8e34e
     draft_created_at: 2026-09-21 06:55
     body_image_cache:
@@ -95,7 +82,7 @@ publish:
       https://p.vibcx.com/x/2026/09/1789944653-10页.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNX09V5ic6BROtrFhMn89HrrYdibjf3aWPtpRtnKDBdwicibichQbAktpu87CZz9FQV5giaKPnUYpSZoq7YRHHicz5wrraIEILiaElYylkU/0?from=appmsg
       https://p.vibcx.com/x/2026/09/1789944665-11页.png: http://mmbiz.qpic.cn/sz_mmbiz_png/nzSUaViczUNUCU9NTn8cYbhHYWn9NMBjohml4dHuWow4odl32vDlHytSbK3iclNhTUibny6PoX8Wv2Md6laWrlWZbGOOtffA7jsGsX2aYw88t8/0?from=appmsg
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
   firstory:

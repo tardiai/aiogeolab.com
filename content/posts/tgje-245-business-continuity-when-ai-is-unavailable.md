@@ -4,11 +4,11 @@ date: 2026-09-18
 draft: false
 coverKeyword: ANC再认识业务连续性
 description: AI暂时不能工作，正在进行的业务不能只等技术修复。企业应先确定必须维持的服务，再用繁忙时段的业务演练，检查接手人员和备用安排能否及时完成。AI恢复后，还要从实际进度继续，避免重复和遗漏。
-tldr: |-
-  -   AI中断不等于印刷、运输等已有安排全部停止。优先处理的是不能耽误、又缺少后续协调的交付。
-  -   服务优先级来自客户承诺、时间要求和延误后果。暂缓处理影响已有约定时，要与客户沟通协调。
-  -   接手人员既要看见当前进度、能够采取行动，也要有时间完成必要工作。用代表性繁忙时段演练，才能检验安排是否够用。
-  -   AI恢复后应接着人工处理后的最新进度跟进，不能重新派车，也不能让双方都以为对方正在负责。
+tldr:
+  AI中断不等于印刷、运输等已有安排全部停止。优先处理的是不能耽误、又缺少后续协调的交付。
+  服务优先级来自客户承诺、时间要求和延误后果。暂缓处理影响已有约定时，要与客户沟通协调。
+  接手人员既要看见当前进度、能够采取行动，也要有时间完成必要工作。用代表性繁忙时段演练，才能检验安排是否够用。
+  AI恢复后应接着人工处理后的最新进度跟进，不能重新派车，也不能让双方都以为对方正在负责。
 tags:
   - ANC
   - FDE落地工程
@@ -44,52 +44,36 @@ publish:
   slug: tgje-245-business-continuity-when-ai-is-unavailable
   status: wx_draft_created
   paths:
-    cover_img: null
-    video: null
-    infographic: null
-    audiocover: null
+    cover_img:
+    video:
+    infographic:
+    audiocover:
     audio: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/Audio/tgje-245-business-continuity-when-ai-is-unavailable-AI宕机后的商业生存演练.mp3
-    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity.pdf
+    slides: /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity.pdf
     slides_images:
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/01页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/02页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/03页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/04页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/05页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/06页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/07页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/08页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/09页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/10页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/11页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/12页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/13页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/14页.png
-    - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI
-      Native Business Continuity/15页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/01页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/02页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/03页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/04页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/05页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/06页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/07页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/08页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/09页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/10页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/11页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/12页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/13页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/14页.png
+      - /Users/wyh/baidusync/OneAILtd/aiogeolab.com/myfiles/ppt/tgje-245-business-continuity-when-ai-is-unavailable-AI Native Business Continuity/15页.png
   cdn:
-    infographic_url: null
-    infographic_1280: null
+    infographic_url:
+    infographic_1280:
   wechat:
     cover_media_id: lEmH66TSP501Rw-1R2Ao30ZpqoOlIvuSMqAvZtxYWaIjTzllA6NmY4_fj7rUDE4j
-    video_vid: null
-    video_cover_url: null
-    infographic_wx_url: null
+    video_vid:
+    video_cover_url:
+    infographic_wx_url:
     draft_media_id: lEmH66TSP501Rw-1R2Ao3245WUlZfwDL2A1w7RhDOl9tSGks2dvDcG9KHNdxjhLC
     draft_created_at: 2026-09-17 10:18
     body_image_cache:
@@ -102,7 +86,7 @@ publish:
       https://p.vibcx.com/x/2026/09/1789611026-13页.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNWglPC8YhdicLJqxiccnicT3DiaFZ8icRmWO916ibetL5MG868NUtwqeE8Bt8s8P3jX9h2ZyOPz9LLIZQ3f33ZI0TFY282I2UDmM87WE/0?from=appmsg
       https://p.vibcx.com/x/2026/09/1789611090-14页.png: http://mmbiz.qpic.cn/mmbiz_png/nzSUaViczUNXsNVmY7qGxOhfuxHtFeobibxV6saJfiaKECx3e5nHKjN8tDbgU22wVibCymQVCBb9s1S6bsuhHicv6QTkSRjzAs9lPo3egpX9dz2E/0?from=appmsg
   wx_article:
-    digest: null
+    digest:
     original: false
     comment: true
   firstory:

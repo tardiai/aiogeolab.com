@@ -1,7 +1,7 @@
 ---
 title: AI让定制更容易，客户的新要求都该接吗？丨ANC再认识业务取舍
 date: 2026-09-25
-draft: true
+draft: false
 coverKeyword: ANC再认识业务取舍
 description: 客户提出新的报表要求，团队用AI很快做出了样例，这笔业务就该接吗？本文以设备租赁公司的接单讨论为综合设想，沿一次记录差异看清持续核对需要的工作，再讨论收入、人员安排与原有承诺怎样影响决定。值得做的单客定制可以接，也可以调整条件、有限试做，或暂时不接。
 tldr: |-
@@ -97,6 +97,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmuenpsqv07m901uve0vk19ow
     uploaded_at: 2026-09-24 06:11
+  blog_published_at: 2026-09-25 06:56
 ---
 # AI让定制更容易，客户的新要求都该接吗？丨ANC再认识业务取舍
 
