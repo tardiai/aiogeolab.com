@@ -1,7 +1,7 @@
 ---
 title: Shopify为什么让员工在公开频道里与AI一起工作丨让人与AI共享工作上下文
 date: 2026-09-27
-draft: true
+draft: false
 coverKeyword: 让人与AI共享工作上下文
 description: 电商平台企业Shopify让内部AI助手River在Slack工作沟通工具中参与讨论。员工聊完功能，可以请它总结、创建任务或制作原型。为何只让它在开放频道工作？从同事观察AI用法的安排，看团队如何与AI共享工作背景。
 tldr: |-
@@ -98,6 +98,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmuhjkyua0hfe01uv6mpb98b7
     uploaded_at: 2026-09-26 06:39
+  blog_published_at: 2026-09-26 06:50
 ---
 # Shopify为什么让员工在公开频道里与AI一起工作丨让人与AI共享工作上下文
 
