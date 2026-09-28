@@ -1,7 +1,7 @@
 ---
 title: Shopify为什么把有些AI产出叫作“垃圾手榴弹”丨别让同事成为你的接盘侠
 date: 2026-09-28
-draft: true
+draft: false
 coverKeyword: AI垃圾手榴弹
 description: Shopify创始人Tobi谈到一种反常的偷懒：产出太多。AI生成的代码没认真读就交给同事，冗长邮件又被接收者用AI压缩。两种情形提醒企业，交付前应完成必要处理，判断提效也要看同事能否据此继续工作。
 tldr: |-
@@ -96,6 +96,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmuizqc6m0x1001u6a2ze4t5n
     uploaded_at: 2026-09-27 06:58
+  blog_published_at: 2026-09-27 07:09
 ---
 # Shopify为什么把有些AI产出叫作“垃圾手榴弹”丨别让同事成为你的接盘侠
 
