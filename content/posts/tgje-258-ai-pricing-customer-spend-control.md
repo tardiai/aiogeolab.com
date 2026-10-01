@@ -1,7 +1,7 @@
 ---
 title: AI越来越能干，但企业越来越不敢放手让它干丨AI费用的可控性
 date: 2026-10-01
-draft: true
+draft: false
 coverKeyword: AI费用的可控性
 description: AI服务增加新功能，员工用起来，企业的额度消耗也可能超过原先预计。Atlassian CEO把AI额度与日志、存储的用量作了对比：后者的投入量较容易由客户自己决定，前者未必如此。Atlassian另在9月公布用量可见、接近限额提醒及按计量项设置额外使用的安排。文章讨论供应商怎样在推出新功能时交代费用影响，让客户更敢扩大使用。
 tldr: AI服务越容易进入日常工作，企业越需要提前知道额度怎样消耗。Atlassian公布的安排让管理员查看用量、接收提醒，并按计量项控制超额使用：继续使用会产生额外费用，设限或关闭额外使用则可能暂停受影响的计量能力。供应商增加新功能时，还应同步说明它会怎样消耗额度、客户在哪里调整设置。该安排尚不能作为客户采用效果的证明。
@@ -88,6 +88,7 @@ publish:
   firstory:
     embed_url: https://open.firstory.me/embed/story/cmunnszmz07vg01uwh1yvhmgm
     uploaded_at: 2026-09-30 13:25
+  blog_published_at: 2026-09-30 13:32
 ---
 # AI越来越能干，但企业越来越不敢放手让它干丨AI费用的可控性
 
